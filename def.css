@@ -1,0 +1,41 @@
+#post{
+}
+#header{
+    /*background-color: #698db3;*/
+    text-color: white;
+    size: 100%;
+    text-align: center;
+}
+#footer{
+    background-color: #ffffff;
+    text-color: white;
+    text-align: center;
+}
+
+code { background-color: gray }
+
+html {
+   background-color: white;
+}
+
+body { 
+    background-color: #cedbe5;
+    width: 99%;
+    margin-top: 10px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    border: solid #a0a0a0 1px ;
+    border-radius: 10px ;
+}
+#post_list {
+   
+}
+img {
+   max-width: 100%;
+}
+hr {
+    width: 100%;
+    color: black;
+    height: 3px;
+    background-color: black;
+}
