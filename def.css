@@ -18,15 +18,6 @@ html {
    background-color: white;
 }
 
-body { 
-    background-color: #cedbe5;
-    width: 99%;
-    margin-top: 10px;
-    margin-left: 0.5%;
-    margin-right: 0.5%;
-    border: solid #a0a0a0 1px ;
-    border-radius: 10px ;
-}
 #post_list {
    
 }
@@ -38,4 +29,14 @@ hr {
     color: black;
     height: 3px;
     background-color: black;
+}
+body{
+    width: 70%;
+    align: center;
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #ffcc99;
+    border: solid #a0a0a0 1px ;
+    border-radius: 10px ;
 }
