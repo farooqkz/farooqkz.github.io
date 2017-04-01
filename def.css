@@ -1,9 +1,9 @@
-#post{
+/*#post{
 }
 #header{
-    /*background-color: #698db3;*/
     text-color: white;
     size: 100%;
+    height: 100%;
     text-align: center;
 }
 #footer{
@@ -39,4 +39,4 @@ body{
     background-color: #ffcc99;
     border: solid #a0a0a0 1px ;
     border-radius: 10px ;
-}
+}*/
