@@ -4,13 +4,39 @@
       <title>Farooq's Website | Files</title>
       <link rel="stylesheet" href="../def.css" type="text/css">
       <link rel="stylesheet" href="../w3.css" type="text/css">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
    </head>
    <style>
-        #_tbl{
-            align: center;
-            width: 70%;
+        .files_table{ /* actually this class is for a set of divs */
+
+        }
+        .filename_col{
+            float: left;
+            width: 50%
+        }
+        .desc_col{
+            width: 45%;
+            float: left;
+        }
+        .size_col{
+            float: right;
+            width: 5%;
+        }
+        .row_0{
             
+        }
+        .file_row{
+            
+        }
+        @media (max-width: 800px){
+            .row_0{
+                display: none;
+            }
+            .filename_col{float: none;}
+            .desc_col{float: none;}
+            .size_col{float: none;}
+            .file_row{ padding-top: 2%; padding-bottom: 2%; } 
+
         }
    </style>
    <body>
@@ -25,41 +51,44 @@
          
        </header>
   
-     <table class="w3-table w3-margin w3-margin-right">
-     <tr class="w3-green">
-     <td><b>File Name</b></td>
-     <td><b>Description</b></td>
-     <td><b>Size</b></td>
-     <td><b>Md5sum</b></td>
-     </tr>
-     <tr>
-       <td><a href="farooghkz.NorthBot_1.0.jar">farooghkz.NorthBot_1.0.jar</a></td>
-       <td>NorthBot, binary + source code</td>
-       <td>2.4KB</td>
-       <td>4b4472d8d980c99b3122c2211d98e5d0</td>
-     </tr>
-     <tr>
-     <td><a href="robocode-1.9.2.6-setup.jar">robocode-1.9.2.6-setup.jar</a></td><td>Robocode
-     1.9.2.6 (mirror)</td>
-     <td>5.8MB</td>
-     <td>c247746da8dc0bc338254e4ebb31e5f1</td>
-     </tr>
-     <tr>
-        <td><a href="LFS-Persian.pdf">LFS-Persian.pdf</a></td>
-        <td>Linux from Scratch in persian</td>
-        <td>334KB</td>
-        <td>277598a71b9ed498719aa18410078975</td>
-     </tr>
-     <tr>
-        <td><a href="FLAPSCII.ZIP">FLAPSCII.ZIP</a></td>
-        <td><a href="http://www.grahamdowney.com">Graham Downey</a>'s Flapscii
+     <div class="w3-container w3-margin-bottom">
+     <div class="w3-panel w3-green row_0">
+        <div class="filename_col"><b>File Name</b></div>
+        <div class="desc_col"><b>Description</b></div>
+        <div class="size_col"><b>Size</b></div>
+     </div>
+     <div class="file_row">
+       <div class="filename_col">
+        <a href="farooghkz.NorthBot_1.0.jar">farooghkz.NorthBot_1.0.jar</a>
+       </div>
+       <div class="desc_col">NorthBot, binary + source code</div>
+       <div class="size_col">2.4KB</div>
+     </div>
+     <div class="file_row">
+        <div class="filename_col">
+         <a href="robocode-1.9.2.6-setup.jar">robocode-1.9.2.6-setup.jar</a>
+        </div>
+        <div class="desc_col">Robocode 1.9.2.6 (mirror)</div>
+        <div class="size_col">5.8MB</div>
+     </div>
+     <div class="file_row">
+        <div class="filename_col">
+         <a href="LFS-Persian.pdf">LFS-Persian.pdf</a>
+        </div>
+        <div class="desc_col">Linux from Scratch in Persian</div>
+        <div class="size_col">334KB</div>
+     </div>
+     <div class="file_row">
+        <div class="filename_col"><a href="FLAPSCII.ZIP">FLAPSCII.ZIP</a></div>
+        <div class="desc_col">
+        <a href="http://www.grahamdowney.com">Graham Downey</a>'s Flapscii
         v1.2
-        (mirror)
-        <td>63KB</td>
-        <td>ffbc2a31ca8b3e7e07e0a9e30b1b7c27</td>
-     </tr>
-     </table>    
-        <!-- TODO: more pretty table -->
+        (mirror)</div>
+        <div class="size_col">63KB</div>
+     </div>
+     </div>    
+        <!-- TODO: more pretty table. UPDATE: TODO removed, table is pretty
+        enough!-->
         <footer class="w3-container w3-teal w3-center">
             <a href="../friends.html">Friends</a> |
             <a href="../donate.html">Donate</a> |
