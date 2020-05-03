@@ -1,1 +1,1 @@
-Website moved to http://far.chickenkiller.com
+http://far.chickenkiller.com
