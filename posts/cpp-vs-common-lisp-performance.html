@@ -56,71 +56,68 @@ int main() {
 }</code></pre>
 
 <p>And the time this program took to find all prime numbers in the given range without
-optimizing(<code>clang++ prime.cpp</code>):
-<code>
-real    1m2.907s
+optimizing(<code>clang++ prime.cpp</code>):</p>
+
+<pre><code>real    1m2.907s
 user    1m2.816s
-sys 0m0.084s
-</code>
-And with <code>-O3</code> option:
-<code>
-real    0m54.604s
+sys 0m0.084s</code></pre>
+
+<p>And with <code>-O3</code> option:</p>
+
+<pre><code>real    0m54.604s
 user    0m54.566s
-sys 0m0.008s
-</code></p>
+sys 0m0.008s</code></pre>
 
 <h4>Common Lisp untyped</h4>
 
-<p>Code:
-```common-lisp
-(defun isprime (n)
-  (if (&lt; n 2)
+<p>Code:</p>
+
+<pre><code><span class="code"><span class="paren1">(<span class="code"><i><span class="symbol">defun</span></i> isprime <span class="paren2">(<span class="code">n</span>)</span>
+  <span class="paren2">(<span class="code"><i><span class="symbol">if</span></i> <span class="paren3">(<span class="code">&lt; n 2</span>)</span>
       nil
-      (loop for i from 2 to (1- n)
-        when (zerop (mod n i))
+      <span class="paren3">(<span class="code"><i><span class="symbol">loop</span></i> for i from 2 to <span class="paren4">(<span class="code">1- n</span>)</span>
+        when <span class="paren4">(<span class="code">zerop <span class="paren5">(<span class="code">mod n i</span>)</span></span>)</span>
           return nil
         finally
-           (return t))))</p>
+           <span class="paren4">(<span class="code">return t</span>)</span></span>)</span></span>)</span></span>)</span>
 
-<p>(defun main ()
-  (loop for i from 2 to 384460 count (isprime i)))</p>
+<span class="paren1">(<span class="code"><i><span class="symbol">defun</span></i> main <span class="paren2">(<span class="code"></span>)</span>
+  <span class="paren2">(<span class="code"><i><span class="symbol">loop</span></i> for i from 2 to 384460 count <span class="paren3">(<span class="code">isprime i</span>)</span></span>)</span></span>)</span>
 
-<p>(main)
-<code>
-And the time it took:
-</code>
-real    2m0.889s
+<span class="paren1">(<span class="code">main</span>)</span></span></code></pre>
+
+<p>And the time it took:</p>
+
+<pre><code>real    2m0.889s
 user    2m0.805s
-sys 0m0.078s
-```</p>
+sys 0m0.078s</code></pre>
 
 <h4>Common Lisp typed and optimized</h4>
 
-<p>Code:
-```common-lisp
-(declaim (optimize (speed 3) (safety 0) (debug 0)))</p>
+<p>Code:</p>
 
-<p>(defun isprime (n)
-  (declare (type fixnum n))
-  (if (&lt; n 2)
+<pre><code><span class="code"><span class="paren1">(<span class="code">declaim <span class="paren2">(<span class="code">optimize <span class="paren3">(<span class="code">speed 3</span>)</span> <span class="paren3">(<span class="code">safety 0</span>)</span> <span class="paren3">(<span class="code">debug 0</span>)</span></span>)</span></span>)</span>
+
+<span class="paren1">(<span class="code"><i><span class="symbol">defun</span></i> isprime <span class="paren2">(<span class="code">n</span>)</span>
+  <span class="paren2">(<span class="code">declare <span class="paren3">(<span class="code">type fixnum n</span>)</span></span>)</span>
+  <span class="paren2">(<span class="code"><i><span class="symbol">if</span></i> <span class="paren3">(<span class="code">&lt; n 2</span>)</span>
       nil
-      (loop for i fixnum from 2 to (1- n)
-        when (zerop (mod n i))
+      <span class="paren3">(<span class="code"><i><span class="symbol">loop</span></i> for i fixnum from 2 to <span class="paren4">(<span class="code">1- n</span>)</span>
+        when <span class="paren4">(<span class="code">zerop <span class="paren5">(<span class="code">mod n i</span>)</span></span>)</span>
           return nil
         finally
-           (return t))))</p>
+           <span class="paren4">(<span class="code">return t</span>)</span></span>)</span></span>)</span></span>)</span>
 
-<p>(defun main ()
-  (loop for i fixnum from 2 to 384460 count (isprime i)))</p>
+<span class="paren1">(<span class="code"><i><span class="symbol">defun</span></i> main <span class="paren2">(<span class="code"></span>)</span>
+  <span class="paren2">(<span class="code"><i><span class="symbol">loop</span></i> for i fixnum from 2 to 384460 count <span class="paren3">(<span class="code">isprime i</span>)</span></span>)</span></span>)</span>
 
-<p>(main)
-<code>
-And the time it took:
-</code>
-real    0m59.837s
+<span class="paren1">(<span class="code">main</span>)</span></span></code></pre>
+
+<p>And the time it took:</p>
+
+<pre><code>real    0m59.837s
 user    0m59.755s
-sys 0m0.070s
-```</p>
+sys 0m0.070s</code></pre>
 
 <p>As you see according to these results CL typed and optimized code is a bit
 slower than the C++ version. However someone who helped me a lot in <code>#clschool</code> on
