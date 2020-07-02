@@ -49,10 +49,13 @@ All programs were run on my laptop with the following specs and properties:</p>
     return true;
 }
 int main() {
+    unsigned count = 0;
     for (unsigned long i = 2; i &lt;= 384460; i++) {
-        isprime(i);
+        if (isprime(i)) {
+            count++;
+        }
     }
-    return 0;
+    return count;
 }</code></pre>
 
 <p>And the time this program took to find all prime numbers in the given range without
@@ -67,6 +70,12 @@ sys 0m0.084s</code></pre>
 <pre><code>real    0m54.604s
 user    0m54.566s
 sys 0m0.008s</code></pre>
+
+<p>Also with <code>-O2</code> option:</p>
+
+<pre><code>real    0m53.953s
+user    0m53.953s
+sys 0m0.000s</code></pre>
 
 <h4>Common Lisp untyped</h4>
 
