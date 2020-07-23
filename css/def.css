@@ -53,3 +53,13 @@ img {
     margin-left: 2%;
 }
 
+html {
+    background-color: black;
+}
+
+body {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: khaki;
+}
