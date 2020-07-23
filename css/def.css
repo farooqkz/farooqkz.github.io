@@ -63,3 +63,10 @@ body {
     margin-right: 25% !important;
     background-color: khaki;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+        width: 100%;
+        margin: 0;
+    }
+}
