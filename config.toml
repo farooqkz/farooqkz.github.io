@@ -1,0 +1,22 @@
+baseURL = 'http://far.chickenkiller.com/'
+languageCode = 'en-us'
+title = "FarooqKZ's site"
+theme = "vitae"
+
+
+
+[markup]
+  [markup.highlight]
+	anchorLineNos = false
+	codeFences = true
+	guessSyntax = false
+	hl_Lines = ''
+	lineAnchors = ''
+	lineNoStart = 1
+	lineNos = false
+	lineNumbersInTable = true
+	noClasses = true
+	style = 'monokai'
+	tabWidth = 4
+
+
