@@ -3,7 +3,10 @@ languageCode = 'en-us'
 title = "FarooqKZ's site"
 theme = "vitae"
 
-
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/farooqkz"
 
 [markup]
   [markup.highlight]
