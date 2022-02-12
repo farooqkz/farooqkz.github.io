@@ -21,3 +21,9 @@ Quran is not about CS or Mathematics but still a very deep text. To understand a
  - **Read and research on similar ayat.** There are topics which Quran talks about them in various places. For example it talks about story of Moses and the King of Egypt, Pharaoh, in multiple Surat such as Taha(20th Surah) and Jonah or Yunes which is the 10th Surah. Sometimes an ayah or a series of ayat explain what a single ayah does not. As an example you may not know what does 73:15 talk about just by reading this single ayah. E.g. Who was that messenger?
 
  - **Read and research on Hadiths.** There are topics which the Hadiths, Muhammad's sayings and doings, explain about. It's always good to do a text search on different Hadith books such as Sahih Bukhari or Sahih Muslim or other books.
+
+Please email me any comment you have:
+
+```
+fkz at riseup dot net
+```
