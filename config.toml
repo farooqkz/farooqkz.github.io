@@ -1,7 +1,11 @@
 baseURL = 'http://far.chickenkiller.com/'
 languageCode = 'en-us'
-title = "FarooqKZ's site"
+title = "Farooq's site"
 theme = "vitae"
+paginate = 7
+enableRobotsTXT = true
+
+copyright = "(C) All rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh"
 
 [[params.social]]
 name = "Github"
@@ -22,4 +26,28 @@ url = "https://github.com/farooqkz"
 	style = 'monokai'
 	tabWidth = 4
 
+[params]
+  keywords = ["Farooq", "Farooq Karimi Zadeh", "farooqkz"]
+  math = true
+  favicon = true
+  avatar = "/mylogo0.png"
 
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Math"
+url = "/math"
+weight = 2
+
+[[menu.main]]
+name = "Computer Science"
+url = "/computer"
+weight = 3
+
+[[menu.main]]
+name = "Religion"
+url = "/religion"
+weight = 4
