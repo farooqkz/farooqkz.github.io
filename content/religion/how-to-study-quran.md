@@ -17,7 +17,7 @@ If you had pleasure to read a mathematics or computer science text, you would kn
 
 Quran is not about CS or Mathematics but still a very deep text. To understand a sentence in Quran these tips can help:
 
- - **Know the words. Every single word matters.** A word may have multiple meanings in Arabic. Just like in English but sometimes worse, perhaps a lot worse. Also sometimes a word in Arabic can be so precise. Like there is a word in Arabic which means a number from 6 to 9(see the beginning of the Surah or Chapter Rome).
+ - **Know the words. Every single word matters.** A word may have multiple meanings in Arabic. Just like in English but sometimes worse, perhaps a lot worse. Also sometimes a word in Arabic can be so precise. Like there is a word in Arabic which means a number from 6 to 9(see the beginning of the Surah (or Chapter) Rome).
 
  - **Read and research on similar ayat.** There are topics which Quran talks about them in various places. For example it talks about story of Moses and the King of Egypt, Pharaoh, in multiple Surat such as Taha(20th Surah) and Jonah or Yunes which is the 10th Surah. Sometimes an ayah or a series of ayat explain what a single ayah does not. As an example you may not know what does 73:15 talk about just by reading this single ayah. E.g. Who was that messenger?
 
