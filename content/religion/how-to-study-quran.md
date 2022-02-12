@@ -9,9 +9,9 @@ to their prophet from Allah or God(the former is the special name for God in Ara
 
 In this post, I share my thoughts as an amateur Quran researcher for others in the hope that these notes would be useful for others. I have not got any certificate or anything from religious schools or whatever. I am a simple programmer(Python and Javascript mostly) who sometimes does some research on this text.
 
-Quran is like a deep ocean. It is large amount of text but also very deep. If there is something in nature which can be compared to Quran, it would be a deep and big ocean.
+Quran is like a deep ocean. If there is something in nature which can be compared to Quran, it would be a deep and big ocean.
 
-If you had pleasure to read a mathematics or computer science text, you would know that you may not understand a text by reading it once or twice. Sometimes even reading a lot of times will not help. But when you you learn a mathematical concept in a chapter and read about it again in the other chapter, that's what helps you understand it much better.
+If you had pleasure to read a mathematics or computer science text, you would know that you may not understand a text by reading it once or twice. Sometimes even reading *a lot* will not help. But when you you learn a mathematical concept in a chapter and read about it again in the other chapter, that's what helps you understand it much better.
 
 Quran is not about CS or Mathematics but still a very deep text. To understand a sentence in Quran these tips can help:
 
