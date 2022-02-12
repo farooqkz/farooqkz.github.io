@@ -7,8 +7,7 @@ draft: false
 Quran is a text and book which Muslims, followers of the one who claimed to be a prophet named Muhammad, believe about 1400 years ago it was sent down
 to their prophet from Allah or God(the former is the special name for God in Arabic).
 
-In this post, I share my thoughts as an amateur Quran researcher for the
-others in the hope that these notes would be useful for the others. I have not got any certificate or anything from religious schools or whatever. I am a simple programmer(Python and Javascript mostly) who sometimes does some research on this text.
+In this post, I share my thoughts as an amateur Quran researcher for others in the hope that these notes would be useful for others. I have not got any certificate or anything from religious schools or whatever. I am a simple programmer(Python and Javascript mostly) who sometimes does some research on this text.
 
 Quran is like a deep ocean. It is large amount of text but also very deep. If there is something in nature which can be compared to Quran, it would be a deep and big ocean.
 
