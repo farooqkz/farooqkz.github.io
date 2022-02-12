@@ -4,7 +4,7 @@ date: 2022-02-12T15:30:50+03:30
 draft: false 
 ---
 
-Quran is a text which Muslims, followers of the one who claimed to be a prophet named Muhammad, believe about 1400 years ago it was sent down
+Quran is a text and book which Muslims, followers of the one who claimed to be a prophet named Muhammad, believe about 1400 years ago it was sent down
 to their prophet from Allah or God(the former is the special name for God in Arabic).
 
 In this post, I share my thoughts as an amateur Quran researcher for the
