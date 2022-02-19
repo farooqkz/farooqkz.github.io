@@ -51,3 +51,8 @@ weight = 3
 name = "Religion"
 url = "/religion"
 weight = 4
+
+[[menu.main]]
+name = "Other"
+url = "/other"
+weight = 5
