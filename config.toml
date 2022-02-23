@@ -12,6 +12,10 @@ name = "Github"
 icon = "fab fa-github"
 url = "https://github.com/farooqkz"
 
+[[params.social]]
+name = "Mastodon"
+url = "https://qoto.org/@farooqkz"
+
 [markup]
   [markup.highlight]
 	anchorLineNos = false
