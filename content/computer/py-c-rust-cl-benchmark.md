@@ -16,7 +16,7 @@ This benchmark will hopefully indicate which language is more optimized for recu
 
 I have the same computer as I had when benchmarking C++ versus Common Lisp years ago except that I've added an extra 4GB Memory module. But for the sake of clearness I am putting my neofetch again:
 
-![Specs of Farooq's laptop](/farooq-laptop-specs-1.png)
+![Specs of Farooq's laptop](/farooqs-laptop-specs-1.png)
 
 ## Python
 
@@ -220,11 +220,11 @@ sys	0m0.008s
 
 In order from fastest to slowest:
 
- - GCC with -O2: 0.230s
- - clang with -O2: 0.257s
- - Rust with optimization flag: 0.265s
- - Common Lisp typed with SBCL: 0.765s
- - PyPy3: 1.332s
- - Common Lisp untyped with SBCL: 2.081s
- - Python3.8: 20.983s
+ - GCC with -O2: **0.230s**
+ - clang with -O2: **0.257s**
+ - Rust with optimization flag: **0.265s**
+ - Common Lisp typed with SBCL: **0.765s**
+ - PyPy3: **1.332s**
+ - Common Lisp untyped with SBCL: **2.081s**
+ - Python3.8: **20.983s**
 
