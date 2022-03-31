@@ -1,0 +1,122 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><title>A benchmark between Python, C, Rust and Common Lisp for calculating fibonacci series | Farooq's site</title><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=generator content="Hugo 0.96.0"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=keywords content="Farooq,Farooq Karimi Zadeh,farooqkz"><link rel=icon type=image/png href=/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/favicon-16x16.png sizes=16x16><link rel=stylesheet type=text/css media=screen href=/css/normalize.css><link rel=stylesheet type=text/css media=screen href=/css/main.css><link rel=stylesheet type=text/css media=screen href=/css/all.css><link rel=stylesheet href=/css/katex.css crossorigin=anonymous><script defer src=/js/katex.js integrity=sha384-PFWG8XW41D5NzhNv5FegM1CUkw9nNLdWug8DuwnUoNEVop9n5frjcnbtsZtxTNjw crossorigin=anonymous></script>
+<script defer src=/js/auto-render.js integrity=sha384-EN2q+JG5/3Z8gD7hT5WZqq+W+9wQR4P3IezfuZmGG5RkNXaaaks85seDJO7WkZlY crossorigin=anonymous onload=renderMathInElement(document.body)></script>
+<script>document.addEventListener("DOMContentLoaded",function(){renderMathInElement(document.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}]})})</script><meta property="og:title" content="A benchmark between Python, C, Rust and Common Lisp for calculating fibonacci series"><meta property="og:description" content="A few years ago I did a benchmark between Common Lisp and C++ and wrote pieces of code for determining if a number is prime or not. Unlike what most people usually think about Common Lisp, it could be nearly as fast as C++ when you use the typed version of your code and disable safety stuff of SBCL.
+This time, I want to do another benchmark for computing the fibonnaci and I do it without using loops and only with recursions."><meta property="og:type" content="article"><meta property="og:url" content="http://far.chickenkiller.com/computer/py-c-rust-cl-benchmark/"><meta property="article:section" content="computer"><meta property="article:published_time" content="2022-03-31T17:12:35+04:30"><meta property="article:modified_time" content="2022-03-31T17:12:35+04:30"><meta name=twitter:card content="summary"><meta name=twitter:title content="A benchmark between Python, C, Rust and Common Lisp for calculating fibonacci series"><meta name=twitter:description content="A few years ago I did a benchmark between Common Lisp and C++ and wrote pieces of code for determining if a number is prime or not. Unlike what most people usually think about Common Lisp, it could be nearly as fast as C++ when you use the typed version of your code and disable safety stuff of SBCL.
+This time, I want to do another benchmark for computing the fibonnaci and I do it without using loops and only with recursions."><meta itemprop=name content="A benchmark between Python, C, Rust and Common Lisp for calculating fibonacci series"><meta itemprop=description content="A few years ago I did a benchmark between Common Lisp and C++ and wrote pieces of code for determining if a number is prime or not. Unlike what most people usually think about Common Lisp, it could be nearly as fast as C++ when you use the typed version of your code and disable safety stuff of SBCL.
+This time, I want to do another benchmark for computing the fibonnaci and I do it without using loops and only with recursions."><meta itemprop=datePublished content="2022-03-31T17:12:35+04:30"><meta itemprop=dateModified content="2022-03-31T17:12:35+04:30"><meta itemprop=wordCount content="508"><meta itemprop=keywords content></head><body><header><div id=avatar><a href=http://far.chickenkiller.com/><img src=/mylogo0.png alt="Farooq's site"></a></div><div id=titletext><h2 id=titleonly><a href=http://far.chickenkiller.com/>Farooq's site</a></h2></div><div id=title-social><div id=social><nav><ul><li><a href=https://github.com/farooqkz><i title=Github class="icons fab fa-github"></i></a></li><li><a href=https://qoto.org/@farooqkz><i title=Mastodon class=icons></i></a></li><li><a><i title="Switch Dark Mode" class="dark-mode icons fas fa-moon"></i></a></li></ul></nav></div></div><div id=mainmenu><nav><ul><li><a href=/>Home</a></li><li><a href=/math>Math</a></li><li><a href=/computer>Computer Science</a></li><li><a href=/religion>Religion</a></li><li><a href=/other>Other</a></li></ul></nav></div></header><main><div class=post><article><div class=post-header><div class=meta><div class=date><span class=day>31</span>
+<span class=rest>Mar 2022</span></div></div><div class=matter><h1 class=title>A benchmark between Python, C, Rust and Common Lisp for calculating fibonacci series</h1><p class=post-meta><span class=post-meta></span></p></div></div><div class=markdown><p>A few years ago I did <a href=/computer/cpp-vs-common-lisp-performance/>a benchmark between Common Lisp and C++</a>
+and wrote pieces of code for determining if a number is prime or not. Unlike what most people usually think about Common Lisp,
+it could be nearly as fast as C++ when you use the typed version of your code and disable safety stuff of SBCL.</p><p>This time, I want to do another benchmark for computing the fibonnaci and I do it <strong>without using loops and only with recursions</strong>. As an experienced Python developer knows, Python will fail for large inputs because there is a limitation on how many times a function can call itself.</p><p>This benchmark will hopefully indicate which language is more optimized for recursion. Email me if you think I am wrong about this.</p><h2 id=what-is-the-properties-of-the-host-system>What is the properties of the host system?</h2><p>I have the same computer as I had when benchmarking C++ versus Common Lisp years ago except that I&rsquo;ve added an extra 4GB Memory module. But for the sake of clearness I am putting my neofetch again:</p><p><figure><img src=/farooq-laptop-specs-1.png alt="Specs of Farooq&amp;rsquo;s laptop"></figure></p><h2 id=python>Python</h2><p>First let&rsquo;s get our hands dirty with Python:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#66d9ef>def</span> <span style=color:#a6e22e>fibo</span>(n: int):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>if</span> n <span style=color:#f92672>&lt;=</span> <span style=color:#ae81ff>2</span>:
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>return</span> <span style=color:#ae81ff>1</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>else</span>:
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>return</span> fibo(n<span style=color:#f92672>-</span><span style=color:#ae81ff>1</span>) <span style=color:#f92672>+</span> fibo(n<span style=color:#f92672>-</span><span style=color:#ae81ff>2</span>)
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>if</span> __name__ <span style=color:#f92672>==</span> <span style=color:#e6db74>&#34;__main__&#34;</span>:
+</span></span><span style=display:flex><span>    print(fibo(<span style=color:#ae81ff>40</span>))
+</span></span></code></pre></div><h3 id=python38>Python3.8</h3><pre tabindex=0><code>[17:28:09]:~/py$ time python3.8 fibo.py 
+102334155
+
+real	0m20.983s
+user	0m20.906s
+sys	0m0.028s
+</code></pre><h3 id=python310>Python3.10</h3><pre tabindex=0><code>[17:34:55]:~/py$ time python3.10 fibo.py 
+102334155
+
+real	0m23.500s
+user	0m23.440s
+sys	0m0.024s
+</code></pre><h3 id=pypy3>PyPy3</h3><pre tabindex=0><code>[17:35:59]:~/py$ time pypy3 fibo.py 
+102334155
+
+real	0m1.332s
+user	0m1.282s
+sys	0m0.028s
+</code></pre><h2 id=rust>Rust</h2><p>Now I get my hand into Rust code:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-rs data-lang=rs><span style=display:flex><span><span style=color:#66d9ef>fn</span> <span style=color:#a6e22e>fibo</span>(n: <span style=color:#66d9ef>u8</span>) -&gt; <span style=color:#66d9ef>u64</span> {
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>if</span> n <span style=color:#f92672>&lt;=</span> <span style=color:#ae81ff>2</span> {
+</span></span><span style=display:flex><span>        <span style=color:#ae81ff>1</span>
+</span></span><span style=display:flex><span>    } <span style=color:#66d9ef>else</span> {
+</span></span><span style=display:flex><span>        fibo(n<span style=color:#f92672>-</span><span style=color:#ae81ff>1</span>) <span style=color:#f92672>+</span> fibo(n<span style=color:#f92672>-</span><span style=color:#ae81ff>2</span>)
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>}
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>fn</span> <span style=color:#a6e22e>main</span>() {
+</span></span><span style=display:flex><span>    println!(<span style=color:#e6db74>&#34;{}&#34;</span>, fibo(<span style=color:#ae81ff>40</span>))
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><h3 id=rustc-1550-without-optimization-flag-o>rustc 1.55.0 without optimization flag(<code>-O</code>)</h3><pre tabindex=0><code>[17:39:30]:~/rs$ time ./fibo
+102334155
+
+real	0m1.003s
+user	0m0.998s
+sys	0m0.004s
+</code></pre><h3 id=rustc-1550-with-optimization-flag-o>rustc 1.55.0 with optimization flag(<code>-O</code>)</h3><pre tabindex=0><code>[17:43:16]:~/rs$ time ./fibo 
+102334155
+
+real	0m0.265s
+user	0m0.260s
+sys	0m0.005s
+</code></pre><h2 id=c>C</h2><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-c data-lang=c><span style=display:flex><span><span style=color:#75715e>#include</span> <span style=color:#75715e>&lt;stdio.h&gt;</span><span style=color:#75715e>
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>int</span> <span style=color:#a6e22e>fibo</span>(<span style=color:#66d9ef>int</span> n) {
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>if</span> (n <span style=color:#f92672>&lt;=</span> <span style=color:#ae81ff>2</span>) {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>return</span> <span style=color:#ae81ff>1</span>;
+</span></span><span style=display:flex><span>    } <span style=color:#66d9ef>else</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>return</span> fibo(n<span style=color:#f92672>-</span><span style=color:#ae81ff>1</span>) <span style=color:#f92672>+</span> fibo(n<span style=color:#f92672>-</span><span style=color:#ae81ff>2</span>);
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>}
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>int</span> <span style=color:#a6e22e>main</span>() {
+</span></span><span style=display:flex><span>    printf(<span style=color:#e6db74>&#34;%d&#34;</span>, fibo(<span style=color:#ae81ff>40</span>));
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><h3 id=clang-without-any-flag>clang without any flag</h3><pre tabindex=0><code>[17:45:28]:~/c$ time ./a.out 
+102334155
+real	0m0.510s
+user	0m0.501s
+sys	0m0.008s
+</code></pre><h3 id=gcc-without-any-flag>gcc without any flag</h3><pre tabindex=0><code>[17:46:59]:~/c$ time ./a.out 
+102334155
+real	0m0.482s
+user	0m0.482s
+sys	0m0.000s
+</code></pre><h3 id=clang-with--o2>clang with -O2</h3><pre tabindex=0><code>[17:47:51]:~/c$ time ./a.out 
+102334155
+real	0m0.257s
+user	0m0.257s
+sys	0m0.000s
+</code></pre><h3 id=gcc-with--o2>gcc with -O2</h3><pre tabindex=0><code>[17:48:47]:~/c$ time ./a.out 
+102334155
+real	0m0.230s
+user	0m0.229s
+sys	0m0.000s
+</code></pre><h2 id=common-lisp-untyped>Common Lisp untyped</h2><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-cl data-lang=cl><span style=display:flex><span>(defun fibo (n)
+</span></span><span style=display:flex><span>  (<span style=color:#66d9ef>if</span> (<span style=color:#a6e22e>&lt;=</span> n <span style=color:#ae81ff>2</span>)
+</span></span><span style=display:flex><span>      <span style=color:#ae81ff>1</span>
+</span></span><span style=display:flex><span>      (<span style=color:#a6e22e>+</span>
+</span></span><span style=display:flex><span>       (fibo (<span style=color:#a6e22e>1-</span> n))
+</span></span><span style=display:flex><span>       (fibo (<span style=color:#a6e22e>1-</span> (<span style=color:#a6e22e>1-</span> n))))))
+</span></span><span style=display:flex><span>	     
+</span></span><span style=display:flex><span>(<span style=color:#a6e22e>write</span> (fibo <span style=color:#ae81ff>40</span>))
+</span></span></code></pre></div><h3 id=sbcl>SBCL</h3><pre tabindex=0><code>[17:51:50]:~/lisp$ time sbcl --script fibo.lisp
+102334155
+
+real	0m2.081s
+user	0m1.986s
+sys	0m0.031s
+</code></pre><h2 id=common-lisp-typed-with-no-safety>Common Lisp typed with no safety</h2><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-cl data-lang=cl><span style=display:flex><span>(declaim (<span style=color:#66d9ef>optimize</span> (speed <span style=color:#ae81ff>3</span>) (safety <span style=color:#ae81ff>0</span>) (debug <span style=color:#ae81ff>0</span>)))
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>(defun fibo (n)
+</span></span><span style=display:flex><span>  (<span style=color:#66d9ef>declare</span> (<span style=color:#66d9ef>type</span> <span style=color:#66d9ef>fixnum</span> n))
+</span></span><span style=display:flex><span>  (<span style=color:#66d9ef>if</span> (<span style=color:#a6e22e>&lt;=</span> n <span style=color:#ae81ff>2</span>)
+</span></span><span style=display:flex><span>      <span style=color:#ae81ff>1</span>
+</span></span><span style=display:flex><span>      (<span style=color:#a6e22e>+</span>
+</span></span><span style=display:flex><span>       (fibo (<span style=color:#a6e22e>1-</span> n))
+</span></span><span style=display:flex><span>       (fibo (<span style=color:#a6e22e>1-</span> (<span style=color:#a6e22e>1-</span> n))))))
+</span></span><span style=display:flex><span>	     
+</span></span><span style=display:flex><span>(<span style=color:#a6e22e>write</span> (fibo <span style=color:#ae81ff>40</span>))
+</span></span></code></pre></div><h3 id=sbcl-1>SBCL</h3><pre tabindex=0><code>[17:55:57]:~/lisp$ time sbcl --script fibo.lisp
+102334155
+
+real	0m0.765s
+user	0m0.696s
+sys	0m0.008s
+</code></pre><h2 id=summary>Summary</h2><p>In order from fastest to slowest:</p><ul><li>GCC with -O2: 0.230s</li><li>clang with -O2: 0.257s</li><li>Rust with optimization flag: 0.265s</li><li>Common Lisp typed with SBCL: 0.765s</li><li>PyPy3: 1.332s</li><li>Common Lisp untyped with SBCL: 2.081s</li><li>Python3.8: 20.983s</li></ul></div></div></article></div></main><footer>(C) All rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh</footer><script src=/js/dark-mode.js></script></body></html>
