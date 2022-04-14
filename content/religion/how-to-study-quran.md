@@ -4,7 +4,7 @@ date: 2022-02-12T15:30:50+03:30
 draft: false 
 ---
 
-![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)
 
 ##### Thanks to Narges Aalizadeh from Iran for reading and editing this post
 

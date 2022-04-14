@@ -6,7 +6,7 @@ aliases:
     - /posts/cpp-vs-common-lisp-performance.html
 ---
 
-![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)
 
 After I read a small paper named [How to make Lisp go faster than C](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf) I decided to do some small benchmarking myself with C++ and Common Lisp. For benchmarking I have written programs which find prime numbers from 2 up to 384460. All programs were run on my laptop with the following specs and properties:
 

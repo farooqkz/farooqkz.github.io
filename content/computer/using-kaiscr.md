@@ -4,7 +4,7 @@ date: 2022-01-17T13:30:24+03:30
 draft: false 
 ---
 
-![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)
 
 This video shows usage of my two scripts kailive.py and kaiscr.py. They're hosted on [NotABug](https://notabug.org/farooqkz/kaiscr)
 

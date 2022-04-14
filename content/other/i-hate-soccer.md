@@ -4,7 +4,7 @@ date: 2022-01-17T13:20:26+03:30
 draft: false 
 ---
 
-![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)
 
 I'm not talking about any soccer but about this soccer which is ruining everything. I hate soccer and I have an ideology behind this behavior:
 

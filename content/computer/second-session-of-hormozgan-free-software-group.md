@@ -4,7 +4,7 @@ date: 2022-02-22T17:45:29+03:30
 draft: false 
 ---
 
-![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)
 
 Yesterday, I was in the 2nd session of Hormozgan Free Software Group for people in Bandar Abbas, Hormozgan, Iran. It was a very good session and by the suggestion of my friend who was in the group, we played a simple Pythonic game.
 

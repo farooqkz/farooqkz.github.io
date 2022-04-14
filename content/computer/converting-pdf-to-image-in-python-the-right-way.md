@@ -4,7 +4,7 @@ date: 2022-04-13T19:00:32+04:30
 draft: false
 ---
 
-![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)
 
 If you use your favorite search engine to learn how to "convert pdf to image" in Python, you will find many websites like [GeeksforGeeks](https://www.geeksforgeeks.org/convert-pdf-to-image-using-python/) introducing [pdf2image](https://pypi.org/project/pdf2image/) to accomplish this goal.
 
