@@ -4,6 +4,8 @@ date: 2022-04-13T19:00:32+04:30
 draft: false
 ---
 
+![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+
 If you use your favorite search engine to learn how to "convert pdf to image" in Python, you will find many websites like [GeeksforGeeks](https://www.geeksforgeeks.org/convert-pdf-to-image-using-python/) introducing [pdf2image](https://pypi.org/project/pdf2image/) to accomplish this goal.
 
 As you can in pdf2image's PyPI page, it is just a wrapper around [pdftoppm](https://manpage.me/?q=pdftoppm) while `pdftoppm` itself is part of poppler. Basically, pdf2image module invokes `pdftoppm` with [subprocess](https://docs.python.org/3/library/subprocess.html) Python standard module which is for invoking subprocesses, controling them and capturing their output all from Python.

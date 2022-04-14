@@ -4,6 +4,8 @@ date: 2022-01-17T13:20:26+03:30
 draft: false 
 ---
 
+![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+
 I'm not talking about any soccer but about this soccer which is ruining everything. I hate soccer and I have an ideology behind this behavior:
 
 Soccer players and other sport players receive too much money and fame(players of other sports probably get less) they deserve not. I think most people agree with this if not all. You can compare this to salaries of doctors rescuing you and your family or the farmer which you would die of hunger if they weren't or a writer or a teacher.

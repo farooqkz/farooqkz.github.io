@@ -4,6 +4,8 @@ date: 2022-01-17T13:14:20+03:30
 draft: false
 ---
 
+![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+
 The uranium enriching process is a simple yet hard process. Farooq wants to reach 3.5% uranium and he has 0.7% uranium. To achieve this goal, he should feed uranium to centrifuge. For each 2 units of x% uranium which he feeds to centrifuge, he gets 1 unit of (x-0.1)% and 1 unit of (x+0.1)% uranium. For example 1 0.6% and 1 0.8% for 2 0.7%. 0.0% uranium will be discarded. Units are always positive integer and he cannot feed 1 unit of uranium.
 
 ![Enriching uranium](/uranium-enriching.png)

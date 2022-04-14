@@ -4,6 +4,8 @@ date: 2022-01-17T12:28:08+03:30
 draft: false 
 ---
 
+![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+
 Oh Jinn?What is that?I think the best English translation for this Arabic word is “Demon” but I'll call it Jinn till the last paragraph of this article. Does Farooq believe in such a legend of foolish former people? Does he believe in such a religion while we are in the 21st century, the era of science and technology?
 
 The fact is that proving existence of Jinns is somehow impossible and disproving existence of them as well! But as Russell said in the 20th century this does not allow us to believe in anything which is impossible to disprove.

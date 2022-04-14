@@ -3,6 +3,10 @@ title: "2^x+2^y=k"
 date: 2022-01-16T21:49:16+03:30
 draft: false
 ---
+
+
+![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+
 2<sup>x</sup> + 2<sup>y</sup> = k where x, y and k are positive integers and k is a constant. The question's that for different values of k how many solution does our equation have? For any odd k there is no solution and for positive powers of 2 there is one. We want a general solution for this equation.
 
 ### Solution by Susam Pal

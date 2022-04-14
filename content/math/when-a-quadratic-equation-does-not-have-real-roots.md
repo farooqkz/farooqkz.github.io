@@ -4,6 +4,8 @@ date: 2022-01-17T13:38:33+03:30
 draft: false 
 ---
 
+![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+
 For any equation as ax<sup>2</sup> + bx + c = 0 we have b<sup>2</sup> - 4ac or DELTA smaller than zero thus having no real roots if:
 
 1. a, c > |b|

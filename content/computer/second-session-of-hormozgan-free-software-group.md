@@ -4,6 +4,8 @@ date: 2022-02-22T17:45:29+03:30
 draft: false 
 ---
 
+![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+
 Yesterday, I was in the 2nd session of Hormozgan Free Software Group for people in Bandar Abbas, Hormozgan, Iran. It was a very good session and by the suggestion of my friend who was in the group, we played a simple Pythonic game.
 
 The game was about saying a Python module which is either builtin or at least familiar to all the members. We were four in a Circle and each had to say a name in a turn based basis. It was no surprise that the author had won the game having the most years of experience with Python; from 2015.

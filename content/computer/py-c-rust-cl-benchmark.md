@@ -4,6 +4,8 @@ date: 2022-03-31T17:12:35+04:30
 draft: false 
 ---
 
+![dot for stats](https://farooqkz.de1.hashbang.sh/dot.png)
+
 A few years ago I did [a benchmark between Common Lisp and C++](/computer/cpp-vs-common-lisp-performance/)
 and wrote pieces of code for determining if a number is prime or not. Unlike what most people usually think about Common Lisp,
 it could be nearly as fast as C++ when you use the typed version of your code and disable safety stuff of SBCL.
