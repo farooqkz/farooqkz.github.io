@@ -1,7 +1,7 @@
 ---
 title: "Porn has good aspects, read why"
 date: 2022-05-15T11:15:19+04:30
-draft: true
+draft: false 
 ---
 
 The title might be misleading. You won't read here why [Porn](https://en.wikipedia.org/wiki/Pornography) is good. You'll rather read what good aspects does Porn have.
