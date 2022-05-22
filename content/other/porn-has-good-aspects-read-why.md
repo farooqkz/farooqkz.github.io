@@ -18,3 +18,7 @@ Of course not! There are several articles in [Sexology](https://en.wikipedia.org
 As you probably know, different people in different situations have different behaviors. For example when I'm tired or had little sleep, at the end of the day you could make me angry easily yelling at you. As for Porn, when some groups of boys are watching Porn together(or at least pretending to it) and inviting others around to do so, you'll have a chance to *know* people. There are some who happily accept the invite and some who refuse it. You've got a chance to recognize those who refuse and don't do dirty jobs.
 
 From this point of view, even existence of Satan/Devil seems good: You can test, ditinguish and recognize those who listen to Satan and those who refuse. And this might be an answer to [the problem of Evil](https://en.wikipedia.org/wiki/Problem_of_evil).
+
+#### A comment
+
+ - A friend commented that "Men watching porn together will lead to homosexuality"
