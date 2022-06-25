@@ -8,6 +8,11 @@ enableRobotsTXT = true
 copyright = "(C) All rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh"
 
 [[params.social]]
+name = "RSS"
+icon = "fab fa-rss"
+url = "/index.xml"
+
+[[params.social]]
 name = "Github"
 icon = "fab fa-github"
 url = "https://github.com/farooqkz"
@@ -15,6 +20,12 @@ url = "https://github.com/farooqkz"
 [[params.social]]
 name = "Mastodon"
 url = "https://qoto.org/@farooqkz"
+
+
+[[params.customjs]]
+enabled = true
+defer = true
+src = "/ping.js"
 
 [markup]
   [markup.highlight]
