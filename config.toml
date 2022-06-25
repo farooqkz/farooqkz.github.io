@@ -22,11 +22,6 @@ name = "Mastodon"
 url = "https://qoto.org/@farooqkz"
 
 
-[[params.customjs]]
-enabled = true
-defer = true
-src = "/ping.js"
-
 [markup]
   [markup.highlight]
 	anchorLineNos = false
