@@ -6,7 +6,7 @@ draft: false
 
 ![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)
 
-InfernoJS, a fork of ReactJS for mobile, is very high performance Javascript UI framework. It has good features of ReactJS, except big community and support of Facebook. But unlike ReactJS which has a very bad performance comparing to many other UI frameworks, InfernoJS is fast and small. You might want to use your favorite search engine to find the benchmarks related to this topic.
+InfernoJS, ~~a fork of ReactJS for mobile,~~ is very high performance Javascript UI framework. It has good features of ReactJS, except big community and support of Facebook. But unlike ReactJS which has a very bad performance comparing to many other UI frameworks, InfernoJS is fast and small. You might want to use your favorite search engine to find the benchmarks related to this topic.
 
 You also might want to read **Why InfernoJS?** section part of [my post on BananaHackers blog](https://blog.bananahackers.net/farooqkz/the-development-of-the-matrix-client-has-started) to read more why should you choose a framework, perhaps something like InfernoJS or ReactJS for your application instead of using no framework if your application or website is medium sized or big.
 
