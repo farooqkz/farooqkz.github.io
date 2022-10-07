@@ -19,6 +19,7 @@ url = "https://github.com/farooqkz"
 
 [[params.social]]
 name = "Mastodon"
+icon = "fas fa-mastodon"
 url = "https://qoto.org/@farooqkz"
 
 
