@@ -14,7 +14,7 @@ Here, I have chosen 3 aspects to compare the Christian Bible and the Quran of Mu
 ## The Faith
 
 While both Christianity and Islam are monotheism religions, meaning there is only one God to worship, there is a difference between
-the their views of this one God. The main difference is perhaps that most Christians believe in Trinity and this in Islam is disbelief in God.
+the their views of this one God. The main difference is perhaps that most Christians believe in Trinity and in Islam, this is disbelief in God.
 
 In various verses Quran blames Christians for their beliefs about Jesus Christ. You can use [quran.com](https://quran.com) and search for "Jesus", "Christ" or "Messiah". As an example there is one verse from [Quran 5:72](https://quran.com/5/72) which tells us those who believe Jesus is God has certainly fall into disbelief:
 
@@ -23,7 +23,7 @@ In various verses Quran blames Christians for their beliefs about Jesus Christ. 
 (Note that "Allah" simply means "God, the one god" in Arabic. It doesn't have plural form and refers to exactly one. Christians who are Arab also use the same word to refer to God and followers of other Abrahamic religions as well.)
 
 On the other hand, there is conversation between God and Jesus in which God promises Jesus that those
-who followed him(Jesus) will be elevated above those who didn't till the Judgement day:
+who followed him(=Jesus) will be elevated above those who didn't till the Judgement day:
 
 > When Allah said, “O Jesus! I will take you and raise you up to Myself. I will deliver you from those who disbelieve, and elevate your followers above the disbelievers until the Day of Judgment. Then to Me you will all return, and I will settle all your disputes.
 
@@ -42,3 +42,33 @@ In [3:74](https://quran.com/3/74)
 > The Most Compassionate, taught the Quran, created humanity, taught them speech.
 
 In [3:1-4](https://quran.com/55). The other alternative for "The Most Compassionate" is "The Most Merciful" which Quran mentions it as one the most important attributes of God.
+
+Also Quran speaks highly of Christians and that they are the closest to Muslims comparing to Jews or idol-worshippers of Mecca. For example [5:82](https://quran.com/5/82):
+
+> You will surely find the most bitter towards the believers to be the Jews and polytheists and the most gracious to be those who call themselves Christian. That is because there are priests and monks among them and because they are not arrogant.
+
+## Believing in all past Abrahamic religions
+
+Christians believe in the prophets who Jews believe in as well as the Prophet John son of Zechariah who Mandaians follow. Christians believe in both Old Testament and New Testament. In one sentence, Christians believe in all Abrahamic religions before them.
+
+So is true about Islam. Quran mentions Jesus, John, Elias, Abraham, Moses and many others as true prophets. Also Quran mentions Christians and Sabians(the other name for Mandaians) as those who are righteous and God believing and that God will reward them. This verse is from [2:62](https://quran.com/2/62)
+
+> Indeed, the believers, Jews, Christians, and Sabians—whoever ˹truly˺ believes in Allah and the Last Day and does good will have their reward with their Lord. And there will be no fear for them, nor will they grieve.
+
+However as Christians don't believe in Sabbath like Jews do, Muslims don't believe in many things earlier Abrahamic religions have, too. Christians go to church in the Sonday and it's their Sabbath. But unlike Jews, they don't think all the day must be dedicated to God, meaning doing anything else is a sin and forbidden. Similar to Jews and Christians, Muslims have a day in the week in which attending [the Friday prayer](https://en.wikipedia.org/wiki/Friday_prayer) among other Muslims for any man who doesn't have an excuse is mandatory and ignoring it is a sin.
+
+There is but a difference between Christianity and Islam from this aspect. According to [2:285](https://quran.com/2/285) believing in God, his Angels, his Books(e.g. Gospels or Torah or Quran) and his Prophets is mandatory and principles of faith(plus one other not mentioned in this verse):
+
+> The Messenger believes in what has been revealed to him from his Lord, and so do the believers. They believe in Allah, His angels, His Books, and His messengers. “We make no distinction between any of His messengers.” And they say, “We hear and obey. Your forgiveness, our Lord! And to You is the final return.”
+
+But according to some verses, people corrupted the eariler Scriptures such as Torah.
+
+> Do you expect them to be true to you, though a group of them would hear the word of Allah then knowingly corrupt it after understanding it?
+
+From [2:75](https://quran.com/2/75)
+
+> So woe to those who distort the Scripture with their own hands then say, “This is from Allah”—seeking a fleeting gain! So woe to them for what their hands have written, and woe to them for what they have earned. the Jews claim, “The Fire will not touch us except for a number of days.” Say, “Have you taken a pledge from Allah—for Allah never breaks His word—or are you saying about Allah what you do not know?” But no! Those who commit evil and are engrossed in sin will be the residents of the Fire. They will be there forever.
+
+From [2:79-81](https://quran.com/2/79-81)
+
+The verses above only targets Jews and Torah. But there are some about Christians and Gospel, too.
