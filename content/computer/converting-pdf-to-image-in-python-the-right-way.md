@@ -77,3 +77,6 @@ True
 ```
 
 And voila! You've done that!
+
+
+{{< chat converting-pdf-to-image-in-python-the-right-way.md >}}
