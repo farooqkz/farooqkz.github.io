@@ -18,3 +18,6 @@ Surprisingly, Quran tells us that God has "sent down" Iron in [verse 57:25](http
 One meaning of 'Anzalna' in Arabic means `giving` or `favoring` but the other meaning is `sending down something from the sky to earth or (probably) from up to down`.
 
 Indeed, one can find verses in Quran which suprises them, if they go deep enough.
+
+
+{{< chat origin-of-iron-on-earth.md >}}

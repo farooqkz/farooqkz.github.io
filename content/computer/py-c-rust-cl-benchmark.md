@@ -230,3 +230,5 @@ In order from fastest to slowest:
  - Common Lisp untyped with SBCL: **2.081s**
  - Python3.8: **20.983s**
 
+
+{{< chat py-c-rust-cl-benchmark.md >}}

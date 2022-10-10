@@ -30,3 +30,6 @@ Please email me any comment you have:
 ```
 fkz at riseup dot net
 ```
+
+
+{{< chat how-to-study-quran.md >}}

@@ -123,3 +123,7 @@ As you see according to these results CL typed and optimized code is a bit slowe
  - People in #clschool who helped me
  - Didier Verna for his good paper
 
+
+
+
+{{< chat cpp-vs-common-lisp-performance.md >}}

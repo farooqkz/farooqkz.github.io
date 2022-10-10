@@ -11,3 +11,6 @@ Other than [this website](http://shells.red-pill.eu/) and your favorite search e
 **Edit:** Nowadays as of 2021 you might want to check [LiberaChat](https://libera.chat), too.
 
 ![Finding shell servers using freenode image](/finding-shell-servers-using-freenode.jpg)
+
+
+{{< chat an-easy-way-to-find-shell-servers-through-freenode.md >}}

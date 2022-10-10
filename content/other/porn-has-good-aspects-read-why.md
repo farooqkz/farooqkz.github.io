@@ -22,3 +22,6 @@ From this point of view, even existence of Satan/Devil seems good: You can test,
 #### A comment
 
  - A friend commented that "Men watching porn together will lead to homosexuality"
+
+
+ {{< chat porn-has-good-aspects-read-why.md >}}

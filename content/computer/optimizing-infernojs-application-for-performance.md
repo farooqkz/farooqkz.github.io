@@ -77,3 +77,6 @@ In this post I tried to share with you the knowledge I had about optimizing Infe
 ```
 fkz at riseup dot net
 ```
+
+
+{{< chat optimizing-infernojs-application-for-performance.md >}}

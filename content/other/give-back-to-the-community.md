@@ -19,3 +19,6 @@ If you've got the time, you can help with development, testing, documenting or h
 If you've got no time nor money, still you can do something: Simply send a "Thank you" message to the developer(s). State in your email what you like about their software and that it has been useful for you. And possibly write about things like UI/UX which you dislike.
 
 As a summary, open source community driven softwares get what they need from their communities and we, are those who form their community.
+
+
+{{< chat give-back-to-the-community.md >}}

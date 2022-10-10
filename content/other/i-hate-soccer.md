@@ -15,3 +15,6 @@ But why do players get so much? Simply, because people pay attention to them. Sp
 Here, many may say we don't spend money on these. We just watch or follow. Right, you might not be helping them directly with money but with other stuff but you still **help them**.
 
 *NOTE: Unfortunately, players are not the only group who get a lot of wealth. Also actors and actresses receive too much money because we pay attention to them. But now, it is world cup and that's why I've written about soccer players instead of actors.*
+
+
+{{< chat i-hate-soccer.md >}}

@@ -20,3 +20,6 @@ Farooq needs to do this process till he reach 3.5% uranium. Now he needs your he
 
 
 You can solve these questions either by your math or your coding skills. Good luck :)
+
+
+{{< chat how-much-uranium.md  >}}

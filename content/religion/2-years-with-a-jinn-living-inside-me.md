@@ -23,3 +23,6 @@ In the beginning listening to Quran was hard for him like a burden was on him an
 Anyway Farooq listened to Quran till he got his power for coding and math back. After this happening and after getting healed with Quran, any doubt about God, Quran and Islam, if any, was destroyed and Farooq shall not disbelieve anymore.
 
 Thanks to God, then the Raaqi and the two said friends as they helped me in this way.
+
+
+{{< chat 2-years-with-a-jinn-living-inside-me.md >}}

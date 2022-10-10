@@ -15,3 +15,6 @@ The next game was a version of old hangman game except that a Python builtin cal
 I've been thinking of a web based version of the first game but it would have no point or fun since anyone participating in the game with a tab of their favourite browser could open another tab and search for whatever module in PyPI.
 
 These games and similar games about programming or computer science stuff could be played in other sessions too.
+
+
+{{< chat second-session-of-hormozgan-free-software-group.md >}}
