@@ -14,7 +14,7 @@ Here, I have chosen 3 aspects to compare the Christian Bible and the Quran of Mu
 ## The Faith
 
 While both Christianity and Islam are monotheism religions, meaning there is only one God to worship, there is a difference between
-the their views of this one God. The main difference is perhaps that most Christians believe in Trinity and in Islam, this is disbelief in God.
+the their views of this one God. The main difference is perhaps that most Christians believe in Trinity(except [a very small group who don't](https://en.wikipedia.org/wiki/Nontrinitarianism)) and in Islam, this is disbelief in God.
 
 In various verses Quran blames Christians for their beliefs about Jesus Christ. You can use [quran.com](https://quran.com) and search for "Jesus", "Christ" or "Messiah". As an example there is one verse from [Quran 5:72](https://quran.com/5/72) which tells us those who believe Jesus is God has certainly fall into disbelief:
 
@@ -72,3 +72,12 @@ From [2:75](https://quran.com/2/75)
 From [2:79-81](https://quran.com/2/79-81)
 
 The verses above only targets Jews and Torah. But there are some about Christians and Gospel, too.
+
+
+## Quran claim to be a miracle but Bible does not
+
+That's a huge difference between Quran and Bible. Both claim to be the Word of One God who has created everything. But Quran claims to be miracle. But what does being a miracle mean? When God sends a prophet to people, he sends with the prophet a sign or signs that the person is a prophet. For example, God does something through the person which is only doable by God and not anyone else. So that people could realize that the person who claims to be a prophet, is really a true prophet.
+
+As for Moses, he did something something similar to magicians but what moses did was something magicians could not do. As for Jesus Christ, he did many things including bringing the dead man back to life. As for Muhammad, he did several of such these which are narrated by his followers. For example sometimes the food was "blessed" and could feed more people for that amount of food. Which is highly irregular. But all those signs are for people of the 21st century, are just narrates. People in today's world don't know if these narrates are real, human-made lies or some sort of delusions. So Quran claims to not be only word of God, but also something which no one could produce something like it. There are several verses in Quran. For example [17:88] says that if all the humankind and the jinns(the demons) try to produce something like Quran, they would never achieve their goal:
+
+> Say, “If humans and jinn were to come together to produce the equivalent of this Quran, they could not produce its equal, no matter how they supported each other.”
