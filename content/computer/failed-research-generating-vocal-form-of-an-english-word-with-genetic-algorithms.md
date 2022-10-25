@@ -45,3 +45,6 @@ The right tool and method hasn't been chosen for the job. With population from 5
 ## Next steps
 
 Maybe using Genetic Programming which is a subset of Machine Learning, it is possible to evolve separate programs which generate sinewaves. Each program could generate a single phoneme and by mixing these, one word could be generated.
+
+
+{{< chat failed-research-generating-vocal-form-of-an-english-word-with-genetic-algorithms.md >}}
