@@ -1,6 +1,6 @@
 ---
 title: "Benchmarking Common Lisp, Rust,  C and Python on ARM"
-date: 2022-11-16T14:19:59+03:3
+date: 2022-11-16T14:19:59+03:30
 draft: false 
 ---
 
