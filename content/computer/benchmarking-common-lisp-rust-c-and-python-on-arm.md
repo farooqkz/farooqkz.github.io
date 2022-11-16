@@ -124,3 +124,7 @@ A reasonable concern is that the SBCL from Debian repositories has such a proble
 I've tried the binary from SBCL website for my ARM device and the results were interesting: **127s** for untyped code and **14s** for the typed one!
 
 Note that for all these languages, the Fibonnaci series is computed recursively. So this benchmark could *only* show which one does the recursion better than the others. Another benchmark for testing arithmetic would be interesting, too.
+
+
+
+{{< chat benchmarking-common-lisp-rust-c-and-python-on-arm.md >}}
