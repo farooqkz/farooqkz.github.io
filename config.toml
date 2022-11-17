@@ -1,6 +1,6 @@
 baseURL = 'http://far.chickenkiller.com/'
 languageCode = 'en-us'
-title = "Farooq's site"
+title = "Farooq's website"
 theme = "vitae"
 paginate = 7
 enableRobotsTXT = true
