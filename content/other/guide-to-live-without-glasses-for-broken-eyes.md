@@ -21,3 +21,6 @@ Also you probably want to pass the streets somewhere the cars' speed are much lo
 ## Other tips
 
 Consider walking slower and with more attention to the world around. And watch out the shops' glass walls or doors. If you are unsure somewhere it is glass or thin air, use your hand to realize. Again, you will probably look dumb but it's unavoidable and you will look dumber if crash into the glass.
+
+
+{{< chat guide-to-live-without-glasses-for-broken-eyes.md >}}
