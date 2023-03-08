@@ -16,22 +16,32 @@ Here, I have chosen 3 aspects to compare the Christian Bible and the Quran of Mu
 While both Christianity and Islam are monotheism religions, meaning there is only one God to worship, there is a difference between
 the their views of this one God. The main difference is perhaps that most Christians believe in Trinity(except [a very small group who don't](https://en.wikipedia.org/wiki/Nontrinitarianism)) and in Islam, this is disbelief in God.
 
-In various verses Quran blames Christians for their beliefs about Jesus Christ. You can use [quran.com](https://quran.com) and search for "Jesus", "Christ" or "Messiah". As an example there is one verse from [Quran 5:72](https://quran.com/5/72) which tells us those who believe Jesus is God has certainly fall into disbelief:
+There is no explict talk about Trinity in the Christian Bible to my knowledge, especially in the Old Testament and in the Gospels. However there are verses which makes scholars conclude Trinity. For instance this verse from [Mat 28:19](https://www.biblestudytools.com/kjv/matthew/28.html):
+
+> Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+
+Also this verse from [the John 10:30](https://www.biblestudytools.com/john/10-30.html):
+
+> I and the Father are one.
+
+However, In various verses Quran blames Christians for their beliefs about Jesus Christ. You can use [quran.com](https://quran.com) and search for "Jesus", "Christ" or "Messiah". As an example there is one verse from [Quran 5:72](https://quran.com/5/72) which tells those who believe Jesus is God has certainly fall into disbelief:
 
 > Those who say, “Allah is the Messiah, son of Mary,” have certainly fallen into disbelief. The Messiah said, “O Children of Israel! Worship Allah—my Lord and your Lord.” Whoever associates others with Allah will surely be forbidden Paradise by Allah. Their home will be the Fire. And the wrongdoers will have no helpers.
 
 (Note that "Allah" simply means "God, the one god" in Arabic. It doesn't have plural form and refers to exactly one. Christians who are Arab also use the same word to refer to God and followers of other Abrahamic religions as well.)
 
-On the other hand, there is conversation between God and Jesus in which God promises Jesus that those
+Also there is conversation between God and Jesus in which God promises Jesus that those
 who followed him(=Jesus) will be elevated above those who didn't till the Judgement day:
 
 > When Allah said, “O Jesus! I will take you and raise you up to Myself. I will deliver you from those who disbelieve, and elevate your followers above the disbelievers until the Day of Judgment. Then to Me you will all return, and I will settle all your disputes.
 
 This verse is from [3:55](https://quran.com/3/55).
 
-There are similarities between the attributes which Muslims believe God has and those which Christians, at least the majority of them, believe. Take this verse from [3:62](https://quran.com/3/62) as an example:
+There are similarities between the attributes which Muslims believe God has and those which Christians, at least the majority of them, believe. Take this verse from [Quran 3:62](https://quran.com/3/62) and [Genesis 17:1](https://www.biblestudytools.com/genesis/17-1.html) as two examples:
 
-> Certainly, this is the true narrative, and there is no god except Allah. And indeed, Allah is the Almighty, All-Wise.
+> Certainly, this is the true narrative, and there is no god except Allah. And indeed, Allah is the Almighty, All-Wise. --Quran
+
+> When Abram was ninety-nine years old, the LORD appeared to him and said, “I am God Almighty ; walk before me faithfully and be blameless. --Genesis
 
 You can find in the end of a lot of verses attributes of God in Quran. I mention two other verses:
 
@@ -42,6 +52,12 @@ In [3:74](https://quran.com/3/74)
 > The Most Compassionate, taught the Quran, created humanity, taught them speech.
 
 In [3:1-4](https://quran.com/55). The other alternative for "The Most Compassionate" is "The Most Merciful" which Quran mentions it as one the most important attributes of God.
+
+As an example from the Bible, you can see this verse which says God/Allah created the heavens and the earth:
+
+> In the beginning God created the heavens and the earth.
+
+In [Genesis 1:1](https://www.biblestudytools.com/genesis/1-1.html).
 
 Also Quran speaks highly of Christians and that they are the closest to Muslims comparing to Jews or idol-worshippers of Mecca. For example [5:82](https://quran.com/5/82):
 
@@ -55,9 +71,9 @@ So is true about Islam. Quran mentions Jesus, John, Elias, Abraham, Moses and ma
 
 > Indeed, the believers, Jews, Christians, and Sabians—whoever ˹truly˺ believes in Allah and the Last Day and does good will have their reward with their Lord. And there will be no fear for them, nor will they grieve.
 
-However as Christians don't believe in Sabbath like Jews do, Muslims don't believe in many things earlier Abrahamic religions have, too. Christians go to church in the Sonday and it's their Sabbath. But unlike Jews, they don't think all the day must be dedicated to God, meaning doing anything else is a sin and forbidden. Similar to Jews and Christians, Muslims have a day in the week in which attending [the Friday prayer](https://en.wikipedia.org/wiki/Friday_prayer) among other Muslims for any man who doesn't have an excuse is mandatory and ignoring it is a sin.
+However as Christians don't believe in Sabbath like Jews do, Muslims don't believe in many things earlier Abrahamic religions have, too. Christians go to church in the Sonday and it's their Sabbath. But unlike Jews, they don't believe all the day must be dedicated to God, meaning that doing anything else is a sin and forbidden. Similar to Jews and Christians, Muslims have a day in the week in which attending [the Friday prayer](https://en.wikipedia.org/wiki/Friday_prayer) among other Muslims for any man who doesn't have an excuse is mandatory and ignoring it is a sin.
 
-There is but a difference between Christianity and Islam from this aspect. According to [2:285](https://quran.com/2/285) believing in God, his Angels, his Books(e.g. Gospels or Torah or Quran) and his Prophets is mandatory and principles of faith(plus one other not mentioned in this verse):
+There is but a difference between Christianity and Islam from this aspect. According to [2:285](https://quran.com/2/285) believing in God, his Angels, his Scriptures(e.g. Gospels or Torah or Quran) and his Prophets is mandatory and principles of faith(plus one other not mentioned in this verse):
 
 > The Messenger believes in what has been revealed to him from his Lord, and so do the believers. They believe in Allah, His angels, His Books, and His messengers. “We make no distinction between any of His messengers.” And they say, “We hear and obey. Your forgiveness, our Lord! And to You is the final return.”
 
