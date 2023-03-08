@@ -16,7 +16,7 @@ So here are my trys. If you are too lazy to read, jump to "Conclusion".
 
 At the beginning I was considering chromebooks. They are cheap, many in small form factors such as 11-12inchs which is not perfect but at least not as big as 14-15. They also have ARM processors or lowend x86 ones such as Atom or Celeron.
 
-**But chromebooks were not my answer.** despite the hardware advantages of chromebooks and their cheap prices, they have a big disadvantage when it comes to a user like me. What? Linux! It seems that there is no good Linux support for Chromebooks yet. Also it seems many of these chromebooks **come with locked bootloaders**. A member of Linux room on Matrix suggested that I don't try painful process of installation of Linux on such these devices.
+**But chromebooks were not my answer.** despite the hardware advantages of chromebooks and their cheap prices, they have a big disadvantage when it comes to a user like me which is Linux and hackability. It seems that there is no good Linux support for Chromebooks yet. Also it seems many of these chromebooks **come with locked bootloaders**. A member of Linux room on Matrix suggested that I don't try painful process of installation of Linux on such these devices. Last but not the least, they've got different and strange keyboards.
 
 ## Second try: Linux ARM laptops
 
@@ -24,11 +24,11 @@ In the next step, I thought there might be some ARM Linux laptops which have sma
 
 It seemed really cool and it was only 100 bucks!
 
-But after talking about it with folks in BananaHackers chatroom(in offtopic room), someone suggested that I don't buy anything from them as they are known to ship damaged devices.
+But after talking about it with folks in BananaHackers chatroom(in offtopic room), someone suggested that I don't buy anything from them as they are known to ship damaged devices. Also people from "Rust offtopic" on Matrix told me the device is too slow.
 
 ## Third try: DIY laptop with a (Raspberry) Pi
 
-This could be so complicated. But I could 3D print a case for a Pi, preferably a NanoPi with Armbian support and an HDMI port. After some search I've found a project on thingiverse. It would be both a cool and fun project and a small portable Linux device. I saved this idea in my mind for future.
+This could be so complicated. But I could 3D print a case for a Pi, preferably a NanoPi with Armbian support and an HDMI port. After some search I've found a project on thingiverse. It would be both a cool and fun project and a small portable Linux device. **But people said it won't be as good as I am thinking it will be**
 
 ## Fourth try: postmarketOS
 
@@ -36,4 +36,4 @@ I also found postmarketOS, an Operating System for mobile devices, mostly phones
 
 ## Conclusion
 
-It seems Android is the best, most supported and cheapest choice for me. Web brwosing with the Android browser and Termux for shell stuff. I could connect a physical keyboard with OTG or Bluetooth as well.
+It seems Android is the best, most supported and cheapest choice for me. Web browsing with the Android browser and Termux for shell stuff. I could connect a physical keyboard with OTG or Bluetooth as well. You can find cheap Lenovo tablets which come with Android 8. However, I chose something different: BOOX Leaf so that it could save me from eye strain as well so I also could read papers and books on it without problem. It comes with an octa-core snapdragon, Android 10 and 2GB of Memory(RAM).
