@@ -17,3 +17,6 @@ If you want to master something, and you are a teenager around 15 or so now, it 
 ### A real world example
 
 A friend of mine, [Behnam Simjoo](https://github.com/b-simjoo), is TA of a fundemental CS course in [Hormozgan University](https://hormozgan.ac.ir). He and I been doing programming(and not Computer Science) for long since school. He always says those without programming background can't have their mind adapted in just one semester(3-4 months) to think like a programmer. And the University is quite on the wrong track in asking them to pass this course in one semester. Needless to say that the way a considerable number of students in this country, perhaps a majority of them, are not even near the right track in choosing their academic branch which is mandatory from highschool.
+
+
+{{< chat you-are-not-dumb.md >}}
