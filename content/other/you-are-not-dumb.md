@@ -1,7 +1,7 @@
 ---
 title: "You are not dumb"
-date: 2023-03-22T12:37:23+03:30
-draft: true
+date: 2023-04-10T12:37:23+03:30
+draft: false
 ---
 
 It is common among some teenagers from 15 to 17 or so. They call themselves "dumb", "idiot" and such these words. They think they are not worthy. To be honest, I had similar behaviors when I was a teenager. And now I know I was wrong.
@@ -14,6 +14,6 @@ If you want to master something, you don't need to move fast. You need to have c
 
 If you want to master something, and you are a teenager around 15 or so now, it is a good time to start. But don't expect to understand everything instantly. It is a fact that some concepts in science, need some effort and time to deeply understand them. And usually you can't do it in half the time, your mind really needs to adapt itself to the new situation.
 
-A real world example
+### A real world example
 
 A friend of mine, [Behnam Simjoo](https://github.com/b-simjoo), is TA of a fundemental CS course in [Hormozgan University](https://hormozgan.ac.ir). He and I been doing programming(and not Computer Science) for long since school. He always says those without programming background can't have their mind adapted in just one semester(3-4 months) to think like a programmer. And the University is quite on the wrong track in asking them to pass this course in one semester. Needless to say that the way a considerable number of students in this country, perhaps a majority of them, are not even near the right track in choosing their academic branch which is mandatory from highschool.
