@@ -5,9 +5,6 @@ draft: false
 ---
 
 
-
-## About Farooq Karimi Zadeh
-
 ### The name
 
 My fullname is Farooq Karimi Zadeh Shaquii. Farooq is my first name and that's the name most people call me with it. And also what I prefer people to call me with it. Karimi Zadeh is my last name. And finally, Shaquii is the suffix and is name of my Father's town/homeland.
