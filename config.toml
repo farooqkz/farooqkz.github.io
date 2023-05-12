@@ -68,3 +68,8 @@ weight = 4
 name = "Other"
 url = "/other"
 weight = 5
+
+[[menu.main]]
+name = "About me"
+url = "/_pages/about-me"
+weight = 6
