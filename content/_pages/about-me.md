@@ -52,3 +52,14 @@ These aren't actively maintained anymore:
  - [mtbotter](https://notabug.org/farooqkz/mtbotter): A library to create [Minetest](https://minetest.net) bots. I don't remember anything about it. If I wanted Minetest bots again, I would replicate the protocol implementation in Rust.
  - [BHA](https://notabug.org/farooqkz/BHA): Bash History Analyzer
  - [PotatoEgg](https://notabug.org/farooqkz/PotatoEgg): A simple file manager but web based
+
+### Friends' websites
+
+Author(s) of these people are not necessary my real life friends. Many of them, I have never seen or talk with them and we were communicating with IM apps. Nevertheless, I would like to include a link to their website because I think they have content useful and interesting. Among these, many of these "hacker friends" don't like the bloated web and prefer to have a gopherhole.
+
+ - [lumidify's gopherhole](gopher://lumidify.org): He is almost at the same age as me. He doesn't like bloated stuff like the Web and many softwares in today's world. Last time I was with contact with him, he was creating a text editor with C.
+ - [Luxferre's weblog](https://chronovir.us/): Another hacker but much older than me. Dislikes bloated stuff and the founder of BananaHackers community.
+ - [Simon Laux's Github](https://github.com/simon-laux): He doesn't have a website which I am aware of, yet. Before he tells me he is almost the same age as me, I was expecting him to be around 30 like Luxferre because he seems really wise and very skillful.
+ - [Behnam Simjoo's Github](https://github.com/b-simjoo/): Behnam has been a close friend of mine for years. Our technical interests can be very different as well as how we approach the problems. He also has something which I believe the rest of this list don't: He is both a good web developer and a good web designer. To be honest, I don't have talent for art like he does. We write in https://pcworms.ir together but that's Persian and he hasn't got an English website, yet.
+ - [Cyan's Github](https://github.com/cyan-2048): This youth is a very hardworking and talented programmer. Doesn't have a website, yet.
+ - [John David Deubl(strukturart)](https://strukturart.com): An Artist, Analogue photographer, poet and hardworking programmer. I always admired his constant distraction-free hardwork in my heart.
