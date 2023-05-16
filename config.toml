@@ -7,6 +7,8 @@ enableRobotsTXT = true
 
 copyright = "(C) All rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh"
 
+math = true
+
 [[params.social]]
 name = "RSS"
 icon = "fas fa-rss"
