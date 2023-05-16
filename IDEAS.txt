@@ -4,3 +4,4 @@ This is a list of post ideas I have:
  - About the problem of Hell
  - 3 lies
  - God doesn't care
+ - About Evolutionary ML and its importance
