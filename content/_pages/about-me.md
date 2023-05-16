@@ -7,27 +7,27 @@ draft: false
 
 ### The name
 
-My fullname is Farooq Karimi Zadeh Shaquii. Farooq is my first name and that's the name most people call me with it. And also what I prefer people to call me with it. Karimi Zadeh is my last name. And finally, Shaquii is the suffix and is name of my Father's town/homeland.
+My fullname is Farooq Karimi Zadeh Shaquii. Farooq is my first name and that's the name I prefer people to call me with and what most people use to call me. Karimi Zadeh is my last name. And finally, Shaquii is the suffix and is name of my Father's town/homeland.
+
+From a certain point of view, "X Zadeh" lastnames in Persian are like "XSon" in English. "X Zadeh" means we are decendents of "X" just like "XSon", that if we consider the word "Son" decendent idiomatically.
 
 ### Technical and Academic interests
 
 I've been programming since I was about 12 years old. With [Game Maker 8.0](https://en.wikipedia.org/wiki/GameMaker) and not with code, I was creating silly 2D games. Later, I started learning CSharp and voila `MessageBox.Show("Me is virus!");` :) and yeah don't forget the semicolon...
 
-After that and creating a bunch of silly stuff, this time apps, with Visual Studio, sometime in 2015 I transferred with my baggage to Ubuntu. No CSharp there so I started learning Python, version 3. I continued writing silly CLI stuff till I discovered web and started creating web applications with CherryPy. Later in around 2020, I replaced CherryPy with Flask because it had a bigger community.
+I was creating silly apps till sometime in 2015. And after that, I "relocated" with my baggage in Ubuntu. No CSharp there so I started learning Python, version 3. I continued writing silly CLI stuff and after that, I discovered web and started creating web applications with [CherryPy](https://cherrypy.dev). Later in around 2020, I replaced CherryPy with [Flask](https://flask.palletsprojects.com/) due to its bigger community and better support.
 
-In 2022, I learned about Genetic Algorithms and had started Rust in about the same time to have a compiled language in my toolbox along other things. I was thinking, what if we evolve math formulas with this Evolutionary heuristic instead of just strings? After some research, I found Genetic Programming and Symbolic Regression. So till now I'm stuck with Rust and Evolutionary Algorithms. I needed a language with high performance and Python wasn't it. I also wanted the language to be suitable for usage in embedded industry so that I won't have to learn another one solely for that purpose. The answer for me till now is Rust.
+In 2022, I learned about [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm) and had started learning [Rust](https://www.rust-lang.org/) in about the same time to have a compiled language in my toolbox. Back then, I was thinking, what if we evolve math formulas with this Evolutionary heuristic instead of just strings? After some research, I found Genetic Programming and Symbolic Regression. So till now I'm stuck with Rust and Evolutionary Machine Learning. I needed a language with high performance and Python wasn't it. I also wanted the language to be suitable for usage in embedded industry so that I won't have to learn another one solely for that purpose. The answer for me has been Rust.
 
-I am also interested in Circuits. Actually my hobby before I turned into the dark side of the Source was circuits. But at that time when I was about 12 years old or younger, I could not design my own circuits and just assembling the circuits others had designed wasn't fun.
+I am also interested in Circuits. Actually my hobby before I turned into the dark side of the Source was assembling circuits. But at that time, I being just 12 years old or even younger, I could not design my own circuits and just assembling the circuits others had designed seemed very pointless and not fun.
 
 Last but not the least, Mathematics and combinatorics are also very interesting for me. However, I don't spend much time with these very old friends of mine.
 
 ### Languages
 
-I can fully use Persian, Bandari and English. Perhaps Bandari should not be counted as another language. It is spoken by native people of my city, the islands in the south of my city and many villages around my city. Other cities in the same province have a bit different versions of the same language. Language of some people outside the province but close to it are also very similar and distinguished from the language of other people of that provinces.
+I can fully use Persian, Bandari and English. Perhaps Bandari should not be counted as another language. It is spoken by native people of [my city](https://en.wikipedia.org/wiki/Bandar_Abbas), the islands in the south of my city and many villages around my city. Other cities in the same province have a bit different versions of the same language. Language of some people outside the province but close to it are also very similar and distinguished from the language of other people of those provinces.
 
-I can also understand Arabic. Not good enough to talk in Arabic but good enough to understand a big portion of texts especially if they are old.
-
-Other than these 3(or 4), I am learning German and I've found its old words similar to English and Persian.
+I can also understand Arabic. Not good enough to talk but good enough to understand a big portion of texts especially if they are old.
 
 ### Projects
 
@@ -63,3 +63,5 @@ Author(s) of these people are not necessary my real life friends. Many of them, 
  - [Behnam Simjoo's Github](https://github.com/b-simjoo/): Behnam has been a close friend of mine for years. Our technical interests can be very different as well as how we approach the problems. He also has something which I believe the rest of this list don't: He is both a good web developer and a good web designer. To be honest, I don't have talent for art like he does. We write in https://pcworms.ir together but that's Persian and he hasn't got an English website, yet.
  - [Cyan's Github](https://github.com/cyan-2048): This youth is a very hardworking and talented programmer. Doesn't have a website, yet.
  - [John David Deubl(strukturart)](https://strukturart.com): An Artist, Analogue photographer, poet and hardworking programmer. I always admired his constant distraction-free hardwork in my heart.
+ - [Affe Null](https://git.abscue.de/affe_null): This hacker have done significant work and is a BananaHacker council member. You might know about [the port of Debian to 8110](https://git.abscue.de/bananian/bananian), [the shell for the same phone](https://git.abscue.de/obp/bananui/bananui) and [his toolbox for hacking Nokia 2780 flip](https://git.abscue.de/affe_null/weeknd-toolbox).
+ - [Muhammad Saleh Kamyab](https://framagit.org/mskf1383): This boy is another young programmer. He has also interests in literature which is rare among programmers!
