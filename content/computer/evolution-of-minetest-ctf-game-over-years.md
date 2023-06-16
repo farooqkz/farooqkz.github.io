@@ -8,9 +8,12 @@ Years ago, when I was in early highschool, I found Minetest CTF game. Back then,
 
 And when ruben lost interest in developing the game, he wisely handed it over to savilli and LandarVargan(or LoneWolf) to continue its development. The nature of a FOSS project is that, it is unstoppable and yet efficient. Because the source code which is needed to run the game is available under a free(as in freedom) licence, and because the maintainers warmly welcome the contributions, a FOSS project usually lives long without proper funding and without support of a company.
 
+> I started development to create a game where players made countries and castles and fought each other. It would have been similar to persistent kingdoms today. At some point I switched to making CTF instead, with temporary maps rather than persistent, to make it easier to test the code. --rubenwardy
+
+
 ### 2015, the birthyear of Minetest CTF
 
-Let's do a small journey back to mid-2015 when we had the first commit of Minetest CTF by rubenwardy. I joined the server to play the game sometime in 2016 I believe. The server was small, frequently laggy and was hosted from ruben's home. There was only one map which we had to play over and over and we didn't have multiple game modes like we have now. Steel sword was thing which was making players unkillable as the only other sword was stone sword! Shotgun wasn't spraying bullets but had rather a single bullet which could remove wood or stone blocks. My hobby was hiding in the trees and shooting the enemy base blocks down one by one!
+Let's do a small journey back to mid-2015 when we had the first commit of Minetest CTF by rubenwardy. I joined the server to play the game sometime in 2016 I believe. The server was small, frequently laggy and was hosted by rubenwardy on DigitalOcean. There was only one map which we had to play over and over and we didn't have multiple game modes like we have now. Steel sword was the thing which was making players unkillable as the only other sword was stone sword! Shotgun wasn't spraying bullets but had rather a single bullet which could remove wood or stone blocks. My hobby was hiding in the trees and shooting the enemy base blocks down one by one!
 
 ### 2017, multiple maps
 
