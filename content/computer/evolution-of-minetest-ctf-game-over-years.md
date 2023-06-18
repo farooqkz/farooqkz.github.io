@@ -21,7 +21,7 @@ I joined the server to play the game sometime in 2016 I believe. The server was 
 
 We have multiple maps. Yes! We don't have to play a single map over and over. And people are slowly starting to submit their own maps to the game. We also have got grenades and SMGs in game. The pro chest requirement is a few thousands of score.
 
-Additionally, [I've suggested adding mobs to the game](https://github.com/MT-CTF/capturetheflag/issues/134) and then people on Discord have made a "ADD MOBZ PLZ" emoji with that as a symbol of non-sensible suggestion xD
+Additionally, [I've suggested adding mobs to the game](https://github.com/MT-CTF/capturetheflag/issues/134) and then people on Discord have made a "ADD MOBZ PLZ" emoji with as a symbol of non-sensible suggestion xD
 
 ### 2019-2020, classes and more maps!
 
