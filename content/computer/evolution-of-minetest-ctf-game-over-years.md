@@ -10,11 +10,13 @@ Years ago, when I was in early highschool, I found Minetest CTF game. Back then,
 
 ### 2013, the end of the world and the birthyear of Minetest CTF
 
-According to the [forum topic](https://forum.minetest.net/viewtopic.php?t=6947), birthday of CTF should be somewhere in 2013. Rubenwardy created a modpack with which one could build team based PvP games like CTF. [The Github repository](https://github.com/MT-CTF/ctf_pvp_engine) is now archived as the code has been merged into [the main CTF repository](https://github.com/MT-CTF/capturetheflag). Initially the server was very small(regarding number of supported players) and was hosted from rubenwardy's home.
+According to the [forum topic](https://forum.minetest.net/viewtopic.php?t=6947), birthday of CTF should be somewhere in 2013. Rubenwardy created a modpack with which one could build team based PvP games like CTF. [The Github repository](https://github.com/MT-CTF/ctf_pvp_engine) is now archived as the code has been merged into [the main CTF repository](https://github.com/MT-CTF/capturetheflag). Initially, the server was very small(regarding number of supported players which according to ruben was 14) and was hosted from rubenwardy's home.
 
 ### 2015-2016
 
-I joined the server to play the game sometime in 2016 I believe. The server was small, frequently laggy and was hosted by rubenwardy on DigitalOcean. There was only one map which we had to play over and over. Steel sword was the thing which was making players unkillable as the only other sword was stone sword! Shotgun was shooting a single bullet which could remove wood or stone blocks. My hobby was hiding in the trees and shooting the enemy base blocks down one by one!
+I joined the server to play the game sometime in 2016 I believe. The server was small, frequently laggy and was hosted by rubenwardy on DigitalOcean. There was only one map which we had to play over and over. Steel sword was the thing which was making players unkillable as the only other sword was stone sword! Shotgun was shooting a single bullet which could remove wood or stone blocks. My hobby was hiding in the trees and shooting the enemy base blocks down one by one! 
+
+Who knows the name of that one map? :)
 
 
 ### 2017-2018, multiple maps
@@ -25,7 +27,7 @@ Additionally, [I've suggested adding mobs to the game](https://github.com/MT-CTF
 
 ### 2019-2020, classes and more maps!
 
-By introducing classes, players can choose to heal, to shoot or to charge with sword. We have new blocks like reinforced cobble to make our base defences. There was a bug in which when you right click on many stones, a furnace form was showed. This bug has been fixed sometime in 2019. Also a map catalog is added and more maps are being added.
+By introducing classes, players can choose to heal, to shoot or to charge with sword. We have new blocks like reinforced cobble to make our base defenses. There was a bug in which when you right click on many stones, a furnace form was showed. This bug has been fixed sometime in 2019. Also a map catalog is added and more maps are being proposed.
 
 ### 2021-2022
 
@@ -39,4 +41,4 @@ During this period, one of the core developers, savilli, has left. And we are pa
 
 ### Future?
 
-There are many things which slowly are being added to CTF. Including but not limited to [Flagwars mode](https://github.com/MT-CTF/capturetheflag/pull/1115) where the enemy touching your flag means end of game for your team. And [Domination mode](https://github.com/MT-CTF/capturetheflag/issues/1081) where one team has to conquer land till you can reach the enemy flag and capture it. I am also looking forward to verified player bots in game.
+There are many things which slowly are being added to CTF. Including but not limited to [Flagwars mode](https://github.com/MT-CTF/capturetheflag/pull/1115) where the enemy touching your flag means end of game for your team. And [Domination mode](https://github.com/MT-CTF/capturetheflag/issues/1081) where one team has to conquer land till they can reach the enemy flag and steal it. I am also looking forward to verified player bots in game.
