@@ -31,7 +31,7 @@ By introducing classes, players can choose to heal, to shoot or to charge with s
 
 I see some commits from LoneWolfHT. People were formerly complaining about their teammates stealing their kills and now we have kill assists. And in this year, CTF v3.0 gets released which mainly introduces multiple modes!
 
-As a result of this period, rubenwardy has lost interest in developing the game and he wisely hands it over to LoneWolf/LandarVargan who later recruits another core developer, savilli.
+During this period, rubenwardy loses interest in developing the game and he wisely hands it over to LoneWolf/LandarVargan who later recruits another core developer, savilli.
 
 ### 2021 till present
 
