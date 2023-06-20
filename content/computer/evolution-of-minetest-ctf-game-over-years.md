@@ -42,3 +42,5 @@ During this period, one of the core developers, savilli, has left. And we are pa
 ### Future?
 
 There are many things which slowly are being added to CTF. Including but not limited to [Flagwars mode](https://github.com/MT-CTF/capturetheflag/pull/1115) where the enemy touching your flag means end of game for your team. And [Domination mode](https://github.com/MT-CTF/capturetheflag/issues/1081) where one team has to conquer land till they can reach the enemy flag and steal it. I am also looking forward to verified player bots in game.
+
+{{< chat evolution-of-minetest-ctf.md >}}
