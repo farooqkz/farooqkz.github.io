@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning is not Neural Network"
 date: 2023-07-11T17:09:08+03:30
-draft: true
+draft: false 
 ---
 
 In the recent years, NNs have grown significantly and we have a huge enthusiasm for them which has not ended yet. Historically, NNs were abandoned after a not so long period of enthusiasm and several interesting researches. But after sometime, perhaps after computers were more capable, they returned back to the game. Nowadays, a lot of people who are in touch with technology stuff probably imagine Machine Learning means Neural Networks.
