@@ -37,6 +37,7 @@ These are maintained:
 
  - [chooj](https://github.com/farooqkz/chooj): A [Matrix](https://matrix.org) client for [KaiOS](https://en.wikipedia.org/wiki/KaiOS).
  - [ctf-notify](https://github.com/farooqkz/ctf-notify): A small web application to get current status of [the Minetest CTF server](https://ctf.rubenwardy.com) as well as getting notification when the desired setup(map/mode/online players) is being played.
+ - [deltachat-loginbot](https://github.com/deltachat-bot/deltachat-loginbot): Written with [Rust](https://rust-lang.org) and [axum](https://github.com/tokio-rs/axum), it covers enough of [OAuth2](https://oauth.net) specification so that users of a [Discourse](https://discourse.org) instance can login with their [DeltaChat](https://delta.chat).
  - [KaiUIng](https://github.com/farooqkz/KaiUIng): A UI library for KaiOS. With [Inferno](https://infernojs.org) bindings.
  - [stack-gp-test](https://github.com/farooqkz/stack-gp-test): An example program, written in Rust, which solves a simple Symbolic Regression problem using Stack based Genetic Programming. Includes some text about Genetic Programming, Stack based Genetic Programming and the Symbolic Regression problem in general.
  - [KaiScr](https://notabug.org/farooqkz/KaiScr): Two small programs written in Python to record screen of a KaiOS device as well as watching a live stream of it.
