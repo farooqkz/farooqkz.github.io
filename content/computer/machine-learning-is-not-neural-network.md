@@ -58,3 +58,5 @@ The representation J. Koza chose is today known as "Tree Genetic Programming". A
 Another representation is Stack based Genetic Programming. I have written a simple program to solve a Symbolic Regression problem which is available on [a Github repository](https://github.com/farooqkz/stack-gp-test). I've included some small introduction about Stack GP and the problem my codes solves with it, as well.
 
 Finally, if you are interesting to learn more about Genetic Programming, I suggest you read [this introduction](https://alfagroup.csail.mit.edu/sites/default/files/documents/2015%20Genetic%20Programming.%20James%20McDermott%20and%20Una-May%20O%27Reilly.%20Handbook%20of%20Computational%20Intelligence%2C%202015.pdf).
+
+{{< chat machine-learning-is-not-neural-network.md >}}
