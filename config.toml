@@ -7,7 +7,8 @@ enableRobotsTXT = true
 
 copyright = "(C) Some rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh"
 
-params.math = true
+math = true
+wordcount = true
 
 [[params.social]]
 name = "RSS"
