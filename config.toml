@@ -5,9 +5,9 @@ theme = "vitae"
 paginate = 7
 enableRobotsTXT = true
 
-copyright = "(C) All rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh"
+copyright = "(C) Some rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh"
 
-math = true
+params.math = true
 
 [[params.social]]
 name = "RSS"
