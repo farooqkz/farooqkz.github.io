@@ -72,11 +72,6 @@ In general, functional components are a bit faster than Class components. In Inf
 
 ### Final words
 
-In this post I tried to share with you the knowledge I had about optimizing Inferno apps for performance. Let me know if you have any thought in your mind with email and I'll add them at the end of this post:
-
-```
-fkz at riseup dot net
-```
-
+In this post I tried to share with you the knowledge I had about optimizing Inferno apps for performance. Do you know any other way? Let me know through comments!
 
 {{< chat optimizing-infernojs-application-for-performance.md >}}
