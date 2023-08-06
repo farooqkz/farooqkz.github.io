@@ -10,14 +10,14 @@ In the recent years, NNs have grown significantly and we have a huge enthusiasm 
 
 To answer this question, we first need to understand what a "neuron" is and only after that, we can understand the whole concept which is a network formed by these small units. Mathematically speaking, a neuron is a math function which takes a vector of reals, computes each of them with another real named "weight" and will output 1 only if the sum of these multiplications is greater than a threshold:
 
-$$
+$
 
 f(X) = \begin{cases}
   b + \sum_{i=1}^{n}{X_i} \gt 0 \rarr 1 \\
   &\text{o/w} 0
 \end{cases}
 
-$$
+$
 
 If you don't like math, a neuron is simply a machine which takes many numbers, multiplies each of them with another number and only if the sum plus a "bias" or $b$ is greater than a threshold, the machine will turn on and output $1$. Otherwise, the machine will stay off and won't output anything. Strictly speaking, each of these machines uses an "Activation Function" and [the step function](https://en.wikipedia.org/wiki/Step_function) is just one of the choices we have for our neuron.
 
