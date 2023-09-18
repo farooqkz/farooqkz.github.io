@@ -25,9 +25,11 @@ Last but not the least, Mathematics and combinatorics are also very interesting 
 
 ### Languages
 
-I can fully use Persian, Bandari and English. Perhaps Bandari should not be counted as another language. It is spoken by native people of [my city](https://en.wikipedia.org/wiki/Bandar_Abbas), the islands in the south of my city and many villages around my city. Other cities in the same province have a bit different versions of the same language. Language of some people outside the province but close to it are also very similar and distinguished from the language of other people of those provinces.
+I can fully use Persian, Bandari and English. Perhaps Bandari should not be counted as another language. It is spoken by native people of [my city](https://en.wikipedia.org/wiki/Bandar_Abbas), the islands in the south of my city and many villages around. Other cities in the same province have a bit different versions of the same language. Language of some people outside the province but close to it are also very similar and distinguished from the language of other people of those provinces.
 
-I can also understand Arabic. Not good enough to talk but good enough to understand a big portion of texts especially if they are old.
+I can also understand Arabic. Not good enough to talk in most situations. But good enough to understand a big portion of texts especially if they are old.
+
+Last but not the least, it's been a while which I'm learning German.
 
 ### Projects
 
