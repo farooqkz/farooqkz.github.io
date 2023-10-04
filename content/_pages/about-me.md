@@ -31,6 +31,8 @@ I can also understand Arabic. Not good enough to talk in most situations. But go
 
 Last but not the least, it's been a while which I'm learning German.
 
+*Bonus: Find some poems of mine in this website, hidden somewhere, in Arabic, English and Persian!*
+
 ### Projects
 
 Now here we get to the interesting part :)
