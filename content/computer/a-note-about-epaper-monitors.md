@@ -17,3 +17,5 @@ LinusTechTips Youtube channel did a review of an epaper monitor from [Dasung](ht
 A good guess to explain the difference in the quality of experience would be that an epaper monitor just receives the video signals and it can't produce a high quality representation on the epaper panel. But in a tablet the display and the rest of system are closely integrated. It also might be possible that with a different GPU or driver, we could get good quality images from epaper monitors.
 
 A good experiment to see if the latter is possible, would be using a Linux host with a custom display driver and a cheap epaper display from Waveshare or other resellers plus a MCU.
+
+{{< chat a-note-about-epaper-monitors.md >}}
