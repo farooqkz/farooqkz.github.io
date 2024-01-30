@@ -6,6 +6,6 @@ draft: false
 
 This is a photo of people in a meeting for programmers in my city, Bandar Abbas. One face belongs to me and the other to some dead man. Other faces belong to other alive people.
 
-_Don't confuse this meeting with some kind of hacker catch up. Some weren't programmers and others ordinary ones._
+Unfortunately, this meeting and the level of attendants were very frustrating for me...
 
 ![Bandar Abbas meeting of programmers](/photo-bandarabbas-programmers.jpg)
