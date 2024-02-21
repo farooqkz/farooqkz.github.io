@@ -58,3 +58,17 @@ As he saw the first image, he realized two more parameters he could add to the s
 He now knows something worth about the planet and yet he could not say if Ashla is giving him a mission of warning him about something. Either way, it is time for him to head back to the village or more bandits might show up on the road in the absence of light.
 
 ---
+
+A little boy is reflecting blasts coming from an automatic turret using a laser sword he has which is like Lance's. "You are doing great, Davus!" says King Jamp to the little boy. "A good master taught me" says Davus. Lance wakes up. Another vision and this with his last vision sum up in a meaningful way. He is supposed to teach his skills to the little son of King Jamp. Interestingly and also strangely, he doesn't know how to reflect blasts with his laser sword, or lightsaber. Perhaps he must first learn this skill and then teach it to the little Davus taking him as an apprentice? Things are evolving with his powers.
+
+He is also thinking to the accident on the road and the woman who wanted to kill him. Something felt wrong and out of place. He shouldn't have used his anger to kill the women. Killing the woman was right. Acting out of anger felt wrong to him. "From now on, I won't act out of anger or any other feelings anymore." says Lance to himself.
+
+Now he should learn the skill to reflect blasts using his laser sword. It could become extremely handy when he is trying to defend himself against other people and robots as well. Furthermore, perhaps he could reflect the blasts back to their origin and this way he could destroy the origin as well. "Sounds cool" says Lance to himself. But where should he get started? "I'll jump right in the middle of the pool and learn." plans Lance.
+
+Lance takes a trip to his workshop. He already had two automatic turrets somewhere which needed repair. After some struggle, he finally finds one of them. "It's in a decent shape" says Lance to himself. He sets it to the training mode, carries it to the desert, places it somewhere, turns it on and walks few blocks away from it. The turret starts firing, and the first blast hits Lance. So does the second, the third and up the the tenth till Lance starts jumping.
+
+"Lance you are supposed to reflect them not dodge them" says Lance to himself. He turns off the turret to take a break. Ignites his lightsaber and thinks. Then reconfigures the turret to fire in only two direction on the left and the right. Finally, he turns the automatic turret on again. He holds the lightsaber on the left direction. Some blasts come and hit his sword and then reflect while some others hit Lance. "Nice using luck I am at least reflecting some!" says Lance to himself. And suddenly he notices the sun is setting. He turns off the turret and carries it back to his workshop. He feels hungry and he hasn't worked today to get some money. Fortunately, he has some savings and he could avoid work up to a week.
+
+---
+
+It's the tenth day. Lance is able to reflect much of the blasts away from him. But not all of them, not yet.
