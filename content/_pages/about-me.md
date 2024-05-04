@@ -9,7 +9,7 @@ draft: false
 
 My fullname is Farooq Karimi Zadeh Shaquii. Farooq is my first name and that's the name I prefer people to call me with and what most people use to call me. Karimi Zadeh is my last name. And finally, Shaquii is the suffix and is name of my Father's town/homeland.
 
-From a certain point of view, "X Zadeh" lastnames in Persian are like "XSon" in English. "X Zadeh" means we are decendents of "X" just like "XSon", that if we consider the word "Son" decendent idiomatically.
+From a certain point of view, "X Zadeh" lastnames in Persian are like "XSon" in English. "X Zadeh" means we are decendents of "X" just like "XSon", that if we consider the word "Son" "decendent" idiomatically.
 
 ### Technical and Academic interests
 
