@@ -106,7 +106,7 @@ There are several ways to represent these "programs". Initially, Koza used
 [Lisp](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>) to accomplish
 the goal. The feature Lisp had at that time which I believe no other language
 had, was that the Lisp code could also be seen as and work with like some data.
-Koza used Lisp [S-expressions](https://en.wikipedia.org/wiki/S-expression) to represent programs. This feature of Lisp is still quite unique among programming languages. And if you think Lisp is slow, see [Didier Verna's paper "How to make Lisp go faster than C?"](https://www.lrde.epita.fr/~didier/research/publications/papers/verna.06.imecs.html)
+Koza used Lisp [S-expressions](https://en.wikipedia.org/wiki/S-expression) to represent programs. This feature of Lisp is still quite unique among programming languages. (If you think Lisp is slow, see [Didier Verna's paper "How to make Lisp go faster than C?"](https://www.lrde.epita.fr/~didier/research/publications/papers/verna.06.imecs.html))
 And he wrote programs, which were producing programs(or Lisp S-expressions),
 to solve different tasks like evolving a multiplexer.
 
