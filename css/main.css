@@ -64,21 +64,6 @@
   --inline-cd-color: #37342E;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-color: #181714;
-    --txt-color: #FFEECA;
-    --line-color: #433F37;
-    --fn-color: #534F47;
-    --ft-txt-color: #FFEECA;
-    --lk-color: #8192AE;
-    --hover-color: #B1A184;
-    --bq-color: #75271E;
-    --tb1-color: #47443B;
-    --inline-cd-color: #37342E;
-  }
-}
-
 html {
   background-color: var(--bg-color);
 }
@@ -105,6 +90,12 @@ header nav ul,
 header nav li {
   margin: 0;
   padding: 0;
+}
+
+#dark-mode {
+  padding: 0;
+  border: none;
+  background: none;
 }
 
 footer {
@@ -443,6 +434,10 @@ table th {
   font-size: 14px;
   font-style: italic;
   margin: 0 0 10px;
+}
+
+.description {
+  margin: 0;
 }
 
 .pagination {
