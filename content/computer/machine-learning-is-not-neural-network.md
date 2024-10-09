@@ -73,7 +73,7 @@ them one by one and they are efficient when we use loops.
 But these are not widespread, yet.~~
 
 Nowadays, there are NPUs and TPUs out there. But most of these we've got today are capable of
-running small models within a reasonable timeframe. If you want an NPU with good performance for
+running only small models within a reasonable timeframe. If you want an NPU with good performance for
 huge models, such as these LLMs out there, you ought to pay few thousand bucks. Let me know if I'm wrong, in the comments.
 
 ## What other paradigms of ML exist?
