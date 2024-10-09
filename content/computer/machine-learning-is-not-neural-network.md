@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning is not Neural Network"
+title: "Machine Learning is not (only) Neural Network"
 date: 2023-07-11T17:09:08+03:30
 draft: false
 ---
@@ -18,8 +18,8 @@ computes each of them with another real named "weight" and will output 1 only if
 the sum of these multiplications is greater than a threshold:
 
 $$ f(X) = \begin{cases}
-1, & b + \sum_{i=1}^{n}{X_i . w_i} \gt 0  \\
-0, & \text{otherwise}
+1, &\text{if } b + \sum_{i=1}^{n}{X_i . w_i} \gt 0  \\
+0, &\text{if } \text{otherwise}
 \end{cases}
 $$
 
