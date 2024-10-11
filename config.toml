@@ -58,7 +58,7 @@ url = "/math"
 weight = 2
 
 [[menu.main]]
-name = "Computer Science"
+name = "Computing"
 url = "/computer"
 weight = 3
 
