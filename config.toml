@@ -24,28 +24,28 @@ url = "https://github.com/farooqkz"
 name = "Mastodon"
 icon = "fab fa-mastodon"
 rel = "me"
-url = "https://blackrock.city/@farooqkz"
+url = "https://cr8r.gg/@farooqkz"
 
 
 [markup]
-  [markup.highlight]
-	anchorLineNos = false
-	codeFences = true
-	guessSyntax = false
-	hl_Lines = ''
-	lineAnchors = ''
-	lineNoStart = 1
-	lineNos = false
-	lineNumbersInTable = true
-	noClasses = true
-	style = 'monokai'
-	tabWidth = 4
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ''
+lineAnchors = ''
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = 'monokai'
+tabWidth = 4
 
 [params]
-  keywords = ["Farooq", "Farooq Karimi Zadeh", "farooqkz"]
-  math = true
-  favicon = true
-  avatar = "/mylogo0.png"
+keywords = ["Farooq", "Farooq Karimi Zadeh", "farooqkz"]
+math = true
+favicon = true
+avatar = "/mylogo0.png"
 
 [[menu.main]]
 name = "Home"
