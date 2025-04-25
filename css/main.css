@@ -69,6 +69,8 @@ html {
 }
 
 body {
+  direction: rtl;
+  text-align: right;
   font-family: "Roboto Regular", serif;
   font-weight: 400;
   font-size: 18px;
@@ -165,12 +167,15 @@ fieldset {
 textarea {
   resize: vertical;
 }
-
-blockquote {
-  margin-left: 1rem;
-  border-left: 2px solid var(--bq-color);
-  padding-left: 20px;
+[dir="rtl"] blockquote {
+  margin-right: 1rem;
+  margin-left: 0;
+  border-right: 2px solid var(--bq-color);
+  border-left: none;
+  padding-right: 20px;
+  padding-left: 0;
 }
+
 
 blockquote cite {
     font-size: 70%;
@@ -213,7 +218,7 @@ h6 {
 }
 
 ul {
-  padding-left: 15px;
+  padding-right: 15px;
   list-style: disc inside;
 }
 
@@ -253,10 +258,16 @@ table th {
   color: var(--bg-color);
 }
 
-#avatar {
-  float: left;
+[dir="rtl"] #avatar {
   margin-right: 20px;
+  float: right;
 }
+
+[dir="ltr"] #avatar {
+  margin-left: 20px;
+  float: left;
+}
+
 
 #avatar img {
   width: 80px;
@@ -279,11 +290,12 @@ table th {
 
 #titleonly {
   font-size: 4.75rem;
-  margin: 0;
+  margin: 20px;
 }
 
 #titleonly a {
   color: var(--txt-color);
+  margin: 20px;
 }
 
 #titleonly a:hover {
@@ -296,7 +308,7 @@ table th {
 }
 
 #title-social {
-  float: right;
+  float: left;
   margin-top: -54px;
 }
 
@@ -325,7 +337,7 @@ table th {
 #mainmenu nav li {
   display: inline-block;
   list-style: none;
-  margin: 0 30px 0 0;
+  margin: 0 0 0 30px;
 }
 
 #mainmenu li:last-child {
@@ -350,11 +362,12 @@ table th {
 }
 
 .post-header {
+  direction: rtl;
     display: flex;
 }
 
 .post-header .meta .date {
-    margin-right: 19px;
+    margin-left: 19px;
     width: 75px;
     text-align: center;
 }
@@ -433,6 +446,7 @@ table th {
   color: var(--hover-color);
   font-size: 14px;
   font-style: italic;
+  margin-left: 30px;
   margin: 0 0 10px;
 }
 
@@ -628,12 +642,12 @@ p code {
   #titleonly {
     line-height: 1em;
     font-size: 4rem;
-    margin: 0px;
+    margin: 20px;
     text-align: center;
   }
 
   #titletext {
-    margin: 0 0 10px 0;
+    margin: 0 50px 10px 0;
   }
 
   #title-description {
@@ -684,4 +698,20 @@ p code {
   .right, .alignright {
     float: none;
   }
+}
+
+[dir="rtl"] .post-content {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir="rtl"] .post-content *:lang(en) {
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: isolate;
+}
+
+.bidi-mixed {
+  unicode-bidi: plaintext;
+  text-align: start;
 }
