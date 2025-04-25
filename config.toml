@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = "Farooq's"
 theme = "vitae"
 pagination.pagerSize = 7
-buildDrafts = true
 enableRobotsTXT = true
 
 copyright = "(C) Some rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh"
