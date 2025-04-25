@@ -94,8 +94,6 @@ html {
 }
 
 body {
-  direction: rtl;
-  text-align: right;
   font-family: "Roboto Regular", serif;
   font-weight: 400;
   font-size: 18px;
@@ -332,8 +330,13 @@ table th {
   justify-content: space-between;
 }
 
-#title-social {
+[dir="rtl"] #title-social {
   float: left;
+  margin-top: -54px;
+}
+
+[dir="ltr"] #title-social {
+  float: right;
   margin-top: -54px;
 }
 
@@ -362,7 +365,11 @@ table th {
 #mainmenu nav li {
   display: inline-block;
   list-style: none;
-  margin: 0 0 0 30px;
+  margin: 0 30px 0 0;
+}
+
+[dir="rtl"] #mainmenu nav li {
+  margin: 0 0 0 30px !important;
 }
 
 #mainmenu li:last-child {
@@ -387,14 +394,18 @@ table th {
 }
 
 .post-header {
-  direction: rtl;
     display: flex;
 }
 
 .post-header .meta .date {
-    margin-left: 19px;
+    margin-right: 19px;
     width: 75px;
     text-align: center;
+}
+
+[dir="rtl"] .post-header .meta .date {
+  margin-right: unset !important;
+  margin-left: 19px;
 }
 
 .post-header .meta .date .day {
