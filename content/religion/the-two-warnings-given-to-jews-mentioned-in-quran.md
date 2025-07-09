@@ -3,23 +3,33 @@ title: "The two warnings given to Jews mentioned in Quran"
 date: 2022-05-22T17:02:28+04:30
 draft: true
 ---
+[Surah Isra](https://quran.com/17), the 17th Surah of Quran. First talks about the "trip" of the Prophet Muhammad from Haram Mosque to the "furthest mosque", which seems to mean [Soloman's Temple](https://en.wikipedia.org/wiki/Solomon%27s_Temple) in [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem).
 
-The verses in the beginning of the 17th chapter of Quran, talk about two warnings given to Jews which is mentioned in the Scripture or the Book.
-Here you can read the translation of verses in English:
+Then it talks about the Prophet Moses and that God granted him the Scripture and made him a "guide" for the "Children of Israel". After that it talks about a prophecy. The Children of Israel will cause corruption twice and become very arrogant.
 
->  Glory be to the One Who took His servant by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing.
-> And We gave Moses the Scripture and made it a guide for the Children of Israel,  "Do not take besides Me any other Trustee of Affairs",
-> descendants of those We carried with Noah! He was indeed a grateful servant.
+In the first one, God will send "some of his servants with great might" to "ravage their homes". After which God will give Israelis upper hand and aid them with offspring and wealth, causing to outnumber "God's servants".
+
+Then Quran mentions the second that "they" will "disgrace your faces", "enter the Temple as they entered the first time" and "destroy whatever they get control of".
+
+Quran then changes its subject(i.e. it's not Israelis anymore). The last verse talking to them says "May your Lord have mercy upon you. And if you do it again, we'll do it again".
+
+Here you can read the translation of verses in English(by Mustafa Khattab):
+
 > And We warned the Children of Israel in the Scripture, “You will certainly cause corruption in the land twice, and you will become extremely arrogant.
 > When the first of the two warnings would come to pass, We would send against you some of Our servants of great might, who would ravage your homes. This would be a warning fulfilled.
 > Then We would give you the upper hand over them and aid you with wealth and offspring, causing you to outnumber them.
 > If you act rightly, it is for your own good, but if you do wrong, it is to your own loss. “And when the second warning would come to pass, your enemies would totally disgrace you and enter the Temple as they entered it the first time, and utterly destroy whatever would fall into their hands.
 > — Dr. Mustafa Khattab, the Clear Quran
 
-For those who not already familiar with the litrature of Quran, "Children of Israel" is one of the names Quran uses to call what we call today, "Jews".
+What I've understand from Quran is that when Quran says "Children of Israel", it literally means offspring of the Prophet Jacob. Quran also uses the word "the Jews" to refer to the religion. "Children of Israel" and "the Jews" are closely related. But from Quran point of view, they are not the same. Unlike what we've got today.
 
-So Quran talks about two warnings given to Jews that they will cause corruption in the land and/or on Earth. As for the first time, "Some servants of God" and not "some of God's servant" would answer this corruption caused by them and "ravage" their homes.
+The translation of Quran, gives you an idea what is it talking about. But it usually does not cover details. However, still considering this translation, several questions are raised:
 
-First Quran says "Some of those who are our servant" or similar phrase and not "Some of our servants". In Arabic there are more than one way to state that something belongs to the other:
+1. Which scripture is "the Scripture"? Quran or Torah?
+2. What does ravaging their homes mean? Does it mean literally the homes they live in? Or that they'll country and/or kingdom will be ruined?
+3. When it says Israelis will outnumber their enemies, does it mean literally? Or virtually? Jews were almost always in a minority with respect to their population.
+4. Which temple is "the Temple"? According to earlier verses, Quran mentions two: the Haraam/Forbidden Temple in Mecca and the "furthest" Temple in Jerusalem.
+5. Who are these servants of God? Are they unbelievers in God and enemies of Israelis? Or that they are believers?
+6. Are these so called "servants of God" in the first and the second the same?
+7. It says servants of God will destroy everything which comes in their hands. Does it include the Temple?
 
-1. the thing + 
