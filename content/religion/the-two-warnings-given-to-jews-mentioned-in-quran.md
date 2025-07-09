@@ -3,13 +3,13 @@ title: "The two warnings given to Jews mentioned in Quran"
 date: 2022-05-22T17:02:28+04:30
 draft: true
 ---
-[Surah Isra](https://quran.com/17), the 17th Surah of Quran. First talks about the "trip" of the Prophet Muhammad from Haram Mosque to the "furthest mosque", which seems to mean [Soloman's Temple](https://en.wikipedia.org/wiki/Solomon%27s_Temple) in [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem).
+[Surah Isra](https://quran.com/17) first talks about the "trip" of the Prophet Muhammad from the Haram/Forbidden Mosque to the "furthest mosque", which seems to mean [Soloman's Temple](https://en.wikipedia.org/wiki/Solomon%27s_Temple) in [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem).
 
-Then it talks about the Prophet Moses and that God granted him the Scripture and made him a "guide" for the "Children of Israel". After that it talks about a prophecy. The Children of Israel will cause corruption twice and become very arrogant.
+Then it talks about the Prophet Moses and mentions that God granted him the Scripture and made him a "guide" for the "Children of Israel". After that it talks about a prophecy. The Children of Israel will cause corruption twice and become very arrogant.
 
 In the first one, God will send "some of his servants with great might" to "ravage their homes". After which God will give Israelis upper hand and aid them with offspring and wealth, causing to outnumber "God's servants".
 
-Then Quran mentions the second that "they" will "disgrace your faces", "enter the Temple as they entered the first time" and "destroy whatever they get control of".
+Then Quran mentions the second time. "They" will "disgrace your faces", "enter the Temple as they entered the first time" and "destroy whatever they get control of".
 
 Quran then changes its subject(i.e. it's not Israelis anymore). The last verse talking to them says "May your Lord have mercy upon you. And if you do it again, we'll do it again".
 
