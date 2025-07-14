@@ -1,7 +1,7 @@
 ---
 title: What kind of a God we have?
-date: 2025-06-17T08:29:49+03:30
-draft: true
+date: 2025-07-14T08:29:49+03:30
+draft: false
 categories: Religion
 ---
 
