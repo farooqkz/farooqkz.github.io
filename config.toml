@@ -53,26 +53,11 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Math"
-url = "/math"
+name = "Categories"
+url = "/categories"
 weight = 2
 
 [[menu.main]]
-name = "Computing"
-url = "/computer"
-weight = 3
-
-[[menu.main]]
-name = "Religion"
-url = "/religion"
-weight = 4
-
-[[menu.main]]
-name = "Other"
-url = "/other"
-weight = 5
-
-[[menu.main]]
-name = "About me"
+name = "About"
 url = "/_pages/about-me"
 weight = 6
