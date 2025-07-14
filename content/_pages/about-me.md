@@ -4,7 +4,6 @@ date: 2023-04-12T21:49:16+03:30
 draft: false
 ---
 
-
 ### The name
 
 My full name is Farooq Karimi Zadeh Shaquii. Farooq is my first name and that's what I prefer people to call me with. Karimi Zadeh is my last name. And finally, Shaquii is the suffix and is the name of my Father's town/homeland.
@@ -32,16 +31,3 @@ From a certain point of view, "X Zadeh" last names in Persian are like "XSon" in
  - English. I can say I've got a D2 proficiency level since I can invent words, proverbs and idioms xD
  - German. A1
  - Arabic. A1-A2. Just reading and listening. Cannot speak or talk much
-
-### Projects
-
-Now here we get to the interesting part :)
-
-
-
-
-### Friends' websites
-
-Author(s) of these people are not necessary my real life friends. Many of them, I have never seen or talk with them and we were communicating with IM apps. Nevertheless, I would like to include a link to their website because I think they have content useful and interesting. Among these, many of these "hacker friends" don't like the bloated web and prefer to have a gopherhole.
-
- 
