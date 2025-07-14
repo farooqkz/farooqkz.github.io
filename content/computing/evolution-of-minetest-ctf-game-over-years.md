@@ -2,7 +2,7 @@
 title: "Evolution of Minetest CTF game over years"
 date: 2023-06-20T14:20:22+03:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 Years ago, when I was in early highschool, I found Minetest CTF game. Back then, it was introduced by rubenwardy and it had only one map. Mainly because it was a FOSS project, and because contributions were welcome, over years people joined to help developing the game and as some contributors or developers left, some others appeared to replace them.

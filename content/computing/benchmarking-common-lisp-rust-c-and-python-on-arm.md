@@ -2,7 +2,7 @@
 title: "Benchmarking Common Lisp, Rust,  C and Python on ARM"
 date: 2022-11-16T14:19:59+03:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 I have previously benchmarked [C++ against Common Lisp](/computer/cpp-vs-common-lisp-performance/) and the result was that unlike the common belief about Lisp, it can have performance which is almost as fast as C++. After that I did another benchmark for [computing fibonnaci series using Rust, Common Lisp, C and Python](/computer/py-c-rust-cl-benchmark/). But both of these benchmarks were done on **x86_64**. In this benchmark, I'm using the same codes from the last benchmark but run them on an ARM device instead. Unfortunately, my device is old and not ARM64 but still it can be of interest.

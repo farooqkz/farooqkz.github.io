@@ -2,7 +2,7 @@
 title: "The two warnings given to Jews mentioned in Quran"
 date: 2022-05-22T17:02:28+04:30
 draft: true
-category: Religion
+categories: Religion
 ---
 
 [Surah Isra](https://quran.com/17) first talks about the "trip" of the Prophet Muhammad from the Haram/Forbidden Mosque to the "furthest mosque", which seems to mean [Soloman's Temple](https://en.wikipedia.org/wiki/Solomon%27s_Temple) in [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem).

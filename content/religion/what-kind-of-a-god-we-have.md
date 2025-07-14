@@ -2,7 +2,7 @@
 title: What kind of a God we have?
 date: 2025-06-17T08:29:49+03:30
 draft: true
-category: Religion
+categories: Religion
 ---
 
 In our small circle of Quran researchers, someone, named Aqil Suleimani was questioning our imaginations about God. That is, do we know God in Islam well? And does our definition of God, and what he does, match with Quran?
@@ -18,4 +18,3 @@ I think he is asking a good question. More examples from me, God lets people beh
 This leads us to a question:
 
 > Among believers and the Prophets, who does God save and who he lets people kill them? And why? How does God decide who to save?
-

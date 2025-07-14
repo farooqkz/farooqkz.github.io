@@ -1,4 +1,5 @@
 ---
+categories: Misc
 title: "Me in Bandar Abbas programmers meeting"
 date: 2023-05-26T11:52:38+03:30
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: Ollama not accepting PR for Vulkan support
-category: Computing
+categories: Computing
 build:
   render: never
   list: never
@@ -19,4 +19,3 @@ This is a reminder for all of us that a software being FOSS is not enough nowada
 And don't get me wrong. The maintainers of course have the right to not merge the PR. But wasting 7 months time of the PR owner and also the community for this, is the major problem here. If you are hosting your project on a space like Github, and PRs are enabled for your repository, you should make it clear what PR do you accept and what you won't.
 
 In [CONTRIBUTING.md](https://github.com/ollama/ollama/blob/main/CONTRIBUTING.md) it has been written that adding large features may not be accepted. Yet even till now, there is [an open issue](https://github.com/ollama/ollama/issues/2033) about adding Vulkan support and maintainers haven't commented on it. Also there is [another older PR](https://github.com/ollama/ollama/pull/2578) and maintainers haven't made any comment there. And all these 3 are still open at the time of writing this post.
-

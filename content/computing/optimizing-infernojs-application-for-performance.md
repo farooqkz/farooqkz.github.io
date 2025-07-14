@@ -2,7 +2,7 @@
 title: "Optimizing Infernojs Application for Performance"
 date: 2022-02-23T12:53:55+03:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 ![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)

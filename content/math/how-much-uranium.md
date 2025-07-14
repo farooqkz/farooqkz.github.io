@@ -2,7 +2,7 @@
 title: "A math problem: enriching uranium!"
 date: 2022-01-17T13:14:20+03:30
 draft: false
-category: Math
+categories: Math
 ---
 
 ![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)

@@ -2,7 +2,7 @@
 title: "Second Session of Hormozgan Free Software Group"
 date: 2022-02-22T17:45:29+03:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 ![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)

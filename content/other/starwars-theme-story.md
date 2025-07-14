@@ -1,5 +1,6 @@
 ---
 title: "Starwars Theme Story"
+categories: Misc
 date: 2024-01-24T10:58:22Z
 draft: true
 ---
@@ -47,7 +48,7 @@ After some thinking, he decided to use one of those shared terminals in the cafe
 
 As Lance was distancing from the village, he saw someone on the road side asking for help. It seemed a poor woman in trouble. He always believed in helping people and therefore he made a stop to see if he could be of any assist to her.
 
-He stopped and went off the bike.  "Thank you! Thank you so much. I've tried to get help here but there are few transports passing and none of them stop." the women cried to him. "What's the problem, ma'am? Do you need some help?" Lance asked. "Yeah sure" the woman said while she was taking something from her bag "Your wallet and bike could worth a few hundreds" she smiled while pointing her gun towards him.
+He stopped and went off the bike. "Thank you! Thank you so much. I've tried to get help here but there are few transports passing and none of them stop." the women cried to him. "What's the problem, ma'am? Do you need some help?" Lance asked. "Yeah sure" the woman said while she was taking something from her bag "Your wallet and bike could worth a few hundreds" she smiled while pointing her gun towards him.
 
 As the woman shot the first blast towards him, Lance made a big jump entirely out of instinct. It was about 3 or 4 blocks which made both himself and the woman hugely surprised. He dodged the first blast but the woman took out a remote control from his bag and pressed a button. Immediately, a pair of killer bots came out of sand.
 
@@ -71,7 +72,7 @@ As Lance liked to believe her, he also was sensing deception coming from the wom
 
 He turned back to the road to take his bike and continue his trip to the city. It was afternoon, now. And the cafe would close soon. When he got back to the bike, he noticed something extremely strange. The robots weren't there. Just some metal parts here and there. Perhaps someone had exploded them? This way identification of the origin of the droids was about impossible. But he was in a hurry. So he left the site with his bike.
 
-While on the route, Lance was thinking to the incident and the woman who wanted to kill him. Something felt wrong and out of place. He shouldn't have killed the woman. He could maybe just wipe out her memory.  Finding a memory wiper device is not easy at all and can be found only in government facilities or in the hand of criminals. "Killing people must be a last resort, not a first" said Lance to himself and he continued "No more kills from now on, at least as much as possible".
+While on the route, Lance was thinking to the incident and the woman who wanted to kill him. Something felt wrong and out of place. He shouldn't have killed the woman. He could maybe just wipe out her memory. Finding a memory wiper device is not easy at all and can be found only in government facilities or in the hand of criminals. "Killing people must be a last resort, not a first" said Lance to himself and he continued "No more kills from now on, at least as much as possible".
 
 ### In the cafe
 
@@ -113,14 +114,14 @@ While Lance was walking in the streets, there was news everywhere about how grea
 
 Lance found a food store, to eat something as he was starving and also in the hope of some information about King Siran's family or about everything. While at it, he tried to pay the shopkeeper with some Republic credits. This surprised everyone. "How did you come up with republic credits? You must be a traveler!" the shopkeeper responded. The conversation then ran:
 
- - Yeah I'm not from here. I'm from somewhere distant.
- - Not many offworlders here. There are very few ships traveling to our watery planet. And when they do, the Shep's government takes all the republic credits and give the offworlders the local credits.
- - How have you got local credits? All the planets trade with republic credits.
- - I guess Shep loves introducing credits with his name on the plates. Rather than the Republic. Also we aren't a republic member anymore. And we have few planet to planet trades anymore.
- - I see. But I don't have your local credits.
- - Oh I would be glad to take some of your republic credits and give you the local ones.
- - Hahaha that would be something.
- - See! This is a good trade. Both parties benefit.
+- Yeah I'm not from here. I'm from somewhere distant.
+- Not many offworlders here. There are very few ships traveling to our watery planet. And when they do, the Shep's government takes all the republic credits and give the offworlders the local credits.
+- How have you got local credits? All the planets trade with republic credits.
+- I guess Shep loves introducing credits with his name on the plates. Rather than the Republic. Also we aren't a republic member anymore. And we have few planet to planet trades anymore.
+- I see. But I don't have your local credits.
+- Oh I would be glad to take some of your republic credits and give you the local ones.
+- Hahaha that would be something.
+- See! This is a good trade. Both parties benefit.
 
 And the shopkeeper gave the change money with local credits, which were quite a quantity. Then he continued "I don't have more local credits here in the shop, maybe you would like a decent drink and some more food?". Lance replied "I'm kinda full. But I would appreciate the drink. Let's assume you owe me some" and he smiled.
 
@@ -139,3 +140,4 @@ The woman started to look into Lance's pockets and he found the saber. "Oh this 
 The other thugs dragged out their blasters. But Lance used the Source to drag the blasters out of their hands. Which made them shout "Wizard!" and run away.
 
 Lance went to the captain and tried to sense her pulse under her neck. "Good to not have a second" and he continued "I begged you to not press the freaking button. Didn't I?"
+

@@ -2,7 +2,7 @@
 title: "Failed research: Generating vocal form of an English word with Genetic Algorithms"
 date: 2022-10-22T10:15:37+03:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 I thought by using GAs and feeding individual waveforms to a Speech Recognition engine, I could generate vocal form of English word

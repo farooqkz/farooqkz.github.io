@@ -2,9 +2,10 @@
 title: US Propaganda and calling groups "terrorist"
 date: 2025-07-05T11:38:02+03:30
 draft: true
+categories: Misc
 ---
 
-*Note: This is more of a braindump than a well written post*
+_Note: This is more of a braindump than a well written post_
 
 I've been always saying this. Multiple times on Mastodon. Western powers such as Israel, the US and their supporters have a habit of marking people, groups and organizations as "terrorists". Then they won't say they are fighting Palestinians, Russians or Iranians. They call Hamas a terrorist group to justify fighting them and mass murdering them. The Iranian regime has a similar habit and they murder or execute citizens by marking them as ["Wahabi"](https://en.wikipedia.org/wiki/Wahhabism), ["Salafi"](https://en.wikipedia.org/wiki/Salafi_movement) and "Separatist".
 

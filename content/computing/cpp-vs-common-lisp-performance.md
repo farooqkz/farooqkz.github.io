@@ -2,7 +2,7 @@
 title: "C++ vs Common Lisp Performance"
 date: 2022-01-17T12:47:45+03:30
 draft: false
-category: Computing
+categories: Computing
 aliases:
   - /posts/cpp-vs-common-lisp-performance.html
 ---

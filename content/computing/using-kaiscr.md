@@ -2,7 +2,7 @@
 title: "Using KaiScr for taking screenshots and screen mirroring for KaiOS/FFOS"
 date: 2022-01-17T13:30:24+03:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 ![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)

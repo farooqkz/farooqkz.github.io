@@ -2,6 +2,7 @@
 title: "Days of War: A mini diary about Iran Israel war"
 date: 2025-06-17T07:50:50+03:30
 draft: true
+categories: Misc
 ---
 
 Living in Iran has tons of downsides, especially for a programmer like me. But when the June war started, now it's even worse. Here I want to keep a mini diary about each day of war. I live in quite a peaceful city with little or no sign of missles, drones or jets. However, this absolutely does not mean we are okay. We weren't okay before war. And now it's even worse.
@@ -12,11 +13,11 @@ If you are interested in learning about Iran Israel war from someone who lived i
 
 ### The economy
 
-Before the war between Iran and Israel start, we weren't living exactly a quite life. Or a good one. When I was a kid, each US Dollar was like 10,000 Iranian Rials. Now at the time of writing this, I'm 24 and each USD is 960,000 Iranian Rials. This means ruined economy and inflation. 
+Before the war between Iran and Israel start, we weren't living exactly a quite life. Or a good one. When I was a kid, each US Dollar was like 10,000 Iranian Rials. Now at the time of writing this, I'm 24 and each USD is 960,000 Iranian Rials. This means ruined economy and inflation.
 
 Over years, I saw that more and more of my poor people are looking in the trashcans to find something useful. If we go back to like 2015, there weren't many people looking into trashcans. And those who had this business, were looking for metals, glasses and such these. They were looking to find them and then sell them for a price. The ones doing so were men with addictions to drugs, mostly. When they are addicted to them, they usually end up losing their job.
 
-However, in the recent few years, let's say from 2021 to 2025, it's different. Each time I go out of our small town to the city, I would definitely see many men and women, usually young or maybe too young, looking for *anything* good in the trashcans. We've seen many instances in which those people are literally looking for food, for something to eat in the garbage. We've seen people who find some food, maybe a piece of a bread, cake, biscuits or maybe some milk, take it out of the trashcans and eat them. Each time I've seen such a scene, it had a big influence on me.
+However, in the recent few years, let's say from 2021 to 2025, it's different. Each time I go out of our small town to the city, I would definitely see many men and women, usually young or maybe too young, looking for _anything_ good in the trashcans. We've seen many instances in which those people are literally looking for food, for something to eat in the garbage. We've seen people who find some food, maybe a piece of a bread, cake, biscuits or maybe some milk, take it out of the trashcans and eat them. Each time I've seen such a scene, it had a big influence on me.
 
 This is just the surface of my people's life. If you go deeper, you probably will see some stuff far worse than such these. I usually try to not think about these. It hurts. It really hurts.
 
@@ -43,4 +44,3 @@ It was Friday. In the morning we realized that Israel has attacked. They murdere
 It was peaceful in where I was, Bandar Abbas. However, censorship of the Internet connections started. In channels six, they were harshly talking about Israel and were promising "a hard revenge for Iran's people".
 
 ## Day 1: Iran missles hit Israel
-

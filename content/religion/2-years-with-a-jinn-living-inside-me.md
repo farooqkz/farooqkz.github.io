@@ -2,7 +2,7 @@
 title: "2 years with a Jinn living inside me"
 date: 2022-01-17T12:28:08+03:30
 draft: false
-category: Religion
+categories: Religion
 ---
 
 **Updated on 2023-07-16**

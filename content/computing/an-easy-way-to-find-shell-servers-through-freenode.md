@@ -2,7 +2,7 @@
 title: "An Easy Way to Find Shell Servers Through Freenode"
 date: 2022-01-17T12:33:26+03:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 **Update 2023 Auguest 04**

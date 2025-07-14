@@ -2,7 +2,7 @@
 title: "How to switch between inputs of a monitor using Linux CLI?"
 date: 2023-08-06T14:42:34+03:30
 draft: true
-category: Computing
+categories: Computing
 ---
 
 Some monitors, like the one my Father and I are using at home, have more than one input for display. For instance, our monitor, has got 2 display inputs, a VGA and a DVI. You can have both of them connected to 2 computers and switch between them.

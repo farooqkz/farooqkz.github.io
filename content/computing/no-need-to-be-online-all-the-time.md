@@ -2,7 +2,7 @@
 title: No need to be online all the time
 date: 2024-05-14T10:21:52Z
 draft: false
-category: Computing
+categories: Computing
 ---
 
 Recently, a friend and coworker, [Holger Krekel](https://chaos.social/@hpk), is making a series of micro posts on Mastodon about screens, online time and online experience.

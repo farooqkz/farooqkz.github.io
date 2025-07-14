@@ -2,7 +2,7 @@
 title: "How to Study Quran?"
 date: 2022-02-12T15:30:50+03:30
 draft: false
-category: Religion
+categories: Religion
 ---
 
 ![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)

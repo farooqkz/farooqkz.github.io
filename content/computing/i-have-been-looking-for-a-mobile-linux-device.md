@@ -2,7 +2,7 @@
 title: "I've been looking for a mobile Linux device for a while and here's the conclusion"
 date: 2022-08-13T20:03:33+04:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 For a long time, however not continous, I've been looking for a portable Linux device for geekish stuff like shell and programming as well as web browsing and maybe a bit chatting.

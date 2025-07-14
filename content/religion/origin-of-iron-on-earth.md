@@ -2,10 +2,10 @@
 title: "Origin of Iron on Earth"
 date: 2022-06-21T15:29:43+04:30
 draft: false
-category: Religion
+categories: Religion
 ---
 
-Some of the readers might wonder what is this post doing in the "Religion" category of my website.
+Some of the readers might wonder what is this post doing in the "Religion" categories of my website.
 If you are one of those, you will get the answer of your question after reading this entire small post.
 
 According to [some researches](https://www.newscientist.com/article/dn27570-supernova-space-bullets-could-have-seeded-earths-iron-core/) the origin of Iron found on Earth is from the space out of Earth,

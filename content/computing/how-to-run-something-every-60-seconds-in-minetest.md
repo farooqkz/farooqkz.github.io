@@ -2,7 +2,7 @@
 title: "How to run something periodically in Minetest"
 date: 2024-05-04T19:47:13+03:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 This is a quick note to show how to run something periodically in Minetest. What you want to use

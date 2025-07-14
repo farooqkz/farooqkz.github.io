@@ -2,7 +2,7 @@
 title: "A comparison between the Bible and Quran"
 date: 2022-09-14T18:01:28+04:30
 draft: true
-category: Religion
+categories: Religion
 ---
 
 A while ago, a Christian friend of mine, Ivan, asked me about the similarities and differences between

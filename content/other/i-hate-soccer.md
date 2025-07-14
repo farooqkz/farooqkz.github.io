@@ -1,7 +1,8 @@
 ---
+categories: Misc
 title: "I Hate Soccer"
 date: 2018-06-26T19:24:10+04:30
-draft: false 
+draft: false
 ---
 
 **Updadted in Auguest of 2023**
@@ -14,7 +15,6 @@ But why do players get so much? Simply, because people pay attention to them. Sp
 
 Here, many may argue that they don't spend money on these. And that they just watch or follow. This argument is not valid as you help them become more and more famous and thus, other people who want to spend money, get more attracted.
 
-*NOTE: Unfortunately, players are not the only group who get a lot of wealth. Also actors and actresses receive too much money because of us. But now, it is world cup and that's why I've written about soccer players instead of actors/actresses.*
-
+_NOTE: Unfortunately, players are not the only group who get a lot of wealth. Also actors and actresses receive too much money because of us. But now, it is world cup and that's why I've written about soccer players instead of actors/actresses._
 
 {{< chat i-hate-soccer.md >}}

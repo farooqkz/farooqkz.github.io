@@ -2,7 +2,7 @@
 title: A God who does not care
 date: 2023-12-01T10:52:21.000Z
 draft: false
-category: Religion
+categories: Religion
 ---
 
 There are many doctrines which suggest there is a god but one who does not

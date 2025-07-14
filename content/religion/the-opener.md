@@ -2,7 +2,7 @@
 title: "The Opener"
 date: 2022-08-26T14:29:25+04:30
 draft: true
-category: Religion
+categories: Religion
 ---
 
 This post is for those who are interested in Islam and Quran and is about the first chapter of the Book. It would be most interesting for followers of other Abrahamic religions like Christians but would be interesting for the others as well.

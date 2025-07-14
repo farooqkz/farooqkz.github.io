@@ -2,7 +2,7 @@
 title: "A benchmark between Python, C, Rust and Common Lisp for calculating fibonacci series"
 date: 2022-03-31T17:12:35+04:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 ![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)

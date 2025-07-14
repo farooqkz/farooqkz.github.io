@@ -2,7 +2,7 @@
 title: "Machine Learning is not (only) Neural Network"
 date: 2023-07-11T17:09:08+03:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 In the recent years, Neural Networks and their applications have grown significantly. And we have a huge -not yet ending- enthusiasm for them.

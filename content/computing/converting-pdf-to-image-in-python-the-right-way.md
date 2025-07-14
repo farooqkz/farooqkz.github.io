@@ -2,7 +2,7 @@
 title: "Converting PDF to Image in Python(the Right Way)"
 date: 2022-04-13T19:00:32+04:30
 draft: false
-category: Computing
+categories: Computing
 ---
 
 ![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)

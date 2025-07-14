@@ -2,7 +2,7 @@
 title: "A note about Epaper monitors"
 date: 2023-10-06T10:21:52Z
 draft: false
-category: Computing
+categories: Computing
 ---
 
 If you are not already familiar with epaper, it's a display technology which does not emit light and has got a lower refresh rate. Another very important and interesting characteristic of an epaper display is that it needs power only when refreshing. This means you can disconnect power from an epaper display and it will show the last image forever. Though not refreshing them for long will hurt their health.
