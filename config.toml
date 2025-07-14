@@ -57,7 +57,18 @@ name = "Categories"
 url = "/categories"
 weight = 2
 
+
+[[menu.main]]
+name = "Projects"
+url = "/_pages/projects"
+weight = 3
+
+[[menu.main]]
+name = "Links"
+url = "/links"
+weight = 4
+
 [[menu.main]]
 name = "About"
 url = "/_pages/about-me"
-weight = 6
+weight = 5
