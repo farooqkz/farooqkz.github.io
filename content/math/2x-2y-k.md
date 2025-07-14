@@ -2,8 +2,8 @@
 title: "2^x+2^y=k"
 date: 2022-01-16T21:49:16+03:30
 draft: false
+category: Math
 ---
-
 
 2<sup>x</sup> + 2<sup>y</sup> = k where x, y and k are positive integers and k is a constant. The question's that for different values of k how many solution does our equation have? For any odd k there is no solution and for positive powers of 2 there is one. We want a general solution for this equation.
 
@@ -18,6 +18,5 @@ Now consider the case where x != y. Let x = m and y = n. Then k = 2<sup>m</sup> 
 For any other positive integer k, no solutions are possible. We can show this by contradiction. Let k be such that it is neither a positive power of 2 nor a sum of two distinct positive powers of 2. If we assume that a solution exists for such k, then we have two positive integers x and y such that 2<sup>x</sup> + 2<sup>y</sup> = k. If x = y, it contradicts the fact that k is not a positive power of 2. If x != y, it contradicts the fact that k is a sum of two distinct positive powers of 2.
 
 Thus, we can conclude that the equation has exactly 1 solution when k is a positive power of 2, 2 solutions when k is a sum of two distinct positive powers of 2, no solutions otherwise.
-
 
 {{< chat 2x-2y-k.md >}}

@@ -2,6 +2,7 @@
 title: "A math problem: enriching uranium!"
 date: 2022-01-17T13:14:20+03:30
 draft: false
+category: Math
 ---
 
 ![dot for stats](https://farooqkz.de1.hashbang.sh/count/tag.svg)
@@ -19,6 +20,5 @@ So to reach 3.5% uranium, 3 questions get raised:
 3. If with some units of 0.7% uranium, we cannot produce at least a unit of 3.5% uranium, what is the richest which we can produce?
 
 You can solve these questions either by your math skills or your coding skills. Good luck :)
-
 
 {{< chat how-much-uranium.md  >}}

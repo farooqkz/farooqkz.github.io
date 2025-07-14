@@ -1,9 +1,9 @@
 ---
 title: "When a Quadratic equation does not have real roots"
 date: 2022-01-17T13:38:33+03:30
-draft: false 
+draft: false
+category: Math
 ---
-
 
 For any equation as $ax^2 + bx + c = 0$ we have $b^2 - 4ac$ or $\Delta$ smaller than zero thus having no real roots if:
 
