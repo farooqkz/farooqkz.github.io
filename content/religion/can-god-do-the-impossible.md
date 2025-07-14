@@ -1,5 +1,6 @@
 ---
 title: Can God do the impossible?
+category: Religion
 _build:
   render: never
   list: never
@@ -25,3 +26,4 @@ The main motivation behind this resolution is that we see and overcome the limit
 The point is that computers cannot solve an undecidable problem. Unless humans invent a new kind of computer which has different principles. But some of these undecidable problems, notably the [Halt problem](https://en.wikipedia.org/wiki/Halting_problem), can easily be solved by humans. We, humans, use the language and on the top of it logic to think about things and understand the world. But it also comes with some limitations. If we put the conventional logic aside and adopt a new one, we could solve some logical paradoxes, including the omnipotence paradox.
 
 Also as something related, see [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems).
+

@@ -2,6 +2,7 @@
 title: "The Opener"
 date: 2022-08-26T14:29:25+04:30
 draft: true
+category: Religion
 ---
 
 This post is for those who are interested in Islam and Quran and is about the first chapter of the Book. It would be most interesting for followers of other Abrahamic religions like Christians but would be interesting for the others as well.
@@ -20,6 +21,6 @@ So translation of the first verse in "The Opener" and also almost every other Su
 
 Some facts:
 
-  - There is a Surah near the end of Quran which its name is "Rahman".
+- There is a Surah near the end of Quran which its name is "Rahman".
 
 Now let's move to the second verse: "The praise is to(or is for) God the Lord of the Worlds".

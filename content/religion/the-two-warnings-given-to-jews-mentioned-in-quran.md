@@ -2,7 +2,9 @@
 title: "The two warnings given to Jews mentioned in Quran"
 date: 2022-05-22T17:02:28+04:30
 draft: true
+category: Religion
 ---
+
 [Surah Isra](https://quran.com/17) first talks about the "trip" of the Prophet Muhammad from the Haram/Forbidden Mosque to the "furthest mosque", which seems to mean [Soloman's Temple](https://en.wikipedia.org/wiki/Solomon%27s_Temple) in [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem).
 
 Then it talks about the Prophet Moses and mentions that God granted him the Scripture and made him a "guide" for the "Children of Israel". After that it talks about a prophecy. The Children of Israel will cause corruption twice and become very arrogant.
@@ -32,4 +34,3 @@ The translation of Quran, gives you an idea what is it talking about. But it usu
 5. Who are these servants of God? Are they unbelievers in God and enemies of Israelis? Or that they are believers?
 6. Are these so called "servants of God" in the first and the second the same?
 7. It says servants of God will destroy everything which comes in their hands. Does it include the Temple?
-

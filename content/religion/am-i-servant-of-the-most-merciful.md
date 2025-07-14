@@ -2,6 +2,7 @@
 title: "Am I the true servant of the Most Merciful?"
 date: 2022-02-19T16:01:50+03:30
 draft: true
+category: Religion
 ---
 
 Sometimes I think of myself, and my faith. Sometimes I feel like I am the true servant of my Lord, God. But sometimes I feel like I am more like a true follower of Satan and God's not my true Lord and that's just the lies I tell to myself.

@@ -2,6 +2,7 @@
 title: "A comparison between the Bible and Quran"
 date: 2022-09-14T18:01:28+04:30
 draft: true
+category: Religion
 ---
 
 A while ago, a Christian friend of mine, Ivan, asked me about the similarities and differences between
@@ -88,7 +89,6 @@ From [2:75](https://quran.com/2/75)
 From [2:79-81](https://quran.com/2/79-81)
 
 The verses above only targets Jews and Torah. But there are some about Christians and Gospel, too.
-
 
 ## Quran claim to be a miracle but Bible does not
 

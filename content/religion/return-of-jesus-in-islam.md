@@ -2,6 +2,7 @@
 title: "Return of Jesus in Islam"
 date: 2024-10-23T13:46:35+03:30
 draft: true
+category: Religion
 ---
 
 In Islam, given the verses from Quran and Hadiths from the Prophet Muhammad, Muslims believe that one day Jesus will return to fight AntiChrist(or in Arabic, Dajjal the Messiah) and will be ruler of Muslims for sometime. Here I give a summary of evidence within Quranic verses about this.
@@ -31,3 +32,4 @@ Later God says that all or most of the People of Scripture will believe in Jesus
 Summing up these all these verses, as a sign of the Hour, there is a second coming of Jesus and that the People of the Scripture will believe in him before his death. So as you can see, even without referring to the Hadiths from the Prophet Muhammad, we can conclude second coming of Jesus from Quran.
 
 I would like to thank some members of [Islam chatroom on Matrix](https://matrix.to/#/#islam:matrix.org) for their insightful comments and reviews.
+

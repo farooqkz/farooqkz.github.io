@@ -1,7 +1,8 @@
 ---
 title: "2 years with a Jinn living inside me"
 date: 2022-01-17T12:28:08+03:30
-draft: false 
+draft: false
+category: Religion
 ---
 
 **Updated on 2023-07-16**
@@ -18,9 +19,8 @@ I messed school exams up and the more important exam which was Conquer as well. 
 
 I got a recipe from someone and listened to Quran reciting voice everyday. In the beginning listening to Quran was hard for me like a burden. Additionally, listening to Quran was making me angry wanting to break stuff or throw stuff away. I could listen to Quran without having any problem before this period. I was told, when I listen Quran, the Jinn who has possessed me gets pressured and so he/she pressures me to make me stop listening and I had to do the opposite.
 
-I listened to Quran till I got my ability for mind tasks like coding and math back. After this, I am highly confident if I ever disbelieve in Islam and in God. 
+I listened to Quran till I got my ability for mind tasks like coding and math back. After this, I am highly confident if I ever disbelieve in Islam and in God.
 
 Thanks to God, then three people who gave me consults.
-
 
 {{< chat 2-years-with-a-jinn-living-inside-me.md >}}
