@@ -1,0 +1,81 @@
+<!doctype html><html lang=en dir=ltr><head><meta charset=UTF-8><title>C++ vs Common Lisp Performance | Farooq's</title><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=generator content="Hugo 0.148.1"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=keywords content="Farooq,Farooq Karimi Zadeh,farooqkz"><link rel=icon type=image/png href=/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/favicon-16x16.png sizes=16x16><link rel=stylesheet type=text/css media=screen href=/css/normalize.css><link rel=stylesheet type=text/css media=screen href=/css/main.css><link rel=stylesheet type=text/css media=screen href=/css/all.css><script defer src=/js/jalali.js crossorigin=anonymous></script><link rel=stylesheet href=/css/katex.css crossorigin=anonymous><script defer src=/js/katex.js integrity=sha384-HELAAZU8xvHgfT/8z4Mhmu+E2z3oBrMEuywaMh/CEd5uTZIDSct7TEaX+S43+dOi crossorigin=anonymous></script><script defer src=/js/auto-render.js integrity=sha384-0QrOZ8WIARJUoT5pH7Iuzi7iq0mXUXLF9yj5ZvYxTkMRv1zcaPQiOQ9ksHYbKw7M crossorigin=anonymous onload=renderMathInElement(document.body)></script><script>document.addEventListener("DOMContentLoaded",function(){renderMathInElement(document.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}]})})</script><meta property="og:url" content="http://far.chickenkiller.com/computing/cpp-vs-common-lisp-performance/"><meta property="og:site_name" content="Farooq's"><meta property="og:title" content="C++ vs Common Lisp Performance"><meta property="og:description" content="After I read a small paper named How to make Lisp go faster than C I decided to do some small benchmarking myself with C++ and Common Lisp. For benchmarking I have written programs which find prime numbers from 2 up to 384460. All programs were run on my laptop with the following specs and properties:
+C++ bool isprime(unsigned long n) { if (n < 2) return false; for (unsigned long i = 2; i < n; i++) { if (n%i == 0) return false; } return true; } int main() { unsigned count = 0; for (unsigned long i = 2; i <= 384460; i++) { if (isprime(i)) { count++; } } return count; } And the time this program took to find all prime numbers in the given range without optimizing(clang++ prime.cpp):"><meta property="og:locale" content="en_us"><meta property="og:type" content="article"><meta property="article:section" content="computing"><meta property="article:published_time" content="2022-01-17T12:47:45+03:30"><meta property="article:modified_time" content="2022-01-17T12:47:45+03:30"><meta name=twitter:card content="summary"><meta name=twitter:title content="C++ vs Common Lisp Performance"><meta name=twitter:description content="After I read a small paper named How to make Lisp go faster than C I decided to do some small benchmarking myself with C++ and Common Lisp. For benchmarking I have written programs which find prime numbers from 2 up to 384460. All programs were run on my laptop with the following specs and properties:
+C++ bool isprime(unsigned long n) { if (n < 2) return false; for (unsigned long i = 2; i < n; i++) { if (n%i == 0) return false; } return true; } int main() { unsigned count = 0; for (unsigned long i = 2; i <= 384460; i++) { if (isprime(i)) { count++; } } return count; } And the time this program took to find all prime numbers in the given range without optimizing(clang++ prime.cpp):"><meta itemprop=name content="C++ vs Common Lisp Performance"><meta itemprop=description content="After I read a small paper named How to make Lisp go faster than C I decided to do some small benchmarking myself with C++ and Common Lisp. For benchmarking I have written programs which find prime numbers from 2 up to 384460. All programs were run on my laptop with the following specs and properties:
+C++ bool isprime(unsigned long n) { if (n < 2) return false; for (unsigned long i = 2; i < n; i++) { if (n%i == 0) return false; } return true; } int main() { unsigned count = 0; for (unsigned long i = 2; i <= 384460; i++) { if (isprime(i)) { count++; } } return count; } And the time this program took to find all prime numbers in the given range without optimizing(clang++ prime.cpp):"><meta itemprop=datePublished content="2022-01-17T12:47:45+03:30"><meta itemprop=dateModified content="2022-01-17T12:47:45+03:30"><meta itemprop=wordCount content="352"></head><script defer>const persianRegex=/[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\u200B\u200D\u2060\u0020]/g;document.addEventListener("DOMContentLoaded",function(){const e=document.querySelectorAll(`
+    .markdown p,
+    .markdown h1,
+    .markdown h2,
+    .markdown h3,
+    .markdown h4,
+    .markdown h5,
+    .markdown h6,
+    .markdown li,
+    .markdown blockquote,
+    .markdown dd,
+    .markdown dt,
+    .markdown td,
+    .markdown th,
+    pre
+    .post-header
+  `);e.forEach(e=>{const n=e.textContent[0].match(persianRegex)!==null,s=Array.from(e.textContent.matchAll(persianRegex)).length*(n?1.2:1),t=s>=e.textContent.length/2;e.style.direction=t?"rtl":"ltr",e.style.textAlign=t?"right":"left",e.tagName.match(/^H[1-6]$/)&&(e.style.marginRight=t?"1rem":"-1",e.style.marginLeft=t?"0":"1rem")})})</script><body><header><div id=avatar><a href=http://far.chickenkiller.com/><img src=/mylogo0.png alt="Farooq's"></a></div><div id=titletext><h2 id=titleonly><a href=http://far.chickenkiller.com/>Farooq's</a></h2></div><div id=title-social><div id=social><nav><ul><li><a href=/index.xml rel=me aria-label=RSS><span title=RSS class="icons fas fa-rss" aria-hidden=true></span></a></li><li><a href=https://github.com/farooqkz rel=me aria-label=Github><span title=Github class="icons fab fa-github" aria-hidden=true></span></a></li><li><a href=https://cr8r.gg/@farooqkz rel=me aria-label=Mastodon><span title=Mastodon class="icons fab fa-mastodon" aria-hidden=true></span></a></li><li><button id=dark-mode aria-label="Switch Dark Mode"><span title="Switch Dark Mode" class="icons fas fa-moon" aria-hidden=true></span></button></li></ul></nav></div></div><div id=mainmenu><nav><ul><li><a href=/>Home</a></li><li><a href=/math>Math</a></li><li><a href=/computer>Computing</a></li><li><a href=/religion>Religion</a></li><li><a href=/other>Other</a></li><li><a href=/_pages/about-me>About me</a></li></ul></nav></div></header><main><div class=post dir=auto><article><div class=post-header dir=auto><div class=meta dir=auto><div class=date data-date=2022-01-17><span class=day>17</span>
+<span class=rest>Jan 2022</span></div></div><div class=matter dir=auto><h1 class=title>C++ vs Common Lisp Performance</h1><p class=post-meta dir=auto><span class=post-meta></span></p></div></div><div class=markdown><p><figure><img src=https://farooqkz.de1.hashbang.sh/count/tag.svg alt="dot for stats"></figure></p><p>After I read a small paper named <a href=http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf target=_blank>How to make Lisp go faster than C</a> I decided to do some small benchmarking myself with C++ and Common Lisp. For benchmarking I have written programs which find prime numbers from 2 up to 384460. All programs were run on my laptop with the following specs and properties:</p><p><figure><img src=/farooqs-laptop-specs.png alt="Specs of Farooq&rsquo;s laptop"></figure></p><h4 id=c>C++</h4><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-cpp data-lang=cpp><span style=display:flex><span><span style=color:#66d9ef>bool</span> <span style=color:#a6e22e>isprime</span>(<span style=color:#66d9ef>unsigned</span> <span style=color:#66d9ef>long</span> n) {
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>if</span> (n <span style=color:#f92672>&lt;</span> <span style=color:#ae81ff>2</span>) <span style=color:#66d9ef>return</span> false;
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>unsigned</span> <span style=color:#66d9ef>long</span> i <span style=color:#f92672>=</span> <span style=color:#ae81ff>2</span>; i <span style=color:#f92672>&lt;</span> n; i<span style=color:#f92672>++</span>) {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> (n<span style=color:#f92672>%</span>i <span style=color:#f92672>==</span> <span style=color:#ae81ff>0</span>) <span style=color:#66d9ef>return</span> false;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>return</span> true;
+</span></span><span style=display:flex><span>}
+</span></span><span style=display:flex><span><span style=color:#66d9ef>int</span> <span style=color:#a6e22e>main</span>() {
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>unsigned</span> count <span style=color:#f92672>=</span> <span style=color:#ae81ff>0</span>;
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>unsigned</span> <span style=color:#66d9ef>long</span> i <span style=color:#f92672>=</span> <span style=color:#ae81ff>2</span>; i <span style=color:#f92672>&lt;=</span> <span style=color:#ae81ff>384460</span>; i<span style=color:#f92672>++</span>) {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> (isprime(i)) {
+</span></span><span style=display:flex><span>            count<span style=color:#f92672>++</span>;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>return</span> count;
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><p>And the time this program took to find all prime numbers in the given range without optimizing(<code>clang++ prime.cpp</code>):</p><pre tabindex=0><code>real    1m2.907s
+user    1m2.816s
+sys 0m0.084s
+</code></pre><p>And with <code>-O3</code> option:</p><pre tabindex=0><code>real    0m54.604s
+user    0m54.566s
+sys 0m0.008s
+</code></pre><p>Also with <code>-O2</code> option:</p><pre tabindex=0><code>real    0m53.953s
+user    0m53.953s
+sys 0m0.000s
+</code></pre><h4 id=common-lisp-untyped>Common Lisp untyped</h4><p>Code:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-cl data-lang=cl><span style=display:flex><span>(defun isprime (n)
+</span></span><span style=display:flex><span>  (<span style=color:#66d9ef>if</span> (<span style=color:#a6e22e>&lt;</span> n <span style=color:#ae81ff>2</span>)
+</span></span><span style=display:flex><span>      <span style=color:#66d9ef>nil</span>
+</span></span><span style=display:flex><span>      (loop for i from <span style=color:#ae81ff>2</span> to (<span style=color:#a6e22e>1-</span> n)
+</span></span><span style=display:flex><span>        when (<span style=color:#a6e22e>zerop</span> (<span style=color:#a6e22e>mod</span> n i))
+</span></span><span style=display:flex><span>          return <span style=color:#66d9ef>nil</span>
+</span></span><span style=display:flex><span>        finally
+</span></span><span style=display:flex><span>           (return <span style=color:#66d9ef>t</span>))))
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>(defun main ()
+</span></span><span style=display:flex><span>  (loop for i from <span style=color:#ae81ff>2</span> to <span style=color:#ae81ff>384460</span> <span style=color:#a6e22e>count</span> (isprime i)))
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>(main)
+</span></span></code></pre></div><p>And the time it took:</p><pre tabindex=0><code>real    2m0.889s
+user    2m0.805s
+sys 0m0.078s
+</code></pre><p>Common Lisp typed and optimized</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-cl data-lang=cl><span style=display:flex><span>(declaim (<span style=color:#66d9ef>optimize</span> (speed <span style=color:#ae81ff>3</span>) (safety <span style=color:#ae81ff>0</span>) (debug <span style=color:#ae81ff>0</span>)))
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>(defun isprime (n)
+</span></span><span style=display:flex><span>  (<span style=color:#66d9ef>declare</span> (<span style=color:#66d9ef>type</span> <span style=color:#66d9ef>fixnum</span> n))
+</span></span><span style=display:flex><span>  (<span style=color:#66d9ef>if</span> (<span style=color:#a6e22e>&lt;</span> n <span style=color:#ae81ff>2</span>)
+</span></span><span style=display:flex><span>      <span style=color:#66d9ef>nil</span>
+</span></span><span style=display:flex><span>      (loop for i <span style=color:#66d9ef>fixnum</span> from <span style=color:#ae81ff>2</span> to (<span style=color:#a6e22e>1-</span> n)
+</span></span><span style=display:flex><span>        when (<span style=color:#a6e22e>zerop</span> (<span style=color:#a6e22e>mod</span> n i))
+</span></span><span style=display:flex><span>          return <span style=color:#66d9ef>nil</span>
+</span></span><span style=display:flex><span>        finally
+</span></span><span style=display:flex><span>           (return <span style=color:#66d9ef>t</span>))))
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>(defun main ()
+</span></span><span style=display:flex><span>  (loop for i <span style=color:#66d9ef>fixnum</span> from <span style=color:#ae81ff>2</span> to <span style=color:#ae81ff>384460</span> <span style=color:#a6e22e>count</span> (isprime i)))
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>(main)
+</span></span></code></pre></div><p>And the time it took:</p><pre tabindex=0><code>real    0m59.837s
+user    0m59.755s
+sys 0m0.070s
+</code></pre><p>As you see according to these results CL typed and optimized code is a bit slower than the C++ version. However someone who helped me a lot in <code>#clschool</code> on freenode reported that both C++ version and CL typed version ran in 21.6s.</p><p><strong>NOTE: I used SBCL for both typed and untyped versions</strong></p><h4 id=thanks-to>Thanks to</h4><ul><li>People in #clschool who helped me</li><li>Didier Verna for his good paper</li></ul><script type=text/javascript src=/cactus.js></script><link rel=stylesheet href=/style.css type=text/css><div id=comment-section></div><script>window.onload=()=>initComments({node:document.getElementById("comment-section"),defaultHomeserverUrl:"https://matrix.cactus.chat:8448",serverName:"cactus.chat",siteName:"far.chickenkiller.com",commentSectionId:"cpp-vs-common-lisp-performance.md"})</script></div></div></article></div></main><footer>(C) Some rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh</footer><script src=/js/dark-mode.js></script></body></html>
