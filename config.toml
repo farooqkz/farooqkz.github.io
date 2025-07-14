@@ -65,7 +65,7 @@ weight = 3
 
 [[menu.main]]
 name = "Links"
-url = "/links"
+url = "/_pages/links"
 weight = 4
 
 [[menu.main]]
