@@ -47,6 +47,8 @@ math = true
 favicon = true
 avatar = "/mylogo0.png"
 
+mainSections = ["computing", "religion", "misc", "math"]
+
 [[menu.main]]
 name = "Home"
 url = "/"
