@@ -1,0 +1,17 @@
+---
+title: Is there anyone controlling the World
+date: 2025-07-24T17:41:51+03:30
+draft: true
+---
+
+Some people here say Jews/Israelis control the world. They say America is controlled by them. And then America has very huge influence on the world. An atheist suddenly becomes interested in magic and asks a Muslim what does Islam and other Abrahamic religions say about magic. Another atheist or agnostic has become upside down, became a devoted Muslim. Then he says that Jews control people using magic and medias. He says Jews manipulate stock markets to their own desire. Stock market is approximately a zero sum game. This means for people who gain, there are people who lose. If Israelis gain through the market, this means some other lose. Money brings you power and influence if you govern it the right way. To be precise, it's the delta of money which concludes that. If everyone are rich, why should someone take a loan from you and repay the original money plus interest? If someone is able to manipulate the stock market and gain from it, they are increasing this "delta" at twice the rate. If you just start a normal business, you increase your money. But if you do it with stock market, you not only increase your own money but also decrease other's money.
+
+Do Jews really control the World? I can't imagine anyone at this level of wealth, and therefore influence, having any good intentions. Even if some of them are good people, the majority are not. And what we feel at he bottom of the pyramid is sum of influence of people.
+
+If Jews have some major influence, which Jews have this? What do they want to get to? Obviously, there are very few select Jews who have this level of influence. But wouldn't this mean that the other Jews just simply follow this small group? Isn't that what happens in every society? The body following the heads? Most of the time, there are very few people who think independently, and act dependently. And their influence will be lost because it's a summation.
+
+In the modern age, loans with interest from Banks are a common thing. Even though Quran forbids it, some Muslims just take them. Are rich people trying to enslave us using loans? Making us poorer? Remember the money delta?
+
+The Quran researcher says they have programmed Muslims and Islam as it is today, centuries ago. Is he making things too dramatic? But to say the least, Muslims, Sunni and Shia have made themselves a library of books. And Quran is just one in million. Even when Muslims want to understand Quran, they use proxies such as commentaries to study it. He says who would dare to independently study Quran. The common modern people will call her, the one doing so, one wasting time on ancient legends and myths. And when she finds stuff in Quran which aren't compatible with the common Muslim view, Muslims will be very harsh to her. Even if she says she is a believer, Muslims won't stay silent and leave her be. Executions have happened before in the past in the Abassyd era. Now, of course, it's modern age and executions won't happen anymore. But to stop someone, you needn't murder. Words go a long way.
+
+So now I'm sending this to a Github repo. Will these words trigger an alert? Will they accuse me of hate speech even though I didn't rule all Jews as one? Will they watch me silently and add me to their watch list? Or perhaps my imagination work too good?
