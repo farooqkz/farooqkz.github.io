@@ -1,7 +1,7 @@
 ---
 title: Wakegp 25 Jul 2025 Devlog
 date: 2025-07-25T10:05:52+03:30
-draft: true
+draft: false
 categories: Computing
 ---
 
@@ -21,6 +21,8 @@ I did some experiments with a small fraction of the dataset. Like 800 data point
  - What to do with "overflow" and anormal numbers. In some data points and with some programs, the values of registers grow too big and become infinite. Then the output register's value might become anormal, including `NaN`. And then you can't determine its sign, which is the prediction. I came to the conclusion that I let these anormalies happen. Then when the output is anormal, I define it as false prediction.
  - Effect of my invented parsimony pressure method in combination with deletion mutation. The parameters are `n` for my method, chance of mutation and deletions per mutation. That is, for each program to be mutated, how many instructions are affected. I came to the conclusion that a big chance of mutation, like over `0.5`, with a small number of deletions per mutation and `BestAndWorst = 4` have the best results with respect to both average size and fitness.
  - Best value for FFT size. I found that a value from `7000` to `8000` yields the best for a sample rate of `48000`
+ - Utility of `Oversize` feature of WakeGP. This is still unknown. But it seems `Oversize` causes the population to converge much faster when used with `Tournment > 8`, `Truncate` or `Average` selection methods. And of course, it significantly grows the average size.
+ - Which instruction set performs the best.
 
 Validity of these experiments are of great question:
  - I've used only 800+800 data points for the train dataset. If I use a realistic value, like 10k, would I get the same results?
@@ -62,3 +64,8 @@ So many questions remain unanswered:
  - Would a bigger number for register cells yield better results? Like `48`?
  - How much are these size limits valid for higher accuracies?
  - Did my method to control sizes, also handicap the programs to have lower accuracy?
+## Future experiments
+
+Today, some new features has been added to WakeGP, walking a new direction. First, the features and constants which the best found individual uses, are printed. Second, a new config, `dataset_config.selected_features` which is an array of integers has been added. Combined, this allows testing different features. One can do like 200 runs. Then using the features which are commonly selected among best performing runs, we can then evolve programs to use only those specific features.
+
+Note that `dataset_config.selected_features` is optional and as its positions suggests, it can be used with both `from_wave` and `from_csv`.
