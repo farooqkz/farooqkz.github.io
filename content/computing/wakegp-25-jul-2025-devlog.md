@@ -1,5 +1,5 @@
 ---
-title: Wakegp 25 Jul 2025 Devlog
+title: WakeGP 25 Jul 2025 Devlog
 date: 2025-07-25T10:05:52+03:30
 draft: false
 categories: Computing
@@ -17,40 +17,42 @@ First and most important, for a long time, I didn't have an almost formal proces
 
 I did some experiments with a small fraction of the dataset. Like 800 data points for each class. These experiments included:
 
- - Best values for combinations of `register,coefficients` number. I found that `r=8,coeff=20` is the best
- - What to do with "overflow" and anormal numbers. In some data points and with some programs, the values of registers grow too big and become infinite. Then the output register's value might become anormal, including `NaN`. And then you can't determine its sign, which is the prediction. I came to the conclusion that I let these anormalies happen. Then when the output is anormal, I define it as false prediction.
- - Effect of my invented parsimony pressure method in combination with deletion mutation. The parameters are `n` for my method, chance of mutation and deletions per mutation. That is, for each program to be mutated, how many instructions are affected. I came to the conclusion that a big chance of mutation, like over `0.5`, with a small number of deletions per mutation and `BestAndWorst = 4` have the best results with respect to both average size and fitness.
- - Best value for FFT size. I found that a value from `7000` to `8000` yields the best for a sample rate of `48000`
- - Utility of `Oversize` feature of WakeGP. This is still unknown. But it seems `Oversize` causes the population to converge much faster when used with `Tournment > 8`, `Truncate` or `Average` selection methods. And of course, it significantly grows the average size.
- - Which instruction set performs the best.
+- Best values for combinations of `register,coefficients` number. I found that `r=8,coeff=20` is the best
+- What to do with "overflow" and anormal numbers. In some data points and with some programs, the values of registers grow too big and become infinite. Then the output register's value might become anormal, including `NaN`. And then you can't determine its sign, which is the prediction. I came to the conclusion that I let these anormalies happen. Then when the output is anormal, I define it as false prediction.
+- Effect of my invented parsimony pressure method in combination with deletion mutation. The parameters are `n` for my method, chance of mutation and deletions per mutation. That is, for each program to be mutated, how many instructions are affected. I came to the conclusion that a big chance of mutation, like over `0.5`, with a small number of deletions per mutation and `BestAndWorst = 4` have the best results with respect to both average size and fitness.
+- Best value for FFT size. I found that a value from `7000` to `8000` yields the best for a sample rate of `48000`
+- Utility of `Oversize` feature of WakeGP. This is still unknown. But it seems `Oversize` causes the population to converge much faster when used with `Tournment > 8`, `Truncate` or `Average` selection methods. And of course, it significantly grows the average size.
+- Which instruction set performs the best.
 
 Validity of these experiments are of great question:
- - I've used only 800+800 data points for the train dataset. If I use a realistic value, like 10k, would I get the same results?
- - Accuracy of these runs are around 80%. Are these data also valid when the programs become more accurate than 95% which is the project goal?
+
+- I've used only 800+800 data points for the train dataset. If I use a realistic value, like 10k, would I get the same results?
+- Accuracy of these runs are around 80%. Are these data also valid when the programs become more accurate than 95% which is the project goal?
 
 ## Heavy experiments
 
-I wrote a small Python script to test 1680 different combinations of parameters. What I included was number of registers, coefficients, constants, maximum size limit and  FFT size. There were a total of ~90k runs.
+I wrote a small Python script to test 1680 different combinations of parameters. What I included was number of registers, coefficients, constants, maximum size limit and FFT size. There were a total of ~90k runs.
 
- - The values for `register_cells` were `{8, 16, 32, 64, 128}`
- - The values for number of coefficients were `{10, 20, 40, 80, 100, 120}`
- - The values for FFT size were `{1000, 2000, 4000, 7000, 8000, 12000}`
- - The values for number of constants were `{8, 16, 32, 64}`
- - The values for size limit `{512, 1024}`
- - `6000+1000` data point were used as the train dataset. 
+- The values for `register_cells` were `{8, 16, 32, 64, 128}`
+- The values for number of coefficients were `{10, 20, 40, 80, 100, 120}`
+- The values for FFT size were `{1000, 2000, 4000, 7000, 8000, 12000}`
+- The values for number of constants were `{8, 16, 32, 64}`
+- The values for size limit `{512, 1024}`
+- `6000+1000` data point were used as the train dataset.
 
 The best found combinations are:
+
 ```
 reg.coeff.fft.const.size_limit
-32.20.8000.32.1024  
+32.20.8000.32.1024
 16.20.8000.16.1024
-32.20.7000.32.1024  
-32.20.8000.8.1024  
-32.20.7000.16.1024  
-16.20.8000.32.1024  
-32.20.8000.16.1024  
-32.20.8000.64.1024  
-16.20.8000.8.1024  
+32.20.7000.32.1024
+32.20.8000.8.1024
+32.20.7000.16.1024
+16.20.8000.32.1024
+32.20.8000.16.1024
+32.20.8000.64.1024
+16.20.8000.8.1024
 32.20.8000.32.1536
 ```
 
@@ -59,11 +61,13 @@ All of these have got `deletion_mutation_rate = 0.5`, `deletions_per_mutation = 
 The last combination wasn't part of the initial experiments. However, I tested a higher limit manually to see if I could get better fitness values. As you can see, a big number of constants is favored.
 
 So many questions remain unanswered:
- - How many of the constants did programs use? When doing these experiments, the software didn't have a feature to output this.
- - How many of the coefficients, out of the 20, did the programs use? I tried doing feature selection at the same time.
- - Would a bigger number for register cells yield better results? Like `48`?
- - How much are these size limits valid for higher accuracies?
- - Did my method to control sizes, also handicap the programs to have lower accuracy?
+
+- How many of the constants did programs use? When doing these experiments, the software didn't have a feature to output this.
+- How many of the coefficients, out of the 20, did the programs use? I tried doing feature selection at the same time.
+- Would a bigger number for register cells yield better results? Like `48`?
+- How much are these size limits valid for higher accuracies?
+- Did my method to control sizes, also handicap the programs to have lower accuracy?
+
 ## Future experiments
 
 Today, some new features has been added to WakeGP, walking a new direction. First, the features and constants which the best found individual uses, are printed. Second, a new config, `dataset_config.selected_features` which is an array of integers has been added. Combined, this allows testing different features. One can do like 200 runs. Then using the features which are commonly selected among best performing runs, we can then evolve programs to use only those specific features.
