@@ -41,6 +41,11 @@ noClasses = true
 style = 'monokai'
 tabWidth = 4
 
+[params.goatcounter]
+enabled = true
+src = "/count.js"
+endpoint = "https://farooqkz.goatcounter.com/count"
+
 [params]
 keywords = ["Farooq", "Farooq Karimi Zadeh", "farooqkz"]
 math = true
