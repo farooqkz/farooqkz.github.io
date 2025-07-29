@@ -4,7 +4,6 @@ draft: true
 categories: Computing
 tags:
   - dailynote
-  - wakegp
 date: 2025-07-28T10:05:52+03:30
 ---
 One might say I'm too obsessed about Lisp. Or about "unconventional" things. Maybe I am. Or maybe dead technologies have got some gems which you cannot find in the modern world of computing.
