@@ -1,6 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>_Pages on Farooq's</title><link>http://far.chickenkiller.com/_pages/</link><description>Recent content in _Pages on far.chickenkiller.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>(C) Some rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh</copyright><lastBuildDate>Thu, 10 Jul 2025 17:31:40 +0330</lastBuildDate><atom:link href="http://far.chickenkiller.com/_pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Links</title><link>http://far.chickenkiller.com/_pages/links/</link><pubDate>Thu, 10 Jul 2025 17:31:40 +0330</pubDate><guid>http://far.chickenkiller.com/_pages/links/</guid><description>
-These are the interesting folks who I would like to mention them here with a link:
-lumidify’s gopherhole: He is almost at the same age as …</description></item><item><title>Projects</title><link>http://far.chickenkiller.com/_pages/projects/</link><pubDate>Thu, 10 Jul 2025 17:31:37 +0330</pubDate><guid>http://far.chickenkiller.com/_pages/projects/</guid><description>
-Lead developer These are the projects which I lead.
-One time These are the one time projects which I wasn’t supposed to maintain them in the …</description></item><item><title>About Farooq Karimi Zadeh</title><link>http://far.chickenkiller.com/_pages/about-me/</link><pubDate>Wed, 12 Apr 2023 21:49:16 +0330</pubDate><guid>http://far.chickenkiller.com/_pages/about-me/</guid><description>
-The name My full name is Farooq Karimi Zadeh Shaquii. Farooq is my first name and that’s what I prefer people to call me with. Karimi Zadeh …</description></item></channel></rss>
+&lt;p>These are the interesting folks who I would like to mention them here with a link:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="gopher://lumidify.org">lumidify’s gopherhole&lt;/a>: He is almost at the same age as me. He doesn&amp;rsquo;t like bloated stuff like the Web and many softwares in today&amp;rsquo;s world. Last time I was with contact with him, he was creating a text editor with C.&lt;/li>
+&lt;li>&lt;a href="https://chronovir.us/" target="_blank">Luxferre’s weblog&lt;/a>: Another hacker but much older than me. Dislikes bloated stuff and the founder of BananaHackers community.&lt;/li>
+&lt;li>&lt;a href="https://strukturart.com" target="_blank">John David Deubl(strukturart)&lt;/a>: An Artist, Analogue photographer, poet and hardworking programmer. I always admired his constant distraction-free hardwork in my heart.&lt;/li>
+&lt;li>&lt;a href="https://git.abscue.de/affe_null" target="_blank">Affe Null&lt;/a>: This hacker have done significant work and is a BananaHacker council member. You might know about &lt;a href="https://git.abscue.de/bananian/bananian" target="_blank">the port of Debian to 8110&lt;/a>, &lt;a href="https://git.abscue.de/obp/bananui/bananui" target="_blank">the shell for the same phone&lt;/a> and &lt;a href="https://git.abscue.de/affe_null/weeknd-toolbox" target="_blank">his toolbox for hacking Nokia 2780 flip&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://framagit.org/mskf1383" target="_blank">Muhammad Saleh Kamyab&lt;/a>: This boy is another young programmer. He has also interests in literature which is quite rare among programmers!&lt;/li>
+&lt;/ul>
+&lt;p>Also this website is a member of &lt;a href="https://envs.net" target="_blank">envs.net&lt;/a> &lt;a href="https://en.wikipedia.org/wiki/Webring" target="_blank">webring&lt;/a>. To navigate in the ring,
+you can use the following links:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://envs.net/ring/?action=prev&amp;amp;me=farooqkz" target="_blank">Previous website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://envs.net/ring/?action=next&amp;amp;me=farooqkz" target="_blank">Next website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://envs.net/ring/?action=random&amp;amp;me=farooqkz" target="_blank">Random website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>To join the webring, see &lt;a href="https://envs.net/ring/" target="_blank">here&lt;/a>&lt;/p></description></item><item><title>Projects</title><link>http://far.chickenkiller.com/_pages/projects/</link><pubDate>Thu, 10 Jul 2025 17:31:37 +0330</pubDate><guid>http://far.chickenkiller.com/_pages/projects/</guid><description>
+&lt;h2 id="lead-developer">Lead developer&lt;/h2>
+&lt;p>These are the projects which I lead.&lt;/p>
+&lt;h3 id="one-time">One time&lt;/h3>
+&lt;p>These are the one time projects which I wasn&amp;rsquo;t supposed to maintain them in the long term.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://notabug.org/bananaphone/fooplot" target="_blank">fooplot&lt;/a>(Javascript): A simple app for KaiOS to graph mathematical functions&lt;/li>
+&lt;li>&lt;a href="https://notabug.org/bananaphone/talkingbot" target="_blank">Talking bot for KaiOS&lt;/a>(Vanilla Javascript): A talking(not chatting) bot toy app for KaiOS&lt;/li>
+&lt;li>&lt;a href="https://notabug.org/bananaphone/vm-irc" target="_blank">VM-IRC&lt;/a>(Javascript, JQuery): A simple and minimal IRC client for KaiOS with limited functionality&lt;/li>
+&lt;li>&lt;a href="https://notabug.org/bananaphone/simplequran" target="_blank">simplequran&lt;/a>: A very simple app to read the Holy Quran&lt;/li>
+&lt;li>&lt;a href="https://notabug.org/farooqkz/drawlogo86" target="_blank">drawlogo86&lt;/a>(x86 Assembly): This program displays a 16x16 sprite(possibly your logo!) when you boot your storage.&lt;/li>
+&lt;li>&lt;a href="https://notabug.org/farooqkz/KaiScr" target="_blank">KaiScr&lt;/a>(Python): Two small programs written in Python to record screen of a KaiOS 2.x device as well as watching a live stream of it&lt;/li>
+&lt;li>&lt;a href="https://codeberg.org/farooqkz/msim" target="_blank">msim&lt;/a>(Common Lisp): A small program written in Common Lisp to simulate a simple Mafia/Werewolf game with presence of fool. Then it finds out how much of a winning chance do each of the teams and the fool have got.&lt;/li>
+&lt;/ul>
+&lt;h3 id="maintained">Maintained&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/deltachat-bot/deltachat-loginbot" target="_blank">deltachat-loginbot&lt;/a>(Rust, Axum): Written with &lt;a href="https://rust-lang.org" target="_blank">Rust&lt;/a> and &lt;a href="https://github.com/tokio-rs/axum" target="_blank">axum&lt;/a>, it covers enough of &lt;a href="https://oauth.net" target="_blank">OAuth2&lt;/a> specification so that users of a &lt;a href="https://discourse.org" target="_blank">Discourse&lt;/a> instance can login with their &lt;a href="https://delta.chat" target="_blank">DeltaChat&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://github.com/farooqkz/stack-gp-test" target="_blank">stack-gp-test&lt;/a>(Rust): An example program, written in Rust, which solves a simple Symbolic Regression problem using Stack based Genetic Programming. Includes some text about Genetic Programming, Stack based Genetic Programming and the Symbolic Regression problem in general.&lt;/li>
+&lt;li>&lt;a href="https://codeberg.org/farooqkz/wakegp" target="_blank">wakegp&lt;/a>(Rust, rayon, cranelift): Exploiting &lt;a href="https://en.wikipedia.org/wiki/Linear_genetic_programming" target="_blank">Linear Genetic Programming&lt;/a> to do wake word detection using &lt;a href="https://en.wikipedia.org/wiki/Binary_classification" target="_blank">binary classification&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://codeberg.org/farooqkz/hugo-vitae" target="_blank">Vitae&lt;/a>(Javascript, Hugo): This is theme of this blog. When Benedikt gave up on maintaining the theme, I took over.&lt;/li>
+&lt;/ul>
+&lt;h3 id="not-maintained">Not maintained&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/farooqkz/KaiUIng" target="_blank">KaiUIng&lt;/a>(SASS, SCSS, CSS, InfernoJS, Typescript): A UI library for KaiOS. With &lt;a href="https://infernojs.org" target="_blank">Inferno&lt;/a> bindings.&lt;/li>
+&lt;li>&lt;a href="https://github.com/farooqkz/chooj" target="_blank">chooj&lt;/a>(Typescript, InfernoJS, KaiOS): A &lt;a href="https://matrix.org" target="_blank">Matrix&lt;/a> client for &lt;a href="https://en.wikipedia.org/wiki/KaiOS" target="_blank">KaiOS&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://notabug.org/farooqkz/fobil" target="_blank">fobil&lt;/a>(Common Lisp): A simple static blog generator&lt;/li>
+&lt;li>&lt;a href="https://notabug.org/farooqkz/mtbotter" target="_blank">mtbotter&lt;/a>(C++): A library to create &lt;a href="https://minetest.net" target="_blank">Minetest&lt;/a> bots. I don&amp;rsquo;t remember anything about it. If I wanted Minetest bots again, I would replicate the protocol implementation in Rust.&lt;/li>
+&lt;li>&lt;a href="https://notabug.org/farooqkz/BHA" target="_blank">BHA&lt;/a>(Python): Bash History Analyzer&lt;/li>
+&lt;li>&lt;a href="https://notabug.org/farooqkz/PotatoEgg" target="_blank">PotatoEgg&lt;/a>(Cherrypy, Python, Vanilla Javascript): A simple file manager but web based&lt;/li>
+&lt;li>&lt;a href="https://github.com/farooqkz/chooj-pushgateway" target="_blank">chooj’s push-gateway&lt;/a>(Python, Flask): A Matrix client needs a push gateway server to deliever push notifications. The current version is more a prototype. For real world usage, I would change it or even rewrite it in Rust.&lt;/li>
+&lt;li>&lt;a href="https://github.com/farooqkz/ctf-notify" target="_blank">ctf-notify&lt;/a>(Flask, Python, React, Javascript): A small web application to get current status of &lt;a href="https://ctf.rubenwardy.com" target="_blank">the Minetest CTF server&lt;/a> as well as getting notification when the desired setup(map/mode/online players) is being played.&lt;/li>
+&lt;/ul>
+&lt;h2 id="major-contributor">Major contributor&lt;/h2>
+&lt;p>These are the projects which I have contributed significant amount of code to them.&lt;/p>
+&lt;h3 id="active">Active&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/deltachat/message-parser" target="_blank">message-parser&lt;/a>(Rust, nom): This is utilized to parse different portions of a text message in DeltaChat Desktop. We hope that in future, it could be utilized in other DeltaChat apps as well. I&amp;rsquo;m thinking I could even one day use it in chooj.&lt;/li>
+&lt;li>&lt;a href="https://github.com/MT-CTF" target="_blank">Minetest Capture the Flag&lt;/a>(Lua, Minetest/Luanti): I think my first contribution was somewhere around 2020-2021. Not so sure. Also read &lt;a href="http://far.chickenkiller.com/computer/evolution-of-minetest-ctf-game-over-years/">this post of mine&lt;/a> regarding the history of the game, as well as &lt;a href="https://blog.rubenwardy.com/2023/08/16/minetest-ctf-is-10/" target="_blank">this post from rubenwardy on his blog&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h3 id="past-contributor">Past contributor&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/deltachat/deltachat-desktop" target="_blank">DeltaChat Desktop&lt;/a>(Electron, Tauri, Typescript, React, SCSS, SASS): See &lt;a href="https://delta.chat" target="_blank">DeltaChat&lt;/a>. Utilizes a backend such as Electron or Tauri and a frontend written using React and Javascript.&lt;/li>
+&lt;/ul></description></item><item><title>About Farooq Karimi Zadeh</title><link>http://far.chickenkiller.com/_pages/about-me/</link><pubDate>Wed, 12 Apr 2023 21:49:16 +0330</pubDate><guid>http://far.chickenkiller.com/_pages/about-me/</guid><description>
+&lt;h3 id="the-name">The name&lt;/h3>
+&lt;p>My full name is Farooq Karimi Zadeh Shaquii. Farooq is my first name and that&amp;rsquo;s what I prefer people to call me with. Karimi Zadeh is my last name. And finally, Shaquii is the suffix and is the name of my Father&amp;rsquo;s town/homeland.&lt;/p>
+&lt;h4 id="the-last-name">The last name&lt;/h4>
+&lt;p>From a certain point of view, &amp;ldquo;X Zadeh&amp;rdquo; last names in Persian are like &amp;ldquo;XSon&amp;rdquo; in English. &amp;ldquo;X Zadeh&amp;rdquo; means we are descendants of &amp;ldquo;X&amp;rdquo;. In my childhood, when we were in the cemetery of our town, I tried finding my late grandfather&amp;rsquo;s grave, then his father, his grandfather and so on. Finally I found that one of our forefathers was named &amp;ldquo;Karim&amp;rdquo;. I couldn&amp;rsquo;t find Karim&amp;rsquo;s grave.&lt;/p>
+&lt;h3 id="interests">Interests&lt;/h3>
+&lt;ul>
+&lt;li>Programming&lt;/li>
+&lt;li>Computing&lt;/li>
+&lt;li>Unconventional Computing. Including Cellular Automata, Neural Computing, Analog Computing and Ternary Computers&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Genetic Programming and Evolutionary Algorithms&lt;/li>
+&lt;li>Abrahamic Religions&lt;/li>
+&lt;li>Philosophy&lt;/li>
+&lt;li>Logic(not just boolean!)&lt;/li>
+&lt;li>Mathematics&lt;/li>
+&lt;li>Electronics&lt;/li>
+&lt;li>Decentralized systems. Including Fediverse, decentralized search engines and decentralized IMs&lt;/li>
+&lt;/ul>
+&lt;h3 id="languages">Languages&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Garmsiri_language" target="_blank">Bandari&lt;/a>. A language spoken by a vast number of residents of &lt;a href="https://en.wikipedia.org/wiki/Hormozgan_province" target="_blank">Hormozgan&lt;/a> in the South of Iran. I&amp;rsquo;m a native Bandari&lt;/li>
+&lt;li>Persian. Yeah I&amp;rsquo;m a Persian :)&lt;/li>
+&lt;li>English. I can say I&amp;rsquo;ve got a D2 proficiency level since I can invent words, proverbs and idioms xD&lt;/li>
+&lt;li>German. A1&lt;/li>
+&lt;li>Arabic. A1-A2. Just reading and listening. Cannot speak or talk much&lt;/li>
+&lt;/ul></description></item></channel></rss>

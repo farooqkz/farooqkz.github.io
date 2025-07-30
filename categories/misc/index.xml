@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Misc on Farooq's</title><link>http://far.chickenkiller.com/categories/misc/</link><description>Recent content in Misc on far.chickenkiller.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>(C) Some rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh</copyright><lastBuildDate>Fri, 26 May 2023 11:52:38 +0330</lastBuildDate><atom:link href="http://far.chickenkiller.com/categories/misc/index.xml" rel="self" type="application/rss+xml"/><item><title>Me in Bandar Abbas programmers meeting</title><link>http://far.chickenkiller.com/other/me-in-bandar-abbas-programmers-meeting/</link><pubDate>Fri, 26 May 2023 11:52:38 +0330</pubDate><guid>http://far.chickenkiller.com/other/me-in-bandar-abbas-programmers-meeting/</guid><description>
-This is a photo of people in a meeting for programmers in my city, Bandar Abbas. One face belongs to me and the other to some dead man. …</description></item><item><title>You are not dumb</title><link>http://far.chickenkiller.com/other/you-are-not-dumb/</link><pubDate>Mon, 10 Apr 2023 12:37:23 +0330</pubDate><guid>http://far.chickenkiller.com/other/you-are-not-dumb/</guid><description>
-It is common among some teenagers from 15 to 17 or so. They call themselves “dumb”, “idiot” and such these words. They think they are not …</description></item><item><title>Porn has good aspects, read why</title><link>http://far.chickenkiller.com/other/porn-has-good-aspects-read-why/</link><pubDate>Sun, 15 May 2022 11:15:19 +0430</pubDate><guid>http://far.chickenkiller.com/other/porn-has-good-aspects-read-why/</guid><description>
-The title might be misleading. You won’t read here why Porn is good. You’ll rather read what good aspects does Porn have.
-In my opinion, as …</description></item><item><title>I Hate Soccer</title><link>http://far.chickenkiller.com/other/i-hate-soccer/</link><pubDate>Tue, 26 Jun 2018 19:24:10 +0430</pubDate><guid>http://far.chickenkiller.com/other/i-hate-soccer/</guid><description>
-Updadted in Auguest of 2023
-I’m not talking about soccer itself but this business around soccer which is really awful. I hate it and I have …</description></item></channel></rss>
+&lt;p>This is a photo of people in a meeting for programmers in my city, Bandar Abbas. One face belongs to me and the other to some dead man. Other faces belong to other alive people.&lt;/p>
+&lt;p>Unfortunately, this meeting and the level of attendants were very frustrating for me&amp;hellip;&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="http://far.chickenkiller.com/photo-bandarabbas-programmers.jpg" alt="Bandar Abbas meeting of programmers" />
+&lt;/figure>&lt;/p></description></item><item><title>You are not dumb</title><link>http://far.chickenkiller.com/other/you-are-not-dumb/</link><pubDate>Mon, 10 Apr 2023 12:37:23 +0330</pubDate><guid>http://far.chickenkiller.com/other/you-are-not-dumb/</guid><description>
+&lt;p>It is common among some teenagers from 15 to 17 or so. They call themselves &amp;ldquo;dumb&amp;rdquo;, &amp;ldquo;idiot&amp;rdquo; and such these words. They think they are not worthy. To be honest, I had similar behaviors when I was a teenager. And now I know I was wrong.&lt;/p>
+&lt;p>The reason I was considering myself an &amp;ldquo;idiot&amp;rdquo; was simply because my knowledge was very limited. And my learning process was super slow. But after years, I have come to this understanding that a slow but constant learning rate can have great effects after a few years. Actually, I believe a slow but long term and constant is much better than a super fast progress which sometimes comes and most of the time is absent. There is a proverb for this in Persian: The true traveller is the one who goes constantly slow rather than the one who doesn&amp;rsquo;t walk the way but sometimes does a quick run.&lt;/p>
+&lt;p>The problem&amp;rsquo;s that these teenagers believe they are idiots because they can&amp;rsquo;t become the Master of one thing(for example some branch of Math or some programming language or any branch of science) in just a 24/7 effort.&lt;/p>
+&lt;p>If you want to master something, you don&amp;rsquo;t need to move fast. You need to have constant and slow steps. You don&amp;rsquo;t need to push yourself too hard, just have small daily exercises and try to not miss a day. As a progammer, I tend to code or think about problems almost everyday. Even when I am with family, I sometimes think to the problems. Not just technical ones but also philosophical ones.&lt;/p>
+&lt;p>If you want to master something, and you are a teenager around 15 or so now, it is a good time to start. But don&amp;rsquo;t expect to understand everything instantly. It is a fact that some concepts in science, need some effort and time to deeply understand them. And usually you can&amp;rsquo;t do it in half the time, your mind really needs to adapt itself to the new situation.&lt;/p>
+&lt;h3 id="a-real-world-example">A real world example&lt;/h3>
+&lt;p>A friend of mine, &lt;a href="https://github.com/b-simjoo" target="_blank">Behnam Simjoo&lt;/a>, is TA of a fundemental CS course in &lt;a href="https://hormozgan.ac.ir" target="_blank">Hormozgan University&lt;/a>. He and I been doing programming(and not Computer Science) for long since school. He always says those without programming background can&amp;rsquo;t have their mind adapted in just one semester(3-4 months) to think like a programmer. And the University is quite on the wrong track in asking them to pass this course in one semester. Needless to say that the way a considerable number of students in this country, perhaps a majority of them, are not even near the right track in choosing their academic branch which is mandatory from highschool.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "you-are-not-dumb.md"
+})
+&lt;/script></description></item><item><title>Porn has good aspects, read why</title><link>http://far.chickenkiller.com/other/porn-has-good-aspects-read-why/</link><pubDate>Sun, 15 May 2022 11:15:19 +0430</pubDate><guid>http://far.chickenkiller.com/other/porn-has-good-aspects-read-why/</guid><description>
+&lt;p>The title might be misleading. You won&amp;rsquo;t read here why &lt;a href="https://en.wikipedia.org/wiki/Pornography" target="_blank">Porn&lt;/a> is good. You&amp;rsquo;ll rather read what good aspects does Porn have.&lt;/p>
+&lt;p>In my opinion, as son of a &lt;a href="https://en.wikipedia.org/wiki/Muslims" target="_blank">Muslim&lt;/a>(and not necessarily a Muslim),
+everything which God has created has some good aspects greater than its bad aspects or God would not have
+created it. It&amp;rsquo;s simple: All God wants is good and has the power to do
+so(e.g. God is &lt;a href="https://en.wikipedia.org/wiki/Omnipotence" target="_blank">omnipotent&lt;/a>) and also the wisdom to do so.&lt;/p>
+&lt;p>So what is the good aspect of Porn? Learning how to have sex with your wife?
+Of course not! There are several articles in &lt;a href="https://en.wikipedia.org/wiki/Sexology" target="_blank">Sexology&lt;/a> as well as
+&lt;a href="https://en.wikipedia.org/wiki/Psychology" target="_blank">Psychology&lt;/a> stating watching Porn has bad effects on one&amp;rsquo;s sexual life.&lt;/p>
+&lt;p>As you probably know, different people in different situations have different behaviors. For example when I&amp;rsquo;m tired or had little sleep, at the end of the day you could make me angry easily yelling at you. As for Porn, when some groups of boys are watching Porn together(or at least pretending to it) and inviting others around to do so, you&amp;rsquo;ll have a chance to &lt;em>know&lt;/em> people. There are some who happily accept the invite and some who refuse it. You&amp;rsquo;ve got a chance to recognize those who refuse and don&amp;rsquo;t do dirty jobs.&lt;/p>
+&lt;p>From this point of view, even existence of Satan/Devil seems good: You can test, ditinguish and recognize those who listen to Satan and those who refuse. And this might be an answer to &lt;a href="https://en.wikipedia.org/wiki/Problem_of_evil" target="_blank">the problem of Evil&lt;/a>.&lt;/p>
+&lt;h4 id="a-comment">A comment&lt;/h4>
+&lt;ul>
+&lt;li>A friend commented that &amp;ldquo;Men watching porn together will lead to homosexuality&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "porn-has-good-aspects-read-why.md"
+})
+&lt;/script></description></item><item><title>I Hate Soccer</title><link>http://far.chickenkiller.com/other/i-hate-soccer/</link><pubDate>Tue, 26 Jun 2018 19:24:10 +0430</pubDate><guid>http://far.chickenkiller.com/other/i-hate-soccer/</guid><description>
+&lt;p>&lt;strong>Updadted in Auguest of 2023&lt;/strong>&lt;/p>
+&lt;p>I&amp;rsquo;m not talking about soccer itself but this business around soccer which is really awful. I hate it and I have got an ideology behind.&lt;/p>
+&lt;p>Soccer players and other sport players get too much salary and fame(players of other sports probably get less) they don&amp;rsquo;t deserve. I think most people agree with this if not all. You can compare this to salaries of doctors rescuing you and your family or the farmer which you would die of hunger if they weren&amp;rsquo;t or a writer or a teacher.&lt;/p>
+&lt;p>But why do players get so much? Simply, because people pay attention to them. Sport fans from one year or months before a game, buy tickets. And they are greedy to buy clothes of players, their ball, and other their stuff. A part of this money goes to players&amp;rsquo; bank accounts. another part goes to other people&amp;rsquo;s account participating in this business. So why do they get so much money? Because you give!&lt;/p>
+&lt;p>Here, many may argue that they don&amp;rsquo;t spend money on these. And that they just watch or follow. This argument is not valid as you help them become more and more famous and thus, other people who want to spend money, get more attracted.&lt;/p>
+&lt;p>&lt;em>NOTE: Unfortunately, players are not the only group who get a lot of wealth. Also actors and actresses receive too much money because of us. But now, it is world cup and that&amp;rsquo;s why I&amp;rsquo;ve written about soccer players instead of actors/actresses.&lt;/em>&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "i-hate-soccer.md"
+})
+&lt;/script></description></item></channel></rss>

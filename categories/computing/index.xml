@@ -1,20 +1,820 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computing on Farooq's</title><link>http://far.chickenkiller.com/categories/computing/</link><description>Recent content in Computing on far.chickenkiller.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>(C) Some rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh</copyright><lastBuildDate>Fri, 25 Jul 2025 10:05:52 +0330</lastBuildDate><atom:link href="http://far.chickenkiller.com/categories/computing/index.xml" rel="self" type="application/rss+xml"/><item><title>WakeGP 25 Jul 2025 Devlog</title><link>http://far.chickenkiller.com/computing/wakegp-25-jul-2025-devlog/</link><pubDate>Fri, 25 Jul 2025 10:05:52 +0330</pubDate><guid>http://far.chickenkiller.com/computing/wakegp-25-jul-2025-devlog/</guid><description>
-Checking the project’s git log, the first commit is in early 2023. And now at the time of writing this devlog, it’s mid 2025. 2.5 years …</description></item><item><title>No need to be online all the time</title><link>http://far.chickenkiller.com/computing/no-need-to-be-online-all-the-time/</link><pubDate>Tue, 14 May 2024 10:21:52 +0000</pubDate><guid>http://far.chickenkiller.com/computing/no-need-to-be-online-all-the-time/</guid><description>
-Recently, a friend and coworker, Holger Krekel, is making a series of micro posts on Mastodon about screens, online time and online …</description></item><item><title>How to run something periodically in Minetest</title><link>http://far.chickenkiller.com/computing/how-to-run-something-every-60-seconds-in-minetest/</link><pubDate>Sat, 04 May 2024 19:47:13 +0330</pubDate><guid>http://far.chickenkiller.com/computing/how-to-run-something-every-60-seconds-in-minetest/</guid><description>
-This is a quick note to show how to run something periodically in Minetest. What you want to use is globalstep. With …</description></item><item><title>A note about Epaper monitors</title><link>http://far.chickenkiller.com/computing/a-note-about-epaper-monitors/</link><pubDate>Fri, 06 Oct 2023 10:21:52 +0000</pubDate><guid>http://far.chickenkiller.com/computing/a-note-about-epaper-monitors/</guid><description>
-If you are not already familiar with epaper, it’s a display technology which does not emit light and has got a lower refresh rate. Another …</description></item><item><title>Machine Learning is not (only) Neural Network</title><link>http://far.chickenkiller.com/computing/machine-learning-is-not-neural-network/</link><pubDate>Tue, 11 Jul 2023 17:09:08 +0330</pubDate><guid>http://far.chickenkiller.com/computing/machine-learning-is-not-neural-network/</guid><description>
-In the recent years, Neural Networks and their applications have grown significantly. And we have a huge -not yet ending- enthusiasm for …</description></item><item><title>Evolution of Minetest CTF game over years</title><link>http://far.chickenkiller.com/computing/evolution-of-minetest-ctf-game-over-years/</link><pubDate>Tue, 20 Jun 2023 14:20:22 +0330</pubDate><guid>http://far.chickenkiller.com/computing/evolution-of-minetest-ctf-game-over-years/</guid><description>
-Years ago, when I was in early highschool, I found Minetest CTF game. Back then, it was introduced by rubenwardy and it had only one map. …</description></item><item><title>Benchmarking Common Lisp, Rust, C and Python on ARM</title><link>http://far.chickenkiller.com/computing/benchmarking-common-lisp-rust-c-and-python-on-arm/</link><pubDate>Wed, 16 Nov 2022 14:19:59 +0330</pubDate><guid>http://far.chickenkiller.com/computing/benchmarking-common-lisp-rust-c-and-python-on-arm/</guid><description>
-I have previously benchmarked C++ against Common Lisp and the result was that unlike the common belief about Lisp, it can have performance …</description></item><item><title>Failed research: Generating vocal form of an English word with Genetic Algorithms</title><link>http://far.chickenkiller.com/computing/failed-research-generating-vocal-form-of-an-english-word-with-genetic-algorithms/</link><pubDate>Sat, 22 Oct 2022 10:15:37 +0330</pubDate><guid>http://far.chickenkiller.com/computing/failed-research-generating-vocal-form-of-an-english-word-with-genetic-algorithms/</guid><description>
-I thought by using GAs and feeding individual waveforms to a Speech Recognition engine, I could generate vocal form of English word “hello”. …</description></item><item><title>I've been looking for a mobile Linux device for a while and here's the conclusion</title><link>http://far.chickenkiller.com/computing/i-have-been-looking-for-a-mobile-linux-device/</link><pubDate>Sat, 13 Aug 2022 20:03:33 +0430</pubDate><guid>http://far.chickenkiller.com/computing/i-have-been-looking-for-a-mobile-linux-device/</guid><description>
-For a long time, however not continous, I’ve been looking for a portable Linux device for geekish stuff like shell and programming as well …</description></item><item><title>Converting PDF to Image in Python(the Right Way)</title><link>http://far.chickenkiller.com/computing/converting-pdf-to-image-in-python-the-right-way/</link><pubDate>Wed, 13 Apr 2022 19:00:32 +0430</pubDate><guid>http://far.chickenkiller.com/computing/converting-pdf-to-image-in-python-the-right-way/</guid><description>
-If you use your favorite search engine to learn how to “convert pdf to image” in Python, you will find many websites like GeeksforGeeks …</description></item><item><title>A benchmark between Python, C, Rust and Common Lisp for calculating fibonacci series</title><link>http://far.chickenkiller.com/computing/py-c-rust-cl-benchmark/</link><pubDate>Thu, 31 Mar 2022 17:12:35 +0430</pubDate><guid>http://far.chickenkiller.com/computing/py-c-rust-cl-benchmark/</guid><description>
-A few years ago I did a benchmark between Common Lisp and C++ and wrote pieces of code for determining if a number is prime or not. Unlike …</description></item><item><title>Optimizing Infernojs Application for Performance</title><link>http://far.chickenkiller.com/computing/optimizing-infernojs-application-for-performance/</link><pubDate>Wed, 23 Feb 2022 12:53:55 +0330</pubDate><guid>http://far.chickenkiller.com/computing/optimizing-infernojs-application-for-performance/</guid><description>
-InfernoJS, a fork of ReactJS for mobile, is very high performance Javascript UI framework. It has good features of ReactJS, except big …</description></item><item><title>Second Session of Hormozgan Free Software Group</title><link>http://far.chickenkiller.com/computing/second-session-of-hormozgan-free-software-group/</link><pubDate>Tue, 22 Feb 2022 17:45:29 +0330</pubDate><guid>http://far.chickenkiller.com/computing/second-session-of-hormozgan-free-software-group/</guid><description>
-Yesterday, I was in the 2nd session of Hormozgan Free Software Group for people in Bandar Abbas, Hormozgan, Iran. It was a very good …</description></item><item><title>Using KaiScr for taking screenshots and screen mirroring for KaiOS/FFOS</title><link>http://far.chickenkiller.com/computing/using-kaiscr/</link><pubDate>Mon, 17 Jan 2022 13:30:24 +0330</pubDate><guid>http://far.chickenkiller.com/computing/using-kaiscr/</guid><description>
-This video shows usage of my two scripts kailive.py and kaiscr.py. They’re hosted on NotABug
-The video is now on PeerTube and Youtube</description></item><item><title>C++ vs Common Lisp Performance</title><link>http://far.chickenkiller.com/computing/cpp-vs-common-lisp-performance/</link><pubDate>Mon, 17 Jan 2022 12:47:45 +0330</pubDate><guid>http://far.chickenkiller.com/computing/cpp-vs-common-lisp-performance/</guid><description>
-After I read a small paper named How to make Lisp go faster than C I decided to do some small benchmarking myself with C++ and Common Lisp. …</description></item><item><title>An Easy Way to Find Shell Servers Through Freenode</title><link>http://far.chickenkiller.com/computing/an-easy-way-to-find-shell-servers-through-freenode/</link><pubDate>Mon, 17 Jan 2022 12:33:26 +0330</pubDate><guid>http://far.chickenkiller.com/computing/an-easy-way-to-find-shell-servers-through-freenode/</guid><description>
-Update 2023 Auguest 04
-Someone reading this post in 2023 might wonder what is a shell server and what is it good for?
-A shell server, is a …</description></item></channel></rss>
+&lt;p>Checking the project&amp;rsquo;s &lt;code>git log&lt;/code>, the first commit is in early 2023. And now at the time of writing this devlog, it&amp;rsquo;s mid 2025. 2.5 years since I started WakeGP research has passed. As the first research project, I chose something big. This, and at the same time the gray dog tying me hands, made this research take more than 2 years.&lt;/p>
+&lt;p>The problem with gray dog ruling you is not just that you&amp;rsquo;ll have reduced work hours. But also that you&amp;rsquo;ll have lower concentration. And this could result in a negative impact. Various ridiculous bugs which I found in feature extraction. And those made all my 6 months(or more) of experiments, all in vein.&lt;/p>
+&lt;p>The goal I have for WakeGP is training sequential programs which detect if a specific wake word has been spoken. And I&amp;rsquo;ve chosen Genetic Programming to achieve this goal. At the time of writing this log, I&amp;rsquo;ve done several experiments to realize so many times I had chosen the wrong route.&lt;/p>
+&lt;p>First and most important, for a long time, I didn&amp;rsquo;t have an almost formal process to learn which direction should I take. That is you do like 500 runs for two setups and see which one will perform better. But there is a Persian proverb which says whenever you catch the fish, it&amp;rsquo;s fresh. I think in English they might say late is better than never.&lt;/p>
+&lt;h2 id="light-quick-experiments">Light quick experiments&lt;/h2>
+&lt;p>I did some experiments with a small fraction of the dataset. Like 800 data points for each class. These experiments included:&lt;/p>
+&lt;ul>
+&lt;li>Best values for combinations of &lt;code>register,coefficients&lt;/code> number. I found that &lt;code>r=8,coeff=20&lt;/code> is the best&lt;/li>
+&lt;li>What to do with &amp;ldquo;overflow&amp;rdquo; and anormal numbers. In some data points and with some programs, the values of registers grow too big and become infinite. Then the output register&amp;rsquo;s value might become anormal, including &lt;code>NaN&lt;/code>. And then you can&amp;rsquo;t determine its sign, which is the prediction. I came to the conclusion that I let these anormalies happen. Then when the output is anormal, I define it as false prediction.&lt;/li>
+&lt;li>Effect of my invented parsimony pressure method in combination with deletion mutation. The parameters are &lt;code>n&lt;/code> for my method, chance of mutation and deletions per mutation. That is, for each program to be mutated, how many instructions are affected. I came to the conclusion that a big chance of mutation, like over &lt;code>0.5&lt;/code>, with a small number of deletions per mutation and &lt;code>BestAndWorst = 4&lt;/code> have the best results with respect to both average size and fitness.&lt;/li>
+&lt;li>Best value for FFT size. I found that a value from &lt;code>7000&lt;/code> to &lt;code>8000&lt;/code> yields the best for a sample rate of &lt;code>48000&lt;/code>&lt;/li>
+&lt;li>Utility of &lt;code>Oversize&lt;/code> feature of WakeGP. This is still unknown. But it seems &lt;code>Oversize&lt;/code> causes the population to converge much faster when used with &lt;code>Tournment &amp;gt; 8&lt;/code>, &lt;code>Truncate&lt;/code> or &lt;code>Average&lt;/code> selection methods. And of course, it significantly grows the average size.&lt;/li>
+&lt;li>Which instruction set performs the best.&lt;/li>
+&lt;/ul>
+&lt;p>Validity of these experiments are of great question:&lt;/p>
+&lt;ul>
+&lt;li>I&amp;rsquo;ve used only 800+800 data points for the train dataset. If I use a realistic value, like 10k, would I get the same results?&lt;/li>
+&lt;li>Accuracy of these runs are around 80%. Are these data also valid when the programs become more accurate than 95% which is the project goal?&lt;/li>
+&lt;/ul>
+&lt;h2 id="heavy-experiments">Heavy experiments&lt;/h2>
+&lt;p>I wrote a small Python script to test 1680 different combinations of parameters. What I included was number of registers, coefficients, constants, maximum size limit and FFT size. There were a total of ~90k runs.&lt;/p>
+&lt;ul>
+&lt;li>The values for &lt;code>register_cells&lt;/code> were &lt;code>{8, 16, 32, 64, 128}&lt;/code>&lt;/li>
+&lt;li>The values for number of coefficients were &lt;code>{10, 20, 40, 80, 100, 120}&lt;/code>&lt;/li>
+&lt;li>The values for FFT size were &lt;code>{1000, 2000, 4000, 7000, 8000, 12000}&lt;/code>&lt;/li>
+&lt;li>The values for number of constants were &lt;code>{8, 16, 32, 64}&lt;/code>&lt;/li>
+&lt;li>The values for size limit &lt;code>{512, 1024}&lt;/code>&lt;/li>
+&lt;li>&lt;code>6000+1000&lt;/code> data point were used as the train dataset.&lt;/li>
+&lt;/ul>
+&lt;p>The best found combinations are:&lt;/p>
+&lt;pre tabindex="0">&lt;code>reg.coeff.fft.const.size_limit
+32.20.8000.32.1024
+16.20.8000.16.1024
+32.20.7000.32.1024
+32.20.8000.8.1024
+32.20.7000.16.1024
+16.20.8000.32.1024
+32.20.8000.16.1024
+32.20.8000.64.1024
+16.20.8000.8.1024
+32.20.8000.32.1536
+&lt;/code>&lt;/pre>&lt;p>All of these have got &lt;code>deletion_mutation_rate = 0.5&lt;/code>, &lt;code>deletions_per_mutation = 4&lt;/code> and &lt;code>parsimony = { BestAndWorst = 4 }&lt;/code>. As you can see, an FFT size of &lt;code>7000&lt;/code> to &lt;code>8000&lt;/code> yields the best results for this sample rate. And there is no combination with a limit of &lt;code>512&lt;/code> instructions. Also unlike what I concluded in my &amp;ldquo;light and quick&amp;rdquo; experiments, a number of 8 for registers wasn&amp;rsquo;t good.&lt;/p>
+&lt;p>The last combination wasn&amp;rsquo;t part of the initial experiments. However, I tested a higher limit manually to see if I could get better fitness values. As you can see, a big number of constants is favored.&lt;/p>
+&lt;p>So many questions remain unanswered:&lt;/p>
+&lt;ul>
+&lt;li>How many of the constants did programs use? When doing these experiments, the software didn&amp;rsquo;t have a feature to output this.&lt;/li>
+&lt;li>How many of the coefficients, out of the 20, did the programs use? I tried doing feature selection at the same time.&lt;/li>
+&lt;li>Would a bigger number for register cells yield better results? Like &lt;code>48&lt;/code>?&lt;/li>
+&lt;li>How much are these size limits valid for higher accuracies?&lt;/li>
+&lt;li>Did my method to control sizes, also handicap the programs to have lower accuracy?&lt;/li>
+&lt;/ul>
+&lt;h2 id="future-experiments">Future experiments&lt;/h2>
+&lt;p>Today, some new features has been added to WakeGP, walking a new direction. First, the features and constants which the best found individual uses, are printed. Second, a new config, &lt;code>dataset_config.selected_features&lt;/code> which is an array of integers has been added. Combined, this allows testing different features. One can do like 200 runs. Then using the features which are commonly selected among best performing runs, we can then evolve programs to use only those specific features.&lt;/p>
+&lt;p>Note that &lt;code>dataset_config.selected_features&lt;/code> is optional and as its positions suggests, it can be used with both &lt;code>from_wave&lt;/code> and &lt;code>from_csv&lt;/code>.&lt;/p></description></item><item><title>No need to be online all the time</title><link>http://far.chickenkiller.com/computing/no-need-to-be-online-all-the-time/</link><pubDate>Tue, 14 May 2024 10:21:52 +0000</pubDate><guid>http://far.chickenkiller.com/computing/no-need-to-be-online-all-the-time/</guid><description>
+&lt;p>Recently, a friend and coworker, &lt;a href="https://chaos.social/@hpk" target="_blank">Holger Krekel&lt;/a>, is making a series of micro posts on Mastodon about screens, online time and online experience.&lt;/p>
+&lt;p>Even we only have little interactions, I feel Holger has some insightful ideas about using tech the healthy way.&lt;/p>
+&lt;p>What I am talking about here, is about culture and health. Smart devices, like smart phones and PCs should be used in the right way. Otherwise, they will hurt us. And the way most people use these devices, they are very harmful.&lt;/p>
+&lt;p>From some points of view, the people of the old like my Father have got an advantage to my generation. They don&amp;rsquo;t use technology much and they are away from both the benefits and the harms. My generation, however, use technology excessively. But the way they use it, often causes more harm than benefit.&lt;/p>
+&lt;p>One of things which are really harmful to my concentration are notifications. These days our computers produce them, our smart phones produce them. And some of us even buy smart watches to have notifications on their wrist, too.&lt;/p>
+&lt;p>I believe we don&amp;rsquo;t need to get notified about every single happening on social medias or in IMs. I believe notifications, both the pop up messages and the counter badges, are harmful for my concentration. That&amp;rsquo;s why I recommend getting rid of them while working. Here are a bunch of advises you might find useful:&lt;/p>
+&lt;ul>
+&lt;li>While working, set your phone to vibrate or even silence, and don&amp;rsquo;t receive notifications, big or small, going on your phone. An exception could be calls. I am usually fine receiving calls from family and friends. If I&amp;rsquo;m very busy, I reject and they know they should call me later. If they call rapidly, it&amp;rsquo;s probably something urgent.&lt;/li>
+&lt;li>Don&amp;rsquo;t expose your phone number to any organization or in the public. This will lead spammers to you either calling or texting. The same could go for your Email address or social handles/IDs.&lt;/li>
+&lt;li>Maybe opt for a feature phone. Note that a feature phone can be a dumbphone or a smart phone. A dumbphone by my definition has got only calling and texting features. It can&amp;rsquo;t connect to the Internet. But might be able to provide tethering for other devices. A smart feature phone has got a connection. But is limited. In past, you can opt for a &lt;a href="https://en.wikipedia.org/wiki/KaiOS" target="_blank">KaiOS&lt;/a> feature phone. Currently that&amp;rsquo;s only a thing if you are based in Africa or the US. You can read more why I chose a KaiOS phone over an Android phone in &lt;a href="https://blog.bananahackers.net/farooqkz/kaios-is-a-good-choice-for-you-if" target="_blank">this blog post on BananaHackers blog&lt;/a>. But as of 2025, I wouldn&amp;rsquo;t recommend KaiOS anymore.&lt;/li>
+&lt;li>Disable any sort of notifications which aren&amp;rsquo;t urgent on your PC. It includes the counter badges, maybe the badges entirely and also the popup message. You have various methods depending on your PC configuration to opt out of receiving notifications for some time or at all. For instance on KDE Plasma, you can disable the notifications. Depending on your configuration you might also be able to disable them for like an hour.&lt;/li>
+&lt;/ul>
+&lt;p>All these advises are based on a single principle: You don&amp;rsquo;t need to be online all the time. You don&amp;rsquo;t need to receive notifications all the time. And don&amp;rsquo;t worry, if someone had a life or death situation, they will call you!&lt;/p>
+&lt;p>Also as a bonus for reaching end of the post, if the web was more local first, it could be really cool. You could disconnect, have some peace and concentration. Then again connect when you want to do a &lt;code>git push&lt;/code> or comment on some PR.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "no-need-to-be-online-all-the-time.md"
+})
+&lt;/script></description></item><item><title>How to run something periodically in Minetest</title><link>http://far.chickenkiller.com/computing/how-to-run-something-every-60-seconds-in-minetest/</link><pubDate>Sat, 04 May 2024 19:47:13 +0330</pubDate><guid>http://far.chickenkiller.com/computing/how-to-run-something-every-60-seconds-in-minetest/</guid><description>
+&lt;p>This is a quick note to show how to run something periodically in Minetest. What you want to use
+is &lt;code>globalstep&lt;/code>. With &lt;code>minetest.register_globalstep(function(dtime))&lt;/code> you can run a function every step of the server
+which is usually 0.1&lt;/p>
+&lt;p>To achieve this goal, you need a variable to watch over time, decrease or increase it on every call of the globalstep and
+finally when it reaches some condition, execute the actual code. It will be something like:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-lua" data-lang="lua">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">local&lt;/span> timer &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">60&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>minetest.register_globalstep(&lt;span style="color:#66d9ef">function&lt;/span>(dtime)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> timer &lt;span style="color:#f92672">=&lt;/span> timer &lt;span style="color:#f92672">-&lt;/span> dtime
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> timer &lt;span style="color:#f92672">==&lt;/span> &lt;span style="color:#ae81ff">0.0&lt;/span> &lt;span style="color:#66d9ef">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> minetest.chat_send_all(&lt;span style="color:#e6db74">&amp;#34;a minute has passed!&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> timer &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">60&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">end&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">end&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>A note about Epaper monitors</title><link>http://far.chickenkiller.com/computing/a-note-about-epaper-monitors/</link><pubDate>Fri, 06 Oct 2023 10:21:52 +0000</pubDate><guid>http://far.chickenkiller.com/computing/a-note-about-epaper-monitors/</guid><description>
+&lt;p>If you are not already familiar with epaper, it&amp;rsquo;s a display technology which does not emit light and has got a lower refresh rate. Another very important and interesting characteristic of an epaper display is that it needs power only when refreshing. This means you can disconnect power from an epaper display and it will show the last image forever. Though not refreshing them for long will hurt their health.&lt;/p>
+&lt;p>Epaper displays are widely used in ebook reader tablets to offer an eyestrain-free reading experience. These days there are lots of epaper tablets in different sizes, forms, with different hardwares and so on. I have got a BOOX Leaf which is a 7&amp;quot; epaper tablet from &lt;a href="https://boox.com" target="_blank">BOOX&lt;/a> company. It runs Android 10 and I am using it right now to write this post in &lt;a href="https://termux.com" target="_blank">Termux&lt;/a> using &lt;a href="https://github.com/neovim/neovim" target="_blank">neovim&lt;/a>.&lt;/p>
+&lt;p>Additionally, you can buy cheap individual display modules or panels from black and white to multi colour with different refresh rates. &lt;a href="https://www.waveshare.com/" target="_blank">Waveshare&lt;/a> is one selling a diverse variety of them.&lt;/p>
+&lt;p>As the writing experience is very good on the tablet with a Bluetooth keyboard connected, I was tempted to buy an epaper monitor. BOOX already has got two epaper monitors in sizes of 13.3&amp;quot; and 25.3&amp;quot;. However second thoughts and some research imply that experience on epaper monitors won&amp;rsquo;t be as good as on tablets.&lt;/p>
+&lt;p>LinusTechTips Youtube channel did a review of an epaper monitor from &lt;a href="https://dasung.com" target="_blank">Dasung&lt;/a>. I agree LTT is not a good source of correct and accurate information but at least I could watch the video to see how the monitor performs. And I noticed it does not perform well, which is unfortunate. Plus I don&amp;rsquo;t know about any epaper monitor which is in colour. Though there are some colour epaper tablets from BOOX which run Android and videos show they don&amp;rsquo;t perform bad.&lt;/p>
+&lt;p>A good guess to explain the difference in the quality of experience would be that an epaper monitor just receives the video signals and it can&amp;rsquo;t produce a high quality representation on the epaper panel. But in a tablet the display and the rest of system are closely integrated. It also might be possible that with a different GPU or driver, we could get good quality images from epaper monitors.&lt;/p>
+&lt;p>A good experiment to see if the latter is possible, would be using a Linux host with a custom display driver and a cheap epaper display from Waveshare or other resellers plus a MCU.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "a-note-about-epaper-monitors.md"
+})
+&lt;/script></description></item><item><title>Machine Learning is not (only) Neural Network</title><link>http://far.chickenkiller.com/computing/machine-learning-is-not-neural-network/</link><pubDate>Tue, 11 Jul 2023 17:09:08 +0330</pubDate><guid>http://far.chickenkiller.com/computing/machine-learning-is-not-neural-network/</guid><description>
+&lt;p>In the recent years, Neural Networks and their applications have grown significantly. And we have a huge -not yet ending- enthusiasm for them.
+Historically, NNs were abandoned after a period of enthusiasm and several interesting researches.
+But after sometime, perhaps after computers were more capable, they returned back to the game.
+Nowadays, most people who are in touch with technology stuff probably imagine Machine Learning means Neural Networks.&lt;/p>
+&lt;h2 id="what-are-anns">What are ANNs?&lt;/h2>
+&lt;p>To answer this question, we first need to understand what a &amp;ldquo;neuron&amp;rdquo; is and only after that,
+we can understand the whole concept which is a network formed by these small units.
+From a math nerd point of view, a neuron is a function which takes a vector(array) of real numbers,
+computes each of them with another real named &amp;ldquo;weight&amp;rdquo; and will output 1 only if
+the sum of these multiplications is greater than a threshold:&lt;/p>
+&lt;p>$$
+f(X) = \begin{cases}
+1, &amp;amp;\text{if } b + \sum_{i=1}^{n}{X_i . w_i} \gt 0 \\
+0, &amp;amp;\text{if } \text{otherwise}
+\end{cases}
+$$&lt;/p>
+&lt;p>If the mathematical representation is not appealing, a neuron is simply a machine which takes some numbers,
+multiplies each of them with another number, the weight. Then sums it up with a number named &amp;ldquo;bias&amp;rdquo;
+or $b$. And then only if the sum is greater than a threshold, the machine will turn on and output $1$.
+Otherwise, the machine will stay off and won&amp;rsquo;t output anything. Or will output $0$.
+Strictly speaking, each of these machines uses an &amp;ldquo;Activation Function&amp;rdquo;
+and &lt;a href="https://en.wikipedia.org/wiki/Step_function" target="_blank">the step function&lt;/a>
+is just one of the choices we have for our neuron.&lt;/p>
+&lt;p>Now an ANN, is more than one of these &amp;ldquo;machines&amp;rdquo;. The first neuron gets fed from our input and sends its output to the input of the next neuron.
+Then the next neuron does the same job but with probably different &amp;ldquo;weights&amp;rdquo; and will give its output to the next till we reach the &amp;ldquo;output&amp;rdquo; neuron which we get our output from.&lt;/p>
+&lt;p>In actual implementations, usually we have several layers of
+these neurons. With each layer getting its input from the previous
+layer and feeding its output to the next one(Except, obviously, the input and output layers).&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg" alt="A two layer ANN" />
+&lt;/figure>&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->This picture is from the WikiMedia user &lt;a href="https://commons.wikimedia.org/wiki/File:Multi-Layer_Neural_Network-Vector-Blank.svg" target="_blank">Offnfopt&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>Now, if we choose the weights and the network architecture correctly,
+we can get our network to do a certain task for us.
+For example we want our network to distinguish input photos,
+dog or cat. This is a binary classification problem Machine Learning which NNs can solve for us if we happen to find the right weights and structure for our network.&lt;/p>
+&lt;p>The process of finding these &amp;ldquo;weights&amp;rdquo;
+or possibly even the structure itself,
+is called &amp;ldquo;training&amp;rdquo;. In ML and in general,
+the process of finding the optimum model and/or parameters which suits our problem
+is called that. In the case of an NN, the model is formed by its architecture and weights of each neuron.&lt;/p>
+&lt;h2 id="what-is-the-problem-of-anns">What is the problem of ANNs?&lt;/h2>
+&lt;p>TL;DR, &amp;ldquo;Performance&amp;rdquo;.&lt;/p>
+&lt;p>Here comes my personal beliefs.&lt;/p>
+&lt;p>The idea is very interesting and it is amazing that this computation machine is
+Turing Complete.&lt;/p>
+&lt;p>But these interesting machines, are very inefficient the way we get them to work.
+Most of the time, we &amp;ldquo;emulate&amp;rdquo; the NNs on our computers both for training and usage.
+When we try to emulate stuff on something which it wasn&amp;rsquo;t optimized for it, we sacrifice performance,
+and NNs are no exception.
+The processors we use are meant to have a list of instructions and execute
+them one by one and they are efficient when we use loops.&lt;/p>
+&lt;p>&lt;del>There have been several tries to implement NNs as actual hardware.
+But these are not widespread, yet.&lt;/del>&lt;/p>
+&lt;p>Nowadays, there are NPUs and TPUs out there. But most of these we&amp;rsquo;ve got today are capable of
+running only small models within a reasonable timeframe. If you want an NPU with good performance for
+huge models, such as these LLMs out there, you ought to pay few thousand bucks. Let me know if I&amp;rsquo;m wrong, in the comments.&lt;/p>
+&lt;h2 id="what-other-paradigms-of-ml-exist">What other paradigms of ML exist?&lt;/h2>
+&lt;p>Several, actually. Decision Tree Classifiers, Support Vector Machines, Simulated Annealing when used to find an optimum model or program are all kinds of machine learning paradigms(or methods or techniques) which are not Neural Networks. I have decided to concentrate my research and studies on one of them:
+Evolutionary Machine Learning and &lt;a href="https://en.wikipedia.org/wiki/Genetic_programming" target="_blank">Genetic Programming&lt;/a>.&lt;br>
+In GP, we see the code as data and as our model to solve a problem.
+I believe the idea was first formulated by &lt;a href="https://en.wikipedia.org/wiki/John_Koza" target="_blank">John Koza&lt;/a>
+in his book. In plain, the idea is that we need to find a
+program which does the job we have in mind. And we use techniques
+inspired by Darwinian Evolution to find the optimal program.&lt;/p>
+&lt;p>&lt;em>NOTE: Precisely, there were many who proposed evolving programs
+to solve problems before Koza did. One of whom is the famous
+Turing, the Father of Computer Science. However, to my knowledge,
+it was Koza who first employed this technique to solve ML problems with it.&lt;/em>&lt;/p>
+&lt;p>Let&amp;rsquo;s again talk about the binary classification problem.
+Is a given photo, is the photo of a dog or a cat?
+With ANNs, we have to simulate them on a computer to train them using
+whatever learning method. And these days, you need to employ GPUs most of the time
+if you want to do something non-trivial. After the training, your model is a network
+structure and a set of weights and you have to simulate the model on the target machine.&lt;/p>
+&lt;p>But with GP, our model is an actual computer program. We need to find a program which does our job good enough.
+And to get to the right program, we use methods of &lt;a href="https://en.wikipedia.org/wiki/Natural_selection" target="_blank">Natural Selection&lt;/a>
+and &amp;ldquo;survival of the most fit&amp;rdquo;&lt;/p>
+&lt;p>There are several ways to represent these &amp;ldquo;programs&amp;rdquo;. Initially, Koza used
+&lt;a href="https://en.wikipedia.org/wiki/Lisp_%28programming_language%29" target="_blank">Lisp&lt;/a> to accomplish
+the goal. The feature Lisp had at that time which I believe no other language
+had, was that the Lisp code could also be seen as and work with like some data.
+Koza used Lisp &lt;a href="https://en.wikipedia.org/wiki/S-expression" target="_blank">S-expressions&lt;/a> to represent programs. This feature of Lisp is still quite unique among programming languages. (If you think Lisp is slow, see &lt;a href="https://www.lrde.epita.fr/~didier/research/publications/papers/verna.06.imecs.html" target="_blank">Didier Verna’s paper “How to make Lisp go faster than C?”&lt;/a>)
+And he wrote programs, which were producing programs(or Lisp S-expressions),
+to solve different tasks like evolving a multiplexer.&lt;/p>
+&lt;p>The representation Koza chose is today known as
+&amp;ldquo;Tree Genetic Programming&amp;rdquo;. After that, several other representations were proposed by
+researchers which each are better suited for a specific class of tasks.
+For example, Genetic Network Programming was proposed to solve the Artificial
+Ant problem more efficient than the representation Koza
+had used for the same problem. In this problem, we
+need to program a machine, an artificial ant, which is looking for food in an area.
+The location of food blocks is unknown. But we have several of these &amp;ldquo;ants&amp;rdquo; and each ant can mark
+an area to guide other ants once it finds a food block. The goal is finding a strategy(or a program)
+for all ants which maximizes the amount of food found in a constant period of time. Or alternatively, find a constant amount of food in minimum time.&lt;/p>
+&lt;p>Another representation is Stack based Genetic Programming.
+I have written a simple program to solve a Symbolic Regression problem
+which is available on &lt;a href="https://github.com/farooqkz/stack-gp-test" target="_blank">a Github repository&lt;/a>. I&amp;rsquo;ve included
+some small introduction about Stack GP and the problem my codes solves with it, as well.&lt;/p>
+&lt;p>Finally, if you are interesting to learn more about Genetic Programming, I suggest you read &lt;a href="https://alfagroup.csail.mit.edu/sites/default/files/documents/2015%20Genetic%20Programming.%20James%20McDermott%20and%20Una-May%20O%27Reilly.%20Handbook%20of%20Computational%20Intelligence%2C%202015.pdf" target="_blank">this introduction&lt;/a>.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "machine-learning-is-not-neural-network.md"
+})
+&lt;/script></description></item><item><title>Evolution of Minetest CTF game over years</title><link>http://far.chickenkiller.com/computing/evolution-of-minetest-ctf-game-over-years/</link><pubDate>Tue, 20 Jun 2023 14:20:22 +0330</pubDate><guid>http://far.chickenkiller.com/computing/evolution-of-minetest-ctf-game-over-years/</guid><description>
+&lt;p>Years ago, when I was in early highschool, I found Minetest CTF game. Back then, it was introduced by rubenwardy and it had only one map. Mainly because it was a FOSS project, and because contributions were welcome, over years people joined to help developing the game and as some contributors or developers left, some others appeared to replace them.&lt;/p>
+&lt;blockquote>
+&lt;p>I started development to create a game where players made countries and castles and fought each other. It would have been similar to persistent kingdoms today. At some point I switched to making CTF instead, with temporary maps rather than persistent, to make it easier to test the code. &amp;ndash;rubenwardy&lt;/p>&lt;/blockquote>
+&lt;h3 id="2013-the-end-of-the-world-and-the-birthyear-of-minetest-ctf">2013, the end of the world and the birthyear of Minetest CTF&lt;/h3>
+&lt;p>According to the &lt;a href="https://forum.minetest.net/viewtopic.php?t=6947" target="_blank">forum topic&lt;/a>, birthday of CTF should be somewhere in 2013. Rubenwardy created a modpack with which one could build team based PvP games like CTF. &lt;a href="https://github.com/MT-CTF/ctf_pvp_engine" target="_blank">The Github repository&lt;/a> is now archived as the code has been merged into &lt;a href="https://github.com/MT-CTF/capturetheflag" target="_blank">the main CTF repository&lt;/a>. Initially, the server was very small(regarding number of supported players which according to ruben was 14) and was hosted from rubenwardy&amp;rsquo;s home.&lt;/p>
+&lt;h3 id="2015-2016">2015-2016&lt;/h3>
+&lt;p>I joined the server to play the game sometime in 2016 I believe. The server was small, frequently laggy and was hosted by rubenwardy on DigitalOcean. There was only one map which we had to play over and over. Steel sword was the thing which was making players unkillable as the only other sword was stone sword! Shotgun was shooting a single bullet which could remove wood or stone blocks. My hobby was hiding in the trees and shooting the enemy base blocks down one by one!&lt;/p>
+&lt;p>Who knows the name of that one map? :)&lt;/p>
+&lt;h3 id="2017-2018-multiple-maps">2017-2018, multiple maps&lt;/h3>
+&lt;p>We have multiple maps. Yes! We don&amp;rsquo;t have to play a single map over and over. And people are slowly starting to submit their own maps to the game. We also have got grenades and SMGs in game. The pro chest requirement is a few thousands of score.&lt;/p>
+&lt;p>Additionally, &lt;a href="https://github.com/MT-CTF/capturetheflag/issues/134" target="_blank">I’ve suggested adding mobs to the game&lt;/a> and then people on Discord have made a &amp;ldquo;ADD MOBZ PLZ&amp;rdquo; emoji with as a symbol of non-sensible suggestion xD&lt;/p>
+&lt;h3 id="2019-2020-classes-and-more-maps">2019-2020, classes and more maps&lt;/h3>
+&lt;p>By introducing classes, players can choose to heal, to shoot or to charge with sword. We have new blocks like reinforced cobble to make our base defenses. There was a bug in which when you right click on many stones, a furnace form was showed. This bug has been fixed sometime in 2019. Also a map catalog is added and more maps are being proposed.&lt;/p>
+&lt;h3 id="2021-2022">2021-2022&lt;/h3>
+&lt;p>I see some commits from LoneWolfHT. People were formerly complaining about their teammates stealing their kills and now we have kill assists. And in this year, CTF v3.0 gets released which mainly introduces multiple modes!&lt;/p>
+&lt;p>During this period, rubenwardy loses interest in developing the game and he wisely hands it over to LoneWolf/LandarVargan who later recruits another core developer, savilli.&lt;/p>
+&lt;h3 id="2021-till-present">2021 till present&lt;/h3>
+&lt;p>During this period, one of the core developers, savilli, has left. And we are pacing slower. However, we have got some new contributors some of which are youths. On the other hand, the player base is the largest of all these years and if we count other CTF servers like JMA and others, it is even bigger.&lt;/p>
+&lt;h3 id="future">Future?&lt;/h3>
+&lt;p>There are many things which slowly are being added to CTF. Including but not limited to &lt;a href="https://github.com/MT-CTF/capturetheflag/pull/1115" target="_blank">Flagwars mode&lt;/a> where the enemy touching your flag means end of game for your team. And &lt;a href="https://github.com/MT-CTF/capturetheflag/issues/1081" target="_blank">Domination mode&lt;/a> where one team has to conquer land till they can reach the enemy flag and steal it. I am also looking forward to verified player bots in game.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "evolution-of-minetest-ctf.md"
+})
+&lt;/script></description></item><item><title>Benchmarking Common Lisp, Rust, C and Python on ARM</title><link>http://far.chickenkiller.com/computing/benchmarking-common-lisp-rust-c-and-python-on-arm/</link><pubDate>Wed, 16 Nov 2022 14:19:59 +0330</pubDate><guid>http://far.chickenkiller.com/computing/benchmarking-common-lisp-rust-c-and-python-on-arm/</guid><description>
+&lt;p>I have previously benchmarked &lt;a href="http://far.chickenkiller.com/computer/cpp-vs-common-lisp-performance/">C++ against Common Lisp&lt;/a> and the result was that unlike the common belief about Lisp, it can have performance which is almost as fast as C++. After that I did another benchmark for &lt;a href="http://far.chickenkiller.com/computer/py-c-rust-cl-benchmark/">computing fibonnaci series using Rust, Common Lisp, C and Python&lt;/a>. But both of these benchmarks were done on &lt;strong>x86_64&lt;/strong>. In this benchmark, I&amp;rsquo;m using the same codes from the last benchmark but run them on an ARM device instead. Unfortunately, my device is old and not ARM64 but still it can be of interest.&lt;/p>
+&lt;p>At the time of writing this paragraph, I haven&amp;rsquo;t done any benchmark, yet. Nevertheless, I think the results from compiled languages should be more interesting. Because this benchmark shows how much these compilers are optimized for ARM. As for Rust, C and Common Lisp, they are directly compiled to machine&amp;rsquo;s native code. Regarding Common Lisp, this is true if we use something which does so. Because the language itself doesn&amp;rsquo;t require to be even compiled and it is up to the implemention to compile Common Lisp code or interpret it. Or that if it&amp;rsquo;s compiled, it is compiled to native code or some immediate language or that it requires a VM or not.&lt;/p>
+&lt;p>For Rust, there is just one usable compiler which I am aware of. But for C and Common Lisp, there are more than one compiler which are both mature and compile to native code. So it would be useful if more than a single compiler is used.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="http://far.chickenkiller.com/farooq-nanopi-neo-specs.png" alt="Farooq&amp;rsquo;s NanoPi NEO specs" />
+&lt;/figure>&lt;/p>
+&lt;p>As for C, I use clang and gcc which are available in Debian repositories. As for CL, one choice is definitely SBCL which is very famous for it&amp;rsquo;s performance and that it compiles to native code. But as I want to test with other CL implementations as well, I have to choose at least one other which compiles to native code, as well.&lt;/p>
+&lt;p>Looking at the table on &lt;a href="https://www.cliki.net/Common&amp;#43;Lisp&amp;#43;implementation" target="_blank">this page on CLiki&lt;/a>, there is another choice: CCL. SBCL can be found in Debian repositories and as for CCL, a compiled Linux binary for ARM can be found in Github releases page.&lt;/p>
+&lt;h2 id="common-lisp-untyped">Common Lisp untyped&lt;/h2>
+&lt;h3 id="ccl">CCL&lt;/h3>
+&lt;pre tabindex="0">&lt;code>minetest:~:% time ./armcl --load fibo-safe.lisp
+102334155
+./armcl --load fibo-safe.lisp 7.39s user 0.04s system 100% cpu 7.420 total
+&lt;/code>&lt;/pre>&lt;h3 id="sbcl">SBCL&lt;/h3>
+&lt;pre tabindex="0">&lt;code>minetest:~:% time sbcl --script ./fibo-safe.lisp
+102334155sbcl --script ./fibo-safe.lisp 72.11s user 0.05s system 99% cpu 1:12.16 total
+&lt;/code>&lt;/pre>&lt;p>It is very surprising that SBCL is this bad on ARM!&lt;/p>
+&lt;h2 id="common-lisp-typed-with-no-safety">Common Lisp typed with no safety&lt;/h2>
+&lt;h3 id="ccl-1">CCL&lt;/h3>
+&lt;pre tabindex="0">&lt;code>minetest:~:% time ./armcl --load fibo-unsafe.lisp
+102334155
+./armcl --load fibo-unsafe.lisp 5.05s user 0.04s system 100% cpu 5.086 total
+&lt;/code>&lt;/pre>&lt;h3 id="sbcl-1">SBCL&lt;/h3>
+&lt;pre tabindex="0">&lt;code>minetest:~:% time sbcl --script ./fibo-unsafe.lisp
+102334155sbcl --script ./fibo-unsafe.lisp 14.06s user 0.07s system 85% cpu 16.456 total
+&lt;/code>&lt;/pre>&lt;h2 id="rust">Rust&lt;/h2>
+&lt;pre tabindex="0">&lt;code>minetest:~:% time ./fibo
+102334155
+./fibo 1.50s user 0.00s system 99% cpu 1.504 total
+&lt;/code>&lt;/pre>&lt;h2 id="python">Python&lt;/h2>
+&lt;h3 id="pypy-37">Pypy 3.7&lt;/h3>
+&lt;pre tabindex="0">&lt;code>minetest:~:% time pypy3 fibo.py
+102334155
+pypy3 fibo.py 19.88s user 0.22s system 98% cpu 20.315 total
+&lt;/code>&lt;/pre>&lt;h3 id="cpython-39">CPython 3.9&lt;/h3>
+&lt;pre tabindex="0">&lt;code>minetest:~:% time python3 fibo.py
+102334155
+python3 fibo.py 287.57s user 0.04s system 100% cpu 4:47.61 total
+&lt;/code>&lt;/pre>&lt;p>Impressive! Isn&amp;rsquo;t it?&lt;/p>
+&lt;h2 id="c">C&lt;/h2>
+&lt;h3 id="gcc">GCC&lt;/h3>
+&lt;pre tabindex="0">&lt;code>minetest:~:% gcc -O2 fibo.c
+minetest:~:% time ./a.out
+102334155./a.out 1.63s user 0.01s system 99% cpu 1.639 total
+&lt;/code>&lt;/pre>&lt;h3 id="clang">clang&lt;/h3>
+&lt;pre tabindex="0">&lt;code>minetest:~:% clang -O2 fibo.c
+minetest:~:% time ./a.out
+102334155./a.out 1.33s user 0.00s system 99% cpu 1.333 total
+&lt;/code>&lt;/pre>&lt;h2 id="summary-and-conclusion">Summary and conclusion&lt;/h2>
+&lt;p>From fastest to slowest:&lt;/p>
+&lt;ul>
+&lt;li>C with clang: &lt;strong>1.33s&lt;/strong>&lt;/li>
+&lt;li>Rust: &lt;strong>1.50s&lt;/strong>&lt;/li>
+&lt;li>C with gcc: &lt;strong>1.64s&lt;/strong>&lt;/li>
+&lt;li>CL typed CCL: &lt;strong>5.09s&lt;/strong>&lt;/li>
+&lt;li>CL untyped CCL: &lt;strong>7.42s&lt;/strong>&lt;/li>
+&lt;li>CL typed SBCL: &lt;strong>16.46s&lt;/strong>&lt;/li>
+&lt;li>Python with pypy: &lt;strong>20.32s&lt;/strong>&lt;/li>
+&lt;li>CL untyped SBCL: &lt;strong>72.16s&lt;/strong>&lt;/li>
+&lt;li>Python with CPython: &lt;strong>287.61s&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>gcc is older than clang so it is not surprising that it outperforms clang on x86. But we see that on ARM the story is different.&lt;/p>
+&lt;p>Among Lispers, SBCL is known for high performance. In my previous benchmarks on x86, we saw that if we use static typing and tell
+the compiler to optimize for speed only, performance of Lisp can be compared to C. However it seems that SBCL hasn&amp;rsquo;t been optimized much for
+ARM.&lt;/p>
+&lt;p>A reasonable concern is that the SBCL from Debian repositories has such a problem. The SBCL I have is &lt;code>2.1.1&lt;/code> while &lt;a href="http://www.sbcl.org/platform-table.html" target="_blank">the platform table on SBCL website&lt;/a> says the latest version for ARMhf is &lt;code>1.4.11&lt;/code>.&lt;/p>
+&lt;p>I&amp;rsquo;ve tried the binary from SBCL website for my ARM device and the results were interesting: &lt;strong>127s&lt;/strong> for untyped code and &lt;strong>14s&lt;/strong> for the typed one!&lt;/p>
+&lt;p>Note that for all these languages, the Fibonnaci series is computed recursively. So this benchmark could &lt;em>only&lt;/em> show which one does the recursion better than the others. Another benchmark for testing arithmetic would be interesting, too.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "benchmarking-common-lisp-rust-c-and-python-on-arm.md"
+})
+&lt;/script></description></item><item><title>Failed research: Generating vocal form of an English word with Genetic Algorithms</title><link>http://far.chickenkiller.com/computing/failed-research-generating-vocal-form-of-an-english-word-with-genetic-algorithms/</link><pubDate>Sat, 22 Oct 2022 10:15:37 +0330</pubDate><guid>http://far.chickenkiller.com/computing/failed-research-generating-vocal-form-of-an-english-word-with-genetic-algorithms/</guid><description>
+&lt;p>I thought by using GAs and feeding individual waveforms to a Speech Recognition engine, I could generate vocal form of English word
+&amp;ldquo;hello&amp;rdquo;. However after several tries, GAs don&amp;rsquo;t seem the right tool for the job.&lt;/p>
+&lt;h2 id="code">Code&lt;/h2>
+&lt;p>Code is on &lt;a href="https://github.com/farooqkz/hello_generator" target="_blank">a Github repository&lt;/a> and is written using Rust for high performance.&lt;/p>
+&lt;h2 id="individual">Individual&lt;/h2>
+&lt;p>Considering that human speech is just overlapping sine waves, each &lt;a href="https://github.com/farooqkz/hello_generator/blob/master/src/individual.rs" target="_blank">Individual&lt;/a> is a set of &lt;a href="https://github.com/farooqkz/hello_generator/blob/master/src/sinewave.rs" target="_blank">SineWaves&lt;/a>. To compute fitness of each individual,
+first all the SineWaves each are converted to &lt;a href="https://github.com/farooqkz/hello_generator/blob/master/src/waveform.rs" target="_blank">Waveforms&lt;/a> and after that the Waveforms are &lt;a href="https://github.com/farooqkz/hello_generator/blob/master/src/waveform.rs#L14" target="_blank">mixed&lt;/a> and feed to &lt;a href="https://alphacephei.com/vosk/" target="_blank">Vosk&lt;/a> using a small English model. Then the distance of the result by Vosk with the target word is computed and returned as fitness. If nothing is detected, &lt;a href="https://github.com/farooqkz/hello_generator/blob/master/src/consts.rs#L20" target="_blank">a default maximum distnace value&lt;/a> is returned.&lt;/p>
+&lt;h3 id="sinewave">SineWave&lt;/h3>
+&lt;p>Each Individual can have a number of SineWaves. The number is in &lt;a href="https://github.com/farooqkz/hello_generator/blob/master/src/consts.rs#L2" target="_blank">a defined range&lt;/a> and is chosen randomly upon initializing. Each SineWave has 3 properties: start, length and frequency. Frequency of each sinewave is random within &lt;a href="https://github.com/farooqkz/hello_generator/blob/master/src/consts.rs#L6" target="_blank">a range&lt;/a> as are start and length.&lt;/p>
+&lt;h3 id="combination">Combination&lt;/h3>
+&lt;p>Two individuals are combined using simple cross over: A random point is selected and waves are cloned to one of the two new childs, depending on that a wave is before the point or after it. &lt;a href="https://github.com/farooqkz/hello_generator/blob/master/src/individual.rs#L45" target="_blank">Here&lt;/a> is the combine method.&lt;/p>
+&lt;h3 id="mutation">Mutation&lt;/h3>
+&lt;p>Depending on mutation rate given by the user, a small number of individuals are mutated. These two ways are tested:&lt;/p>
+&lt;ul>
+&lt;li>Just reselecting frequency of each of the sinewaves within the defined range.&lt;/li>
+&lt;li>Generating a new random sinewave and adding it to the set.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tests-and-the-results">Tests and the results&lt;/h2>
+&lt;p>Several tests has been done. With population from 50 to about 2000. First the fitness function was computed using two variables: distance of the recognized text from the target word and number of sinewaves in an individual. However the latter seemed irrevelant when nothing is detected at all. In the next tests, there was only one parameter for fitness: distance. However since nothing was yet recognized, it always remained constant and in it&amp;rsquo;s worst value.&lt;/p>
+&lt;p>Frequencies of sinewaves were first within range of 20 to 20k. But then I changed it to the frequency of male voice which is a much more narrow range. Also with different number of sinewaves in an individual, tests were done.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>The right tool and method hasn&amp;rsquo;t been chosen for the job. With population from 50 upto 2000, nothing was detected. It is very improbable that something is detected just by combining sinewaves randomly which is done for population initialization. And when there is absolutely nothing to be detected, the fitness remains constant and GA can&amp;rsquo;t progress at all. Since it is not completely impossible, it &lt;em>might&lt;/em> be possible to have something with a population size of &lt;strong>really HUGE&lt;/strong>, like at least millions. But even in that case, this method is extremely inefficient.&lt;/p>
+&lt;h2 id="next-steps">Next steps&lt;/h2>
+&lt;p>Maybe using Genetic Programming which is a subset of Machine Learning, it is possible to evolve separate programs which generate sinewaves. Each program could generate a single phoneme and by mixing these, one word could be generated.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "failed-research-generating-vocal-form-of-an-english-word-with-genetic-algorithms.md"
+})
+&lt;/script></description></item><item><title>I've been looking for a mobile Linux device for a while and here's the conclusion</title><link>http://far.chickenkiller.com/computing/i-have-been-looking-for-a-mobile-linux-device/</link><pubDate>Sat, 13 Aug 2022 20:03:33 +0430</pubDate><guid>http://far.chickenkiller.com/computing/i-have-been-looking-for-a-mobile-linux-device/</guid><description>
+&lt;p>For a long time, however not continous, I&amp;rsquo;ve been looking for a portable Linux device for geekish stuff like shell and programming as well as web browsing and maybe a bit chatting.&lt;/p>
+&lt;p>I also wanted such a device to have very long battery life and a QWERTY keyboard so that typing will be convenient with it. When you are talking about battery life, you probably want your device to have ARM processor or if it&amp;rsquo;s x86, it must be Atom. Would you like Core i5 or Core i7 instead? Fine! then forget about long battery life.&lt;/p>
+&lt;p>The screen also must be pretty small so that carrying it would be easy and a smaller screen would eat less battery per hour. But being too small will hurt your eyes reading the text. So an average of 6-7 inchs seems to be a balance between portability and ease on your eyes.&lt;/p>
+&lt;p>So here are my trys. If you are too lazy to read, jump to &amp;ldquo;Conclusion&amp;rdquo;.&lt;/p>
+&lt;h2 id="first-try-chromebooks">First try: Chromebooks&lt;/h2>
+&lt;p>At the beginning I was considering chromebooks. They are cheap, many in small form factors such as 11-12inchs which is not perfect but at least not as big as 14-15. They also have ARM processors or lowend x86 ones such as Atom or Celeron.&lt;/p>
+&lt;p>&lt;strong>But chromebooks were not my answer.&lt;/strong> Despite the hardware advantages of chromebooks and their cheap prices, they have a big disadvantage when it comes to a user like me which is Linux and hackability. It seems that there is no good Linux support for Chromebooks yet. Also it seems many of these chromebooks &lt;strong>come with locked bootloaders&lt;/strong>. A member of Linux room on Matrix suggested that I don&amp;rsquo;t try painful process of installation of Linux on such these devices. Last but not the least, they&amp;rsquo;ve got different and strange keyboards.&lt;/p>
+&lt;h2 id="second-try-linux-arm-laptops">Second try: Linux ARM laptops&lt;/h2>
+&lt;p>In the next step, I thought there might be some ARM Linux laptops which have small screen size and come for cheap. After trying some queries I&amp;rsquo;ve found only &lt;a href="https://www.pine64.org/pinebook/" target="_blank">Pinebook from Pine64&lt;/a> comes with a relatively small screen(11.6&amp;quot; according to spec).&lt;/p>
+&lt;p>It seemed really cool and it was only 100 bucks!&lt;/p>
+&lt;p>But after talking about it with folks in BananaHackers chatroom(in offtopic room), someone suggested that I don&amp;rsquo;t buy anything from them as they are known to ship damaged devices. Also people from &amp;ldquo;Rust offtopic&amp;rdquo; on Matrix told me the device is too slow.&lt;/p>
+&lt;h2 id="third-try-diy-laptop-with-a-raspberry-pi">Third try: DIY laptop with a (Raspberry) Pi&lt;/h2>
+&lt;p>This could be so complicated. But I could 3D print a case for a Pi, preferably a NanoPi with Armbian support and an HDMI port. After some search I&amp;rsquo;ve found a project on thingiverse. It would be both a cool and fun project and a small portable Linux device. &lt;strong>But people said it won&amp;rsquo;t be as good as I am thinking it will be&lt;/strong>&lt;/p>
+&lt;h2 id="fourth-try-postmarketos">Fourth try: postmarketOS&lt;/h2>
+&lt;p>I also found postmarketOS, an Operating System for mobile devices, mostly phones and tablets. But it seems for most devices, there is no good support for all hardware features. Or if there is, the device is not that cheap.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>It seems Android is the best, most supported and cheapest choice for me. Web browsing with the Android browser and Termux for shell stuff. I could connect a physical keyboard with OTG or Bluetooth as well. You can find cheap Lenovo tablets which come with Android 8. However, I chose something different: &lt;a href="https://shop.boox.com/collections/all/products/leaf" target="_blank">BOOX Leaf&lt;/a> so that it could save me from eye strain as well. I also could read papers and books on it without problem. It comes with an octa-core snapdragon, Android 10 and 2GB of Memory(RAM).&lt;/p></description></item><item><title>Converting PDF to Image in Python(the Right Way)</title><link>http://far.chickenkiller.com/computing/converting-pdf-to-image-in-python-the-right-way/</link><pubDate>Wed, 13 Apr 2022 19:00:32 +0430</pubDate><guid>http://far.chickenkiller.com/computing/converting-pdf-to-image-in-python-the-right-way/</guid><description>
+&lt;p>&lt;figure>
+&lt;img src="https://farooqkz.de1.hashbang.sh/count/tag.svg" alt="dot for stats" />
+&lt;/figure>&lt;/p>
+&lt;p>If you use your favorite search engine to learn how to &amp;ldquo;convert pdf to image&amp;rdquo; in Python, you will find many websites like &lt;a href="https://www.geeksforgeeks.org/convert-pdf-to-image-using-python/" target="_blank">GeeksforGeeks&lt;/a> introducing &lt;a href="https://pypi.org/project/pdf2image/" target="_blank">pdf2image&lt;/a> to accomplish this goal.&lt;/p>
+&lt;p>As you can in pdf2image&amp;rsquo;s PyPI page, it is just a wrapper around &lt;a href="https://manpage.me/?q=pdftoppm" target="_blank">pdftoppm&lt;/a> while &lt;code>pdftoppm&lt;/code> itself is part of poppler. Basically, pdf2image module invokes &lt;code>pdftoppm&lt;/code> with &lt;a href="https://docs.python.org/3/library/subprocess.html" target="_blank">subprocess&lt;/a> Python standard module which is for invoking subprocesses, controling them and capturing their output all from Python.&lt;/p>
+&lt;p>So I was wondering, why not use the poppler C++ library itself to convert PDF file to Image?&lt;/p>
+&lt;p>After some searching in &lt;a href="https://pypi.org" target="_blank">PyPI&lt;/a> I&amp;rsquo;ve found &lt;a href="https://pypi.org/project/python-poppler/" target="_blank">python-poppler&lt;/a> which is a wrapper around poppler C++ library which is for reading PDF files, extracting text from them and converting their pages to image file formats.&lt;/p>
+&lt;p>Here I want to teach you how to use poppler from Python to convert the first page of a PDF to Image and save it somewhere in your &lt;code>/tmp/&lt;/code>.&lt;/p>
+&lt;p>The zeroth step as always is installing the library:&lt;/p>
+&lt;pre tabindex="0">&lt;code>pip3 install python-poppler --user
+&lt;/code>&lt;/pre>&lt;p>python-poppler relies on poppler C++ library to function and is just a wrapper for that so you need to install it as well. Here I assume you already have it installed on your computer. But in the case it isn&amp;rsquo;t, you will find pip3 cursing you with errors!&lt;/p>
+&lt;p>The first step is, of course, firing up the Python(3) thing and importing &lt;code>load_from_file&lt;/code> and &lt;code>PageRenderer&lt;/code>:&lt;/p>
+&lt;pre tabindex="0">&lt;code>Python 3.8.10 (default, Mar 15 2022, 12:22:08)
+[GCC 9.4.0] on linux
+Type &amp;#34;help&amp;#34;, &amp;#34;copyright&amp;#34;, &amp;#34;credits&amp;#34; or &amp;#34;license&amp;#34; for more information.
+&amp;gt;&amp;gt;&amp;gt; from poppler import load_from_file, PageRenderer
+&amp;gt;&amp;gt;&amp;gt;
+&lt;/code>&lt;/pre>&lt;p>&lt;code>load_from_file&lt;/code> is used to load a PDF file from filesystem as it sounds.
+And &lt;code>PageRenderer&lt;/code> is used to render a page of some PDF document into an image.&lt;/p>
+&lt;p>In the case you need to load the PDF from bytes(e.g. when you are receiving it from network such as a web API which receives data from its clients) you must go with &lt;code>load_from_data&lt;/code>, instead(See &lt;a href="https://cbrunet.net/python-poppler/api/poppler.html#module-poppler" target="_blank">here&lt;/a>).&lt;/p>
+&lt;p>Next you must load the PDF file with its name:&lt;/p>
+&lt;pre tabindex="0">&lt;code>&amp;gt;&amp;gt;&amp;gt; document = load_from_file(&amp;#34;probability_cheatsheet.pdf&amp;#34;)
+&lt;/code>&lt;/pre>&lt;p>Now &lt;code>document&lt;/code> is a &lt;a href="https://cbrunet.net/python-poppler/usage.html#working-with-documents" target="_blank">Document&lt;/a> object with which you can read its title or number of pages and many other properties:&lt;/p>
+&lt;pre tabindex="0">&lt;code>&amp;gt;&amp;gt;&amp;gt; document.pages
+10
+&amp;gt;&amp;gt;&amp;gt; document.page_layout
+&amp;lt;page_layout_enum.no_layout: 0&amp;gt;
+&amp;gt;&amp;gt;&amp;gt; document.page_mode
+&amp;lt;page_mode_enum.use_outlines: 1&amp;gt;
+&amp;gt;&amp;gt;&amp;gt; document.producer
+&amp;#39;pdfTeX-1.40.14&amp;#39;
+&lt;/code>&lt;/pre>&lt;p>Next, you can create an instance of &lt;code>PageRenderer&lt;/code> and create an image of the first page:&lt;/p>
+&lt;pre tabindex="0">&lt;code>&amp;gt;&amp;gt;&amp;gt; renderer = PageRenderer()
+&amp;gt;&amp;gt;&amp;gt; page1 = document.create_page(0)
+&amp;gt;&amp;gt;&amp;gt; renderer.
+&amp;gt;&amp;gt;&amp;gt; img = renderer.render_page(page1)
+&amp;gt;&amp;gt;&amp;gt; img
+&amp;lt;poppler.image.Image object at 0x7f3652f44310&amp;gt;
+&lt;/code>&lt;/pre>&lt;p>Now it is time to save the image as PNG:&lt;/p>
+&lt;pre tabindex="0">&lt;code>&amp;gt;&amp;gt;&amp;gt; img.save(&amp;#34;/tmp/pc.png&amp;#34;, out_format=&amp;#34;png&amp;#34;)
+True
+&lt;/code>&lt;/pre>&lt;p>And voila! You&amp;rsquo;ve done that!&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "converting-pdf-to-image-in-python-the-right-way.md"
+})
+&lt;/script></description></item><item><title>A benchmark between Python, C, Rust and Common Lisp for calculating fibonacci series</title><link>http://far.chickenkiller.com/computing/py-c-rust-cl-benchmark/</link><pubDate>Thu, 31 Mar 2022 17:12:35 +0430</pubDate><guid>http://far.chickenkiller.com/computing/py-c-rust-cl-benchmark/</guid><description>
+&lt;p>&lt;figure>
+&lt;img src="https://farooqkz.de1.hashbang.sh/count/tag.svg" alt="dot for stats" />
+&lt;/figure>&lt;/p>
+&lt;p>A few years ago I did &lt;a href="http://far.chickenkiller.com/computer/cpp-vs-common-lisp-performance/">a benchmark between Common Lisp and C++&lt;/a>
+and wrote pieces of code for determining if a number is prime or not. Unlike what most people usually think about Common Lisp,
+it could be nearly as fast as C++ when you use the typed version of your code and disable safety stuff of SBCL.&lt;/p>
+&lt;p>This time, I want to do another benchmark for computing the fibonnaci and I do it &lt;strong>without using loops and only with recursions&lt;/strong>. As an experienced Python developer knows, Python will fail for large inputs because there is a limitation on how many times a function can call itself.&lt;/p>
+&lt;p>This benchmark will hopefully indicate which language is more optimized for recursion. Email me if you think I am wrong about this.&lt;/p>
+&lt;h2 id="what-is-the-properties-of-the-host-system">What is the properties of the host system?&lt;/h2>
+&lt;p>I have the same computer as I had when benchmarking C++ versus Common Lisp years ago except that I&amp;rsquo;ve added an extra 4GB Memory module. But for the sake of clearness I am putting my neofetch again:&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="http://far.chickenkiller.com/farooqs-laptop-specs-1.png" alt="Specs of Farooq&amp;rsquo;s laptop" />
+&lt;/figure>&lt;/p>
+&lt;h2 id="python">Python&lt;/h2>
+&lt;p>First let&amp;rsquo;s get our hands dirty with Python:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">fibo&lt;/span>(n: int):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> n &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">else&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> fibo(n&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>) &lt;span style="color:#f92672">+&lt;/span> fibo(n&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">2&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">if&lt;/span> __name__ &lt;span style="color:#f92672">==&lt;/span> &lt;span style="color:#e6db74">&amp;#34;__main__&amp;#34;&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print(fibo(&lt;span style="color:#ae81ff">40&lt;/span>))
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="python38">Python3.8&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:28:09]:~/py$ time python3.8 fibo.py
+102334155
+real 0m20.983s
+user 0m20.906s
+sys 0m0.028s
+&lt;/code>&lt;/pre>&lt;h3 id="python310">Python3.10&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:34:55]:~/py$ time python3.10 fibo.py
+102334155
+real 0m23.500s
+user 0m23.440s
+sys 0m0.024s
+&lt;/code>&lt;/pre>&lt;h3 id="pypy3">PyPy3&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:35:59]:~/py$ time pypy3 fibo.py
+102334155
+real 0m1.332s
+user 0m1.282s
+sys 0m0.028s
+&lt;/code>&lt;/pre>&lt;h2 id="rust">Rust&lt;/h2>
+&lt;p>Now I get my hand into Rust code:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-rs" data-lang="rs">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">fn&lt;/span> &lt;span style="color:#a6e22e">fibo&lt;/span>(n: &lt;span style="color:#66d9ef">u8&lt;/span>) -&amp;gt; &lt;span style="color:#66d9ef">u64&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> n &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ae81ff">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> } &lt;span style="color:#66d9ef">else&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> fibo(n&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>) &lt;span style="color:#f92672">+&lt;/span> fibo(n&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">2&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">fn&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>() {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">println!&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">{}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>, fibo(&lt;span style="color:#ae81ff">40&lt;/span>))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="rustc-1550-without-optimization-flag-o">rustc 1.55.0 without optimization flag(&lt;code>-O&lt;/code>)&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:39:30]:~/rs$ time ./fibo
+102334155
+real 0m1.003s
+user 0m0.998s
+sys 0m0.004s
+&lt;/code>&lt;/pre>&lt;h3 id="rustc-1550-with-optimization-flag-o">rustc 1.55.0 with optimization flag(&lt;code>-O&lt;/code>)&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:43:16]:~/rs$ time ./fibo
+102334155
+real 0m0.265s
+user 0m0.260s
+sys 0m0.005s
+&lt;/code>&lt;/pre>&lt;h2 id="c">C&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-c" data-lang="c">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#include&lt;/span> &lt;span style="color:#75715e">&amp;lt;stdio.h&amp;gt;&lt;/span>&lt;span style="color:#75715e">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">int&lt;/span> &lt;span style="color:#a6e22e">fibo&lt;/span>(&lt;span style="color:#66d9ef">int&lt;/span> n) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (n &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> } &lt;span style="color:#66d9ef">else&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#a6e22e">fibo&lt;/span>(n&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>) &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#a6e22e">fibo&lt;/span>(n&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">2&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">int&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>() {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">printf&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;%d&amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">fibo&lt;/span>(&lt;span style="color:#ae81ff">40&lt;/span>));
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="clang-without-any-flag">clang without any flag&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:45:28]:~/c$ time ./a.out
+102334155
+real 0m0.510s
+user 0m0.501s
+sys 0m0.008s
+&lt;/code>&lt;/pre>&lt;h3 id="gcc-without-any-flag">gcc without any flag&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:46:59]:~/c$ time ./a.out
+102334155
+real 0m0.482s
+user 0m0.482s
+sys 0m0.000s
+&lt;/code>&lt;/pre>&lt;h3 id="clang-with--o2">clang with -O2&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:47:51]:~/c$ time ./a.out
+102334155
+real 0m0.257s
+user 0m0.257s
+sys 0m0.000s
+&lt;/code>&lt;/pre>&lt;h3 id="gcc-with--o2">gcc with -O2&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:48:47]:~/c$ time ./a.out
+102334155
+real 0m0.230s
+user 0m0.229s
+sys 0m0.000s
+&lt;/code>&lt;/pre>&lt;h2 id="common-lisp-untyped">Common Lisp untyped&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-cl" data-lang="cl">&lt;span style="display:flex;">&lt;span>(defun fibo (n)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">&amp;lt;=&lt;/span> n &lt;span style="color:#ae81ff">2&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ae81ff">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#a6e22e">+&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (fibo (&lt;span style="color:#a6e22e">1-&lt;/span> n))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (fibo (&lt;span style="color:#a6e22e">1-&lt;/span> (&lt;span style="color:#a6e22e">1-&lt;/span> n))))))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>(&lt;span style="color:#a6e22e">write&lt;/span> (fibo &lt;span style="color:#ae81ff">40&lt;/span>))
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="sbcl">SBCL&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:51:50]:~/lisp$ time sbcl --script fibo.lisp
+102334155
+real 0m2.081s
+user 0m1.986s
+sys 0m0.031s
+&lt;/code>&lt;/pre>&lt;h2 id="common-lisp-typed-with-no-safety">Common Lisp typed with no safety&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-cl" data-lang="cl">&lt;span style="display:flex;">&lt;span>(declaim (&lt;span style="color:#66d9ef">optimize&lt;/span> (speed &lt;span style="color:#ae81ff">3&lt;/span>) (safety &lt;span style="color:#ae81ff">0&lt;/span>) (debug &lt;span style="color:#ae81ff">0&lt;/span>)))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>(defun fibo (n)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#66d9ef">declare&lt;/span> (&lt;span style="color:#66d9ef">type&lt;/span> &lt;span style="color:#66d9ef">fixnum&lt;/span> n))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">&amp;lt;=&lt;/span> n &lt;span style="color:#ae81ff">2&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ae81ff">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#a6e22e">+&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (fibo (&lt;span style="color:#a6e22e">1-&lt;/span> n))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (fibo (&lt;span style="color:#a6e22e">1-&lt;/span> (&lt;span style="color:#a6e22e">1-&lt;/span> n))))))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>(&lt;span style="color:#a6e22e">write&lt;/span> (fibo &lt;span style="color:#ae81ff">40&lt;/span>))
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="sbcl-1">SBCL&lt;/h3>
+&lt;pre tabindex="0">&lt;code>[17:55:57]:~/lisp$ time sbcl --script fibo.lisp
+102334155
+real 0m0.765s
+user 0m0.696s
+sys 0m0.008s
+&lt;/code>&lt;/pre>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>In order from fastest to slowest:&lt;/p>
+&lt;ul>
+&lt;li>GCC with -O2: &lt;strong>0.230s&lt;/strong>&lt;/li>
+&lt;li>clang with -O2: &lt;strong>0.257s&lt;/strong>&lt;/li>
+&lt;li>Rust with optimization flag: &lt;strong>0.265s&lt;/strong>&lt;/li>
+&lt;li>Common Lisp typed with SBCL: &lt;strong>0.765s&lt;/strong>&lt;/li>
+&lt;li>PyPy3: &lt;strong>1.332s&lt;/strong>&lt;/li>
+&lt;li>Common Lisp untyped with SBCL: &lt;strong>2.081s&lt;/strong>&lt;/li>
+&lt;li>Python3.8: &lt;strong>20.983s&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "py-c-rust-cl-benchmark.md"
+})
+&lt;/script></description></item><item><title>Optimizing Infernojs Application for Performance</title><link>http://far.chickenkiller.com/computing/optimizing-infernojs-application-for-performance/</link><pubDate>Wed, 23 Feb 2022 12:53:55 +0330</pubDate><guid>http://far.chickenkiller.com/computing/optimizing-infernojs-application-for-performance/</guid><description>
+&lt;p>&lt;figure>
+&lt;img src="https://farooqkz.de1.hashbang.sh/count/tag.svg" alt="dot for stats" />
+&lt;/figure>&lt;/p>
+&lt;p>InfernoJS, &lt;del>a fork of ReactJS for mobile,&lt;/del> is very high performance Javascript UI framework. It has good features of ReactJS, except big community and support of Facebook. But unlike ReactJS which has a very bad performance comparing to many other UI frameworks, InfernoJS is fast and small. You might want to use your favorite search engine to find the benchmarks related to this topic.&lt;/p>
+&lt;p>You also might want to read &lt;strong>Why InfernoJS?&lt;/strong> section part of &lt;a href="https://blog.bananahackers.net/farooqkz/the-development-of-the-matrix-client-has-started" target="_blank">my post on BananaHackers blog&lt;/a> to read more why should you choose a framework, perhaps something like InfernoJS or ReactJS for your application instead of using no framework if your application or website is medium sized or big.&lt;/p>
+&lt;p>Of course, performance is not everything but when you are writing for weak hardwares such as &lt;a href="https://en.wikipedia.org/wiki/KaiOS" target="_blank">KaiOS&lt;/a> devices with only 512MB or even less memory(RAM) and dual core weak processors, that&amp;rsquo;s when performance matters.&lt;/p>
+&lt;p>This becomes even more important if you are writing an application which people would often use so it is wise to provide best possible user experience and one thing which matters now, is performance and thus longer battery life for users.&lt;/p>
+&lt;p>Now enough of lecturing! Here goes the tips you would like to consider when using InfernoJS to provide best possible performance.&lt;/p>
+&lt;p>I will update this post later and add more tips once I find more ways to optimize.&lt;/p>
+&lt;h3 id="use-jsx-optimization-flags">Use JSX optimization flags&lt;/h3>
+&lt;p>This is too obvious, I know. But let me remind you that you can further optimize your components using JSX flags such as &lt;code>$HasTextChildren&lt;/code>. There is a complete reference on InfernoJS website, &lt;a href="https://www.infernojs.org/docs/guides/optimizations" target="_blank">here&lt;/a>.&lt;/p>
+&lt;p>For example this component here:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">Name&lt;/span>({ &lt;span style="color:#a6e22e">firstname&lt;/span>, &lt;span style="color:#a6e22e">lastname&lt;/span> }) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> (
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">div&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">h3&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>{&lt;span style="color:#a6e22e">firstname&lt;/span>}&lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/h3&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">h3&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>{&lt;span style="color:#a6e22e">lastname&lt;/span>}&lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/h3&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/div&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> );
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Can be written like this which is more optimized:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">Name&lt;/span>({ &lt;span style="color:#a6e22e">firstname&lt;/span>, &lt;span style="color:#a6e22e">lastname&lt;/span> }) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> (
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">div&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">h3&lt;/span> &lt;span style="color:#a6e22e">$HasTextChildren&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>{&lt;span style="color:#a6e22e">firstname&lt;/span>}&lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/h3&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">h3&lt;/span> &lt;span style="color:#a6e22e">$HasTextChildren&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>{&lt;span style="color:#a6e22e">lastname&lt;/span>}&lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/h3&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/div&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> );
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>As you can see I have not written &lt;code>$HasNonKeyedChildren&lt;/code> for the &lt;code>&amp;lt;div&amp;gt;&lt;/code>. That&amp;rsquo;s because the compiler automatically does it for me whenever it can clearly see the children shape at compile time.&lt;/p>
+&lt;p>I could also write &lt;code>Name&lt;/code> component like this:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">Name&lt;/span>({ &lt;span style="color:#a6e22e">firstname&lt;/span>, &lt;span style="color:#a6e22e">lastname&lt;/span> }) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> (
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">div&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">h3&lt;/span> &lt;span style="color:#a6e22e">$HasVNodeChildren&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>{&lt;span style="color:#a6e22e">createTextVNode&lt;/span>(&lt;span style="color:#a6e22e">firstname&lt;/span>)}&lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/h3&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">h3&lt;/span> &lt;span style="color:#a6e22e">$HasVNodeChildren&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>{&lt;span style="color:#a6e22e">createTextVNode&lt;/span>(&lt;span style="color:#a6e22e">lastname&lt;/span>)}&lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/h3&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/div&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> );
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>While this definitely will have better performance than writing no flags, it is ugly and has a bit worse performance comparing to &lt;code>$HasTextChildren&lt;/code>.&lt;/p>
+&lt;p>The limitation about &lt;code>$HasTextChildren&lt;/code> is that you can use it only when the children is bare text. So you&amp;rsquo;ll have to go with &lt;code>$HasVNodeChildren&lt;/code> + &lt;code>createTextVnode()&lt;/code> sometimes; like when mixing text and other stuff together.&lt;/p>
+&lt;h3 id="functional-components-are-faster-a-bit">Functional components are faster, a bit&lt;/h3>
+&lt;p>In general, functional components are a bit faster than Class components. In Inferno you cannot use state with them and they&amp;rsquo;re stateless. This difference is usually only noticeable when you&amp;rsquo;ve got a LOT of them like thousands.&lt;/p>
+&lt;h3 id="final-words">Final words&lt;/h3>
+&lt;p>In this post I tried to share with you the knowledge I had about optimizing Inferno apps for performance. Do you know any other way? Let me know through comments!&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "optimizing-infernojs-application-for-performance.md"
+})
+&lt;/script></description></item><item><title>Second Session of Hormozgan Free Software Group</title><link>http://far.chickenkiller.com/computing/second-session-of-hormozgan-free-software-group/</link><pubDate>Tue, 22 Feb 2022 17:45:29 +0330</pubDate><guid>http://far.chickenkiller.com/computing/second-session-of-hormozgan-free-software-group/</guid><description>
+&lt;p>&lt;figure>
+&lt;img src="https://farooqkz.de1.hashbang.sh/count/tag.svg" alt="dot for stats" />
+&lt;/figure>&lt;/p>
+&lt;p>Yesterday, I was in the 2nd session of Hormozgan Free Software Group for people in Bandar Abbas, Hormozgan, Iran. It was a very good session and by the suggestion of my friend who was in the group, we played a simple Pythonic game.&lt;/p>
+&lt;p>The game was about saying a Python module which is either builtin or at least familiar to all the members. We were four in a Circle and each had to say a name in a turn based basis. It was no surprise that the author had won the game having the most years of experience with Python; from 2015.&lt;/p>
+&lt;p>The next game was a version of old hangman game except that a Python builtin callable was chosen. None of us could guess the word of one another and after that the time was over.&lt;/p>
+&lt;p>I&amp;rsquo;ve been thinking of a web based version of the first game but it would have no point or fun since anyone participating in the game with a tab of their favourite browser could open another tab and search for whatever module in PyPI.&lt;/p>
+&lt;p>These games and similar games about programming or computer science stuff could be played in other sessions too.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "second-session-of-hormozgan-free-software-group.md"
+})
+&lt;/script></description></item><item><title>Using KaiScr for taking screenshots and screen mirroring for KaiOS/FFOS</title><link>http://far.chickenkiller.com/computing/using-kaiscr/</link><pubDate>Mon, 17 Jan 2022 13:30:24 +0330</pubDate><guid>http://far.chickenkiller.com/computing/using-kaiscr/</guid><description>
+&lt;p>&lt;figure>
+&lt;img src="https://farooqkz.de1.hashbang.sh/count/tag.svg" alt="dot for stats" />
+&lt;/figure>&lt;/p>
+&lt;p>This video shows usage of my two scripts kailive.py and kaiscr.py. They&amp;rsquo;re hosted on &lt;a href="https://notabug.org/farooqkz/kaiscr" target="_blank">NotABug&lt;/a>&lt;/p>
+&lt;p>The video is now on &lt;a href="https://peertube.linuxrocks.online/w/1mzy1A3qgFxVpTKmWmot6H" target="_blank">PeerTube&lt;/a> and &lt;a href="https://www.youtube.com/watch?v=59DsLyKeeUk" target="_blank">Youtube&lt;/a>&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "using-kaiscr.md"
+})
+&lt;/script></description></item><item><title>C++ vs Common Lisp Performance</title><link>http://far.chickenkiller.com/computing/cpp-vs-common-lisp-performance/</link><pubDate>Mon, 17 Jan 2022 12:47:45 +0330</pubDate><guid>http://far.chickenkiller.com/computing/cpp-vs-common-lisp-performance/</guid><description>
+&lt;p>&lt;figure>
+&lt;img src="https://farooqkz.de1.hashbang.sh/count/tag.svg" alt="dot for stats" />
+&lt;/figure>&lt;/p>
+&lt;p>After I read a small paper named &lt;a href="http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf" target="_blank">How to make Lisp go faster than C&lt;/a> I decided to do some small benchmarking myself with C++ and Common Lisp. For benchmarking I have written programs which find prime numbers from 2 up to 384460. All programs were run on my laptop with the following specs and properties:&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="http://far.chickenkiller.com/farooqs-laptop-specs.png" alt="Specs of Farooq&amp;rsquo;s laptop" />
+&lt;/figure>&lt;/p>
+&lt;h4 id="c">C++&lt;/h4>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-cpp" data-lang="cpp">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">bool&lt;/span> &lt;span style="color:#a6e22e">isprime&lt;/span>(&lt;span style="color:#66d9ef">unsigned&lt;/span> &lt;span style="color:#66d9ef">long&lt;/span> n) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (n &lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>) &lt;span style="color:#66d9ef">return&lt;/span> false;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span> (&lt;span style="color:#66d9ef">unsigned&lt;/span> &lt;span style="color:#66d9ef">long&lt;/span> i &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>; i &lt;span style="color:#f92672">&amp;lt;&lt;/span> n; i&lt;span style="color:#f92672">++&lt;/span>) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (n&lt;span style="color:#f92672">%&lt;/span>i &lt;span style="color:#f92672">==&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>) &lt;span style="color:#66d9ef">return&lt;/span> false;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> true;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">int&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>() {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">unsigned&lt;/span> count &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span> (&lt;span style="color:#66d9ef">unsigned&lt;/span> &lt;span style="color:#66d9ef">long&lt;/span> i &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>; i &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">384460&lt;/span>; i&lt;span style="color:#f92672">++&lt;/span>) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (isprime(i)) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> count&lt;span style="color:#f92672">++&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> count;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>And the time this program took to find all prime numbers in the given range without optimizing(&lt;code>clang++ prime.cpp&lt;/code>):&lt;/p>
+&lt;pre tabindex="0">&lt;code>real 1m2.907s
+user 1m2.816s
+sys 0m0.084s
+&lt;/code>&lt;/pre>&lt;p>And with &lt;code>-O3&lt;/code> option:&lt;/p>
+&lt;pre tabindex="0">&lt;code>real 0m54.604s
+user 0m54.566s
+sys 0m0.008s
+&lt;/code>&lt;/pre>&lt;p>Also with &lt;code>-O2&lt;/code> option:&lt;/p>
+&lt;pre tabindex="0">&lt;code>real 0m53.953s
+user 0m53.953s
+sys 0m0.000s
+&lt;/code>&lt;/pre>&lt;h4 id="common-lisp-untyped">Common Lisp untyped&lt;/h4>
+&lt;p>Code:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-cl" data-lang="cl">&lt;span style="display:flex;">&lt;span>(defun isprime (n)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">&amp;lt;&lt;/span> n &lt;span style="color:#ae81ff">2&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">nil&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (loop for i from &lt;span style="color:#ae81ff">2&lt;/span> to (&lt;span style="color:#a6e22e">1-&lt;/span> n)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> when (&lt;span style="color:#a6e22e">zerop&lt;/span> (&lt;span style="color:#a6e22e">mod&lt;/span> n i))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> return &lt;span style="color:#66d9ef">nil&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> finally
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (return &lt;span style="color:#66d9ef">t&lt;/span>))))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>(defun main ()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (loop for i from &lt;span style="color:#ae81ff">2&lt;/span> to &lt;span style="color:#ae81ff">384460&lt;/span> &lt;span style="color:#a6e22e">count&lt;/span> (isprime i)))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>(main)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>And the time it took:&lt;/p>
+&lt;pre tabindex="0">&lt;code>real 2m0.889s
+user 2m0.805s
+sys 0m0.078s
+&lt;/code>&lt;/pre>&lt;p>Common Lisp typed and optimized&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-cl" data-lang="cl">&lt;span style="display:flex;">&lt;span>(declaim (&lt;span style="color:#66d9ef">optimize&lt;/span> (speed &lt;span style="color:#ae81ff">3&lt;/span>) (safety &lt;span style="color:#ae81ff">0&lt;/span>) (debug &lt;span style="color:#ae81ff">0&lt;/span>)))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>(defun isprime (n)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#66d9ef">declare&lt;/span> (&lt;span style="color:#66d9ef">type&lt;/span> &lt;span style="color:#66d9ef">fixnum&lt;/span> n))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">&amp;lt;&lt;/span> n &lt;span style="color:#ae81ff">2&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">nil&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (loop for i &lt;span style="color:#66d9ef">fixnum&lt;/span> from &lt;span style="color:#ae81ff">2&lt;/span> to (&lt;span style="color:#a6e22e">1-&lt;/span> n)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> when (&lt;span style="color:#a6e22e">zerop&lt;/span> (&lt;span style="color:#a6e22e">mod&lt;/span> n i))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> return &lt;span style="color:#66d9ef">nil&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> finally
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (return &lt;span style="color:#66d9ef">t&lt;/span>))))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>(defun main ()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (loop for i &lt;span style="color:#66d9ef">fixnum&lt;/span> from &lt;span style="color:#ae81ff">2&lt;/span> to &lt;span style="color:#ae81ff">384460&lt;/span> &lt;span style="color:#a6e22e">count&lt;/span> (isprime i)))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>(main)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>And the time it took:&lt;/p>
+&lt;pre tabindex="0">&lt;code>real 0m59.837s
+user 0m59.755s
+sys 0m0.070s
+&lt;/code>&lt;/pre>&lt;p>As you see according to these results CL typed and optimized code is a bit slower than the C++ version. However someone who helped me a lot in &lt;code>#clschool&lt;/code> on freenode reported that both C++ version and CL typed version ran in 21.6s.&lt;/p>
+&lt;p>&lt;strong>NOTE: I used SBCL for both typed and untyped versions&lt;/strong>&lt;/p>
+&lt;h4 id="thanks-to">Thanks to&lt;/h4>
+&lt;ul>
+&lt;li>People in #clschool who helped me&lt;/li>
+&lt;li>Didier Verna for his good paper&lt;/li>
+&lt;/ul>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "cpp-vs-common-lisp-performance.md"
+})
+&lt;/script></description></item><item><title>An Easy Way to Find Shell Servers Through Freenode</title><link>http://far.chickenkiller.com/computing/an-easy-way-to-find-shell-servers-through-freenode/</link><pubDate>Mon, 17 Jan 2022 12:33:26 +0330</pubDate><guid>http://far.chickenkiller.com/computing/an-easy-way-to-find-shell-servers-through-freenode/</guid><description>
+&lt;p>&lt;strong>Update 2023 Auguest 04&lt;/strong>&lt;/p>
+&lt;p>Someone reading this post in 2023 might wonder what is a shell server and what is it good for?&lt;/p>
+&lt;p>A shell server, is a server with a Unix-like OS(usually Linux) which provides shell access to its users with ssh. You have an account on the server with which you can learn Unix commands, play around and learn programming. Shell servers usually have a community of their own of programming and Linux(or Unix-like) enthusiasts.&lt;/p>
+&lt;p>Back then, they were usually providing a webspace, an email account, a shell account and some storage to keep all these. And you could run IRC bots on them. Nowadays, anyone can simply get free and fast hosting for their static website on providers like Github Pages, Gitlab Pages and so on. But back then, such these did not exist or were not widespread.&lt;/p>
+&lt;p>A good question is that, are shell servers and account still relevant as of 2023?&lt;/p>
+&lt;p>I am really unsure about this. But if you are on Windows and want to try some Linux or Unix CLI, shell servers can be a good choice to learn without having to download and launch Linux.&lt;/p>
+&lt;p>Or if you are on Linux, you can try some FreeBSD commands on a FreeBSD shell server.&lt;/p>
+&lt;hr>
+&lt;p>Other than &lt;a href="http://shells.red-pill.eu/" target="_blank">this website&lt;/a> and your favorite search engine, there is another way to find shell servers. Connect to freenode(it&amp;rsquo;s an &lt;a href="https://en.wikipedia.org/wiki/IRC" target="_blank">IRC&lt;/a> network). Then type this command and press enter: &lt;code>/msg alis list *shells&lt;/code> It will send you a list of IRC channels their name ending with &amp;ldquo;shells&amp;rdquo;, not all of them are IRC channels of shell servers nor all of them are free(as in price).&lt;/p>
+&lt;p>&lt;strong>Edit:&lt;/strong> Nowadays as of 2021 you might want to check &lt;a href="https://libera.chat" target="_blank">LiberaChat&lt;/a>, too.&lt;/p>
+&lt;p>&lt;strong>Edit2:&lt;/strong> I forgot to mention &lt;a href="https://tildeverse.org" target="_blank">tildeverse&lt;/a> which lists many tildes, or shell servers. Note that some of these come with non-Linux Unix-likes like BSDs! (As of time of writing this, of course)&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="http://far.chickenkiller.com/finding-shell-servers-using-freenode.jpg" alt="Finding shell servers using freenode image" />
+&lt;/figure>&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "an-easy-way-to-find-shell-servers-through-freenode.md"
+})
+&lt;/script></description></item></channel></rss>

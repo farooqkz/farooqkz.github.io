@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maths on Farooq's</title><link>http://far.chickenkiller.com/math/</link><description>Recent content in Maths on far.chickenkiller.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>(C) Some rights are reserved under CC-BY-SA 4.0 for Farooq Karimi Zadeh</copyright><lastBuildDate>Mon, 17 Jan 2022 13:38:33 +0330</lastBuildDate><atom:link href="http://far.chickenkiller.com/math/index.xml" rel="self" type="application/rss+xml"/><item><title>When a Quadratic equation does not have real roots</title><link>http://far.chickenkiller.com/math/when-a-quadratic-equation-does-not-have-real-roots/</link><pubDate>Mon, 17 Jan 2022 13:38:33 +0330</pubDate><guid>http://far.chickenkiller.com/math/when-a-quadratic-equation-does-not-have-real-roots/</guid><description>
-For any equation as $ax^2 + bx + c = 0$ we have $b^2 - 4ac$ or $\Delta$ smaller than zero thus having no real roots if:
-$a, c > |b|$ $a = b …</description></item><item><title>A math problem: enriching uranium!</title><link>http://far.chickenkiller.com/math/how-much-uranium/</link><pubDate>Mon, 17 Jan 2022 13:14:20 +0330</pubDate><guid>http://far.chickenkiller.com/math/how-much-uranium/</guid><description>
-The uranium enriching process is a simple yet hard process. We want to reach 3.5% uranium and we only have got 0.7% uranium. To achieve …</description></item><item><title>2^x+2^y=k</title><link>http://far.chickenkiller.com/math/2x-2y-k/</link><pubDate>Sun, 16 Jan 2022 21:49:16 +0330</pubDate><guid>http://far.chickenkiller.com/math/2x-2y-k/</guid><description>
-2x + 2y = k where x, y and k are positive integers and k is a constant. The question’s that for different values of k how many solution does …</description></item></channel></rss>
+&lt;p>For any equation as $ax^2 + bx + c = 0$ we have $b^2 - 4ac$ or $\Delta$ smaller than zero thus having no real roots if:&lt;/p>
+&lt;ol>
+&lt;li>$a, c &amp;gt; |b|$&lt;/li>
+&lt;li>$a = b = c$&lt;/li>
+&lt;li>$a = b$ and $c &amp;gt; b$ for any positive $b$. You can swap $a$ and $c$.&lt;/li>
+&lt;/ol>
+&lt;p>I have proved these but since it&amp;rsquo;s trivial, I did not write them here.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "when-a-quadratic-equation-does-not-have-real-roots.md"
+})
+&lt;/script></description></item><item><title>A math problem: enriching uranium!</title><link>http://far.chickenkiller.com/math/how-much-uranium/</link><pubDate>Mon, 17 Jan 2022 13:14:20 +0330</pubDate><guid>http://far.chickenkiller.com/math/how-much-uranium/</guid><description>
+&lt;p>&lt;figure>
+&lt;img src="https://farooqkz.de1.hashbang.sh/count/tag.svg" alt="dot for stats" />
+&lt;/figure>&lt;/p>
+&lt;p>The uranium enriching process is a simple yet hard process. We want to reach 3.5% uranium and we only have got 0.7% uranium. To achieve this goal, we should feed the uranium to a centrifuge. For each 2 units of x% uranium which we feeds to the centrifuge, we gets 1 unit of (x-0.1)% and 1 unit of (x+0.1)% uranium. For example a unit of 0.6% and a unit of 0.8% for 2 units of 0.7%. 0.0% uranium will be discarded. Units are always positive integer and we cannot feed 1 unit of uranium, like to get two $ \frac{1}{2} $ unit.&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="http://far.chickenkiller.com/uranium-enriching.png" alt="Enriching uranium" />
+&lt;/figure>&lt;/p>
+&lt;p>So to reach 3.5% uranium, 3 questions get raised:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Will we be able to produce 3.5% uranium from $m$ units of 0.7% uranium?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>For $m$ units of 0.7% uranium how many units of 3.5% uranium can we produce?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If with some units of 0.7% uranium, we cannot produce at least a unit of 3.5% uranium, what is the richest which we can produce?&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>You can solve these questions either by your math skills or your coding skills. Good luck :)&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "how-much-uranium.md"
+})
+&lt;/script></description></item><item><title>2^x+2^y=k</title><link>http://far.chickenkiller.com/math/2x-2y-k/</link><pubDate>Sun, 16 Jan 2022 21:49:16 +0330</pubDate><guid>http://far.chickenkiller.com/math/2x-2y-k/</guid><description>
+&lt;p>2&lt;!-- raw HTML omitted -->x&lt;!-- raw HTML omitted --> + 2&lt;!-- raw HTML omitted -->y&lt;!-- raw HTML omitted --> = k where x, y and k are positive integers and k is a constant. The question&amp;rsquo;s that for different values of k how many solution does our equation have? For any odd k there is no solution and for positive powers of 2 there is one. We want a general solution for this equation.&lt;/p>
+&lt;h3 id="solution-by-susam-pal">Solution by Susam Pal&lt;/h3>
+&lt;p>We will take this fact for granted: Every positive integer can be uniquely expressed as the sum of distinct powers of 2. In other words, every positive integer has a unique binary representation.&lt;/p>
+&lt;p>Now consider the case where x = y. Let m = x = y. Then k = 2&lt;!-- raw HTML omitted -->m&lt;!-- raw HTML omitted --> + 2&lt;!-- raw HTML omitted -->m&lt;!-- raw HTML omitted --> = 2&lt;!-- raw HTML omitted -->(m+1)&lt;!-- raw HTML omitted -->. Further, if k = 2&lt;!-- raw HTML omitted -->(m+1)&lt;!-- raw HTML omitted --> where m &amp;gt; 1, x = y = m is a solution. There cannot be a solution in which x != y because that would result in another binary representation of k apart from the existing representation of 2&lt;!-- raw HTML omitted -->(m+1)&lt;!-- raw HTML omitted --> which would contradict the uniqueness of the binary representation of k. Therefore there must be exactly 1 solution when k is a positive power of 2.&lt;/p>
+&lt;p>Now consider the case where x != y. Let x = m and y = n. Then k = 2&lt;!-- raw HTML omitted -->m&lt;!-- raw HTML omitted --> + 2&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> = 2&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> + 2&lt;!-- raw HTML omitted -->m&lt;!-- raw HTML omitted -->. Thus both (x = m, y = n) and (x = n, y = m) are solutions. There cannot be a solution in which x = y because that would lead to k = 2&lt;!-- raw HTML omitted -->(x+1)&lt;!-- raw HTML omitted --> which violates the uniqueness of the binary representation of k. Also, there cannot be another solution in which either x or y does not belong to {m, n} because that would too violate the uniqueness of the binary representation of k. We conclude that there must be exactly 2 solutions when k is a sum of two distinct positive powers of 2.&lt;/p>
+&lt;p>For any other positive integer k, no solutions are possible. We can show this by contradiction. Let k be such that it is neither a positive power of 2 nor a sum of two distinct positive powers of 2. If we assume that a solution exists for such k, then we have two positive integers x and y such that 2&lt;!-- raw HTML omitted -->x&lt;!-- raw HTML omitted --> + 2&lt;!-- raw HTML omitted -->y&lt;!-- raw HTML omitted --> = k. If x = y, it contradicts the fact that k is not a positive power of 2. If x != y, it contradicts the fact that k is a sum of two distinct positive powers of 2.&lt;/p>
+&lt;p>Thus, we can conclude that the equation has exactly 1 solution when k is a positive power of 2, 2 solutions when k is a sum of two distinct positive powers of 2, no solutions otherwise.&lt;/p>
+&lt;script type="text/javascript" src="http://far.chickenkiller.com/cactus.js">&lt;/script>
+&lt;link rel="stylesheet" href="http://far.chickenkiller.com/style.css" type="text/css">
+&lt;div id="comment-section">&lt;/div>
+&lt;script>
+window.onload = () => initComments({
+node: document.getElementById("comment-section"),
+defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+serverName: "cactus.chat",
+siteName: "far.chickenkiller.com",
+commentSectionId: "2x-2y-k.md"
+})
+&lt;/script></description></item></channel></rss>
