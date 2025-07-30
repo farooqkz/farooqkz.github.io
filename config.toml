@@ -51,7 +51,7 @@ keywords = ["Farooq", "Farooq Karimi Zadeh", "farooqkz"]
 math = true
 favicon = true
 avatar = "/mylogo0.png"
-
+fullRSS = true
 mainSections = ["computing", "religion", "misc", "math"]
 
 [[menu.main]]
